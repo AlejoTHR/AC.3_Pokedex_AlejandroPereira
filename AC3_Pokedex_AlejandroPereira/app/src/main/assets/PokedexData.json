@@ -1,0 +1,5958 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "height": 7,
+    "weight": 69,
+    "stats": [
+      45,
+      49,
+      49,
+      65,
+      65,
+      45
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うまれたときから せなかに\nふしぎな タネが うえてあって\nからだと ともに そだつという。",
+      "태어났을 때부터 등에\n이상한 씨앗이 심어져 있으며\n몸과 함께 자란다고 한다.",
+      "Il a une étrange graine plantée sur son dos.\nElle grandit avec lui depuis sa naissance.",
+      "Dieses Pokémon trägt von Geburt an einen Samen\nauf dem Rücken, der mit ihm keimt und wächst.",
+      "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon.",
+      "Alla nascita gli è stato piantato sulla schiena un seme\nraro. La pianta sboccia e cresce con lui.",
+      "A strange seed was planted on its back at birth.\nThe plant sprouts and grows with this Pokémon.",
+      "生まれたときから 背中に\n不思議な タネが 植えてあって\n体と ともに 育つという。",
+      "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "height": 10,
+    "weight": 130,
+    "stats": [
+      60,
+      62,
+      63,
+      80,
+      80,
+      60
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "つぼみが せなかに ついていて\nようぶんを きゅうしゅうしていくと\nおおきな はなが さくという。",
+      "꽃봉오리가 등에 붙어 있으며\n양분을 흡수해가면\n커다란 꽃이 핀다고 한다.",
+      "Il y a un bulbe sur son dos. On dit que s’il absorbe\nassez de nutriments, ce bulbe se transforme en\nune jolie fleur.",
+      "Es trägt eine Knospe auf seinem Rücken. Nimmt es\nNahrung zu sich, soll aus der Knospe eine große\nblühende Blume werden.",
+      "Este Pokémon tiene un bulbo en el lomo. Dicen que,\nal absorber nutrientes, el bulbo se transforma en una\nflor grande.",
+      "Dopo aver assorbito sufficienti sostanze nutrienti,\nil bulbo sulla schiena sboccia in un magnifico fiore.",
+      "There is a plant bulb on its back.\nWhen it absorbs nutrients, the bulb is said to\nblossom into a large flower.",
+      "つぼみが 背中に ついていて\n養分を 吸収していくと\n大きな 花が 咲くという。",
+      "Este Pokémon tiene un bulbo en el lomo. Dicen que,\nal absorber nutrientes, el bulbo se transforma en una\nflor grande."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "height": 20,
+    "weight": 1000,
+    "stats": [
+      80,
+      82,
+      83,
+      100,
+      100,
+      80
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おおきな はなびらを ひろげ\nたいようの ひかりを あびていると\nからだに げんきが みなぎっていく。",
+      "큰 꽃잎을 펼쳐\n햇빛을 받고 있으면\n몸에 힘이 넘쳐흐른다.",
+      "Ses pétales lui servent à capter la lumière du soleil.\nIl peut ainsi en canaliser l’énergie.",
+      "Es spreizt die breiten Blätter seiner Blüte,\num seinen Körper mit Sonnenenergie\nzu durchfluten.",
+      "Llena su cuerpo de energía con los rayos solares que\ncaptan los anchos pétalos de su flor.",
+      "Si riempie di energia grazie ai grandi petali del fiore,\nche spalanca catturando i raggi solari.",
+      "By spreading the broad petals of its flower\nand catching the sun’s rays, it fills its body\nwith power.",
+      "大きな 花びらを 広げ\n太陽の 光を 浴びていると\n体に 元気が みなぎっていく。",
+      "Llena su cuerpo de energía con los rayos solares que\ncaptan los anchos pétalos de su flor."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "height": 6,
+    "weight": 85,
+    "stats": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しっぽの ほのおは ヒトカゲの\nせいめいりょくの あかし。\nげんきだと さかんに もえさかる。",
+      "꼬리의 불꽃은 파이리의\n생명력의 상징이다.\n건강할 때 왕성하게 불타오른다.",
+      "La flamme sur sa queue représente l’énergie vitale\nde Salamèche. Quand il est vigoureux, elle brûle plus\nfort.",
+      "Die Flamme auf seiner Schweifspitze zeigt die\nLebensenergie an. Ist es gesund, leuchtet sie hell.",
+      "La llama de su cola indica la fuerza vital de\nCharmander. Será brillante si está sano.",
+      "La fiamma che Charmander ha sulla coda indica la\nsua forza vitale. Se è in forma, la fiamma è vivace.",
+      "The flame on its tail indicates Charmander’s life\nforce. If it is healthy, the flame burns brightly.",
+      "尻尾の 炎は\nヒトカゲの 生命力の 証。\n元気だと さかんに 燃えさかる。",
+      "La llama de su cola indica la fuerza vital de\nCharmander. Será brillante si está sano."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "height": 11,
+    "weight": 190,
+    "stats": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しっぽを ふりまわして あいてを\nなぎたおし するどい ツメで\nズタズタに ひきさいてしまう。",
+      "꼬리를 휘둘러 상대를\n쓰러트리고 날카로운 발톱으로\n갈기갈기 찢어버린다.",
+      "Il se sert de sa queue pour faire tomber ses\nadversaires. Une fois qu’ils sont au sol, il les lacère\nde ses griffes acérées.",
+      "Es schlägt im Kampf mit seinem Schwanz nach\nseinen Gegnern. Anschließend zerfetzt es\ndie Gegner mit seinen scharfen Klauen.",
+      "Suele usar la cola para derribar a su rival. Cuando lo\ntira, se vale de sus afiladas garras para acabar con él.",
+      "Fa cadere a terra il nemico colpendolo con la coda,\nper poi finirlo con gli artigli affilati.",
+      "It lashes about with its tail to knock down its foe.\nIt then tears up the fallen opponent with\nsharp claws.",
+      "尻尾を 振り回して\n相手を なぎ倒し 鋭い ツメで\nズタズタに ひきさいてしまう。",
+      "Suele usar la cola para derribar a su rival. Cuando lo\ntira, se vale de sus afiladas garras para acabar con él."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "height": 17,
+    "weight": 905,
+    "stats": [
+      78,
+      84,
+      78,
+      109,
+      85,
+      100
+    ],
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くちから しゃくねつの ほのおを\nはきだすとき しっぽの さきは\nより あかく はげしく もえあがる。",
+      "입에서 작렬하는 불꽃을\n토해낼 때 꼬리의 끝이\n더욱 붉고 격렬하게 타오른다.",
+      "Quand il crache son souffle brûlant, la flamme au bout\nde sa queue s’embrase.",
+      "Wenn dieses Pokémon einen Strahl glühenden\nFeuers speit, leuchtet seine Schwanzspitze auf.",
+      "Cuando lanza una descarga de fuego supercaliente, la\nroja llama de su cola brilla más intensamente.",
+      "Quando emette le sue lingue di fuoco, la fiamma\nrossa sulla punta della coda brucia più intensamente.",
+      "When expelling a blast of superhot fire,\nthe red flame at the tip of its tail burns\nmore intensely.",
+      "口から 灼熱の 炎を 吐き出すとき\n尻尾の 先は\nより 赤く 激しく 燃え上がる。",
+      "Cuando lanza una descarga de fuego supercaliente, la\nroja llama de su cola brilla más intensamente."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "height": 5,
+    "weight": 90,
+    "stats": [
+      44,
+      48,
+      65,
+      50,
+      64,
+      43
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "こうらに とじこもり みを まもる。\nあいての すきを みのがさず\nみずを ふきだして はんげきする。",
+      "등껍질에 숨어 몸을 보호한다.\n상대의 빈틈을 놓치지 않고\n물을 뿜어내어 반격한다.",
+      "Il se réfugie dans sa carapace et réplique en\néclaboussant l’ennemi à la première occasion.",
+      "Es zieht sich in seinen Panzer zurück und greift\ndann mit Wasserstrahlen seine Gegner an.",
+      "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad.",
+      "Si ritira nel suo guscio e, alla prima occasione,\ncontrattacca colpendo il nemico con spruzzi d’acqua.",
+      "It shelters itself in its shell, then strikes back\nwith spouts of water at every opportunity.",
+      "甲羅に 閉じこもり 身を 守る。\n相手の すきを 見逃さず\n水を 噴き出して 反撃する。",
+      "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "height": 10,
+    "weight": 225,
+    "stats": [
+      59,
+      63,
+      80,
+      65,
+      80,
+      58
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ポカンと あたまを たたかれるとき\nこうらに ひっこんで よける。でも\nちょっとだけ しっぽが でているよ。",
+      "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다.",
+      "Attaqué, il cache sa tête dans sa carapace, mais\nson corps trop gros ne peut y tenir en entier.",
+      "Bei Gefahr zieht dieses Pokémon seinen Kopf ein.\nDie Schwanzspitze ragt jedoch aus dem Panzer\nheraus.",
+      "Si es golpeado, esconderá su cabeza. Aun así, su cola\npuede seguir golpeando.",
+      "Quando si sente minacciato ritira la testa nella\ncorazza, mentre la coda sporge sempre un po’.",
+      "When tapped, this Pokémon will pull in its head,\nbut its tail will still stick out a little bit.",
+      "ポカンと 頭を たたかれるとき\n甲羅に 引っこんで 避ける。でも\nちょっとだけ 尻尾が 出ているよ。",
+      "Si es golpeado, esconderá su cabeza. Aun así, su cola\npuede seguir golpeando."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "height": 16,
+    "weight": 855,
+    "stats": [
+      79,
+      83,
+      100,
+      85,
+      105,
+      78
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだが おもたく のしかかって\nあいてを きぜつさせる。\nピンチの ときは カラに かくれる。",
+      "무거운 몸으로 상대를\n덮쳐서 기절시킨다.\n위기에 처하면 등껍질에 숨는다.",
+      "Il écrase ses adversaires de tout son poids pour leur\nfaire perdre connaissance. Il rentre dans sa carapace\ns’il se sent en danger.",
+      "Es begräbt seine Gegner mit seinem enormen\nKörpergewicht. Wenn es in einer aussichtslosen\nLage steckt, zieht es sich in seinen Panzer zurück.",
+      "Para acabar con su enemigo, lo aplasta con el peso de\nsu cuerpo. En momentos de apuro, se esconde en el\ncaparazón.",
+      "Mette KO gli avversari schiacciandoli sotto il corpo\npossente. Se è in difficoltà, può ritrarsi nella corazza.",
+      "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
+      "体が 重たく のしかかって\n相手を 気絶させる。\nピンチのときは 殻に 隠れる。",
+      "Para acabar con su enemigo, lo aplasta con el peso de\nsu cuerpo. En momentos de apuro, se esconde en el\ncaparazón."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "height": 3,
+    "weight": 29,
+    "stats": [
+      45,
+      30,
+      35,
+      20,
+      20,
+      45
+    ],
+    "type": [
+      "bug"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あたまの しょっかく から\nきょうれつな においを だして\nてきを おいはらい みをまもる。",
+      "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다.",
+      "Pour se protéger, il émet un gaz puant par ses\nantennes, qui fait fuir ses ennemis audacieux.",
+      "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab.",
+      "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos.",
+      "Per proteggersi emette un puzzo terribile\ndall’antenna sul capo, tenendo lontani i nemici.",
+      "For protection, it releases a horrible stench from\nthe antennae on its head to drive away enemies.",
+      "頭の 触覚から\n強烈な においを 出して\n敵を 追い払い 身を守る。",
+      "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "height": 7,
+    "weight": 99,
+    "stats": [
+      50,
+      20,
+      55,
+      25,
+      25,
+      30
+    ],
+    "type": [
+      "bug"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "こうてつのように かたい カラで\nやわらかい なかみを まもっている。\nしんかするまで じっと たえている。",
+      "강철같이 단단한 껍질로\n부드러운 몸을 보호하고 있다.\n진화할 때까지 가만히 참고 있다.",
+      "Son corps frêle est protégé par sa carapace d’acier.\nIl encaisse les coups durs en attendant d’évoluer.",
+      "Der stahlharte Panzer schützt seinen zarten Körper.\nEs wartet geduldig auf seine Entwicklung.",
+      "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo.",
+      "Ha una corazza dura come l’acciaio che protegge\nil suo fragile corpo. Attende immobile di evolversi.",
+      "A steel-hard shell protects its tender body.\nIt quietly endures hardships while\nawaiting evolution.",
+      "鋼鉄のように 硬い 殻で\nやわらかい 中身を 守っている。\n進化するまで じっと 耐えている。",
+      "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "height": 11,
+    "weight": 320,
+    "stats": [
+      60,
+      45,
+      50,
+      90,
+      80,
+      70
+    ],
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はなの ミツが だいこうぶつ。\nわずかな かふんで はなばたけの\nばしょを さがしだすことが できる。",
+      "꽃의 꿀을 매우 좋아한다.\n약간의 꽃가루만으로 꽃밭이\n있는 장소를 찾아낼 수 있다.",
+      "Il raffole du nectar des fleurs. Il est capable de\nrepérer la plus petite quantité de pollen.",
+      "Es liebt Blütenhonig. Es findet selbst Blumen,\ndie sehr wenig Pollen haben.",
+      "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen.",
+      "Adora il nettare dei fiori e riesce a localizzare i campi\nin cui si trova anche una minima quantità di polline.",
+      "It loves the honey of flowers and can locate\nflower patches that have even tiny amounts\nof pollen.",
+      "花の ミツが 大好物。\nわずかな 花粉で 花畑の\n場所を 探し出すことが できる。",
+      "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "height": 3,
+    "weight": 32,
+    "stats": [
+      40,
+      35,
+      30,
+      20,
+      20,
+      50
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "もりや くさちに おおく せいそく。\nあたまの さきに ５センチぐらいの\nちいさく するどい どくばりをもつ。",
+      "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다.",
+      "On trouve souvent ce Pokémon dans les forêts et\nles hautes herbes. L’aiguillon de 5 cm sur sa tête\ncontient un venin très toxique.",
+      "Es lebt bevorzugt in Wäldern und in hohem Gras.\nAuf dem Kopf trägt es einen circa 5 cm langen,\nspitzen, giftigen Stachel.",
+      "Suele habitar bosques y praderas. Tiene un afilado y\nvenenoso aguijón de unos 5 cm encima de la cabeza.",
+      "Vive soprattutto nei boschi e nei prati. Sul capo ha\nun affilato e velenoso pungiglione lungo 5 cm.",
+      "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
+      "森や 草地に 多く 生息。\n頭の 先に ５センチぐらいの\n小さく 鋭い 毒針を持つ。",
+      "Suele habitar bosques y praderas. Tiene un afilado y\nvenenoso aguijón de unos 5 cm encima de la cabeza."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "height": 6,
+    "weight": 100,
+    "stats": [
+      45,
+      25,
+      50,
+      25,
+      25,
+      35
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "じぶんでは ほとんど うごけないが\nあぶないときは かたくなって\nみを まもっているようだ。",
+      "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다.",
+      "Incapable de se déplacer de lui-même, il se défend en\ndurcissant sa carapace.",
+      "Dieses Pokémon kann sich kaum bewegen.\nBei drohender Gefahr verhärtet es seinen Panzer.",
+      "Casi incapaz de moverse, este Pokémon solo puede\nendurecer su caparazón para protegerse.",
+      "Quasi incapace di muoversi, questo Pokémon può\nsolo indurire il proprio guscio per proteggersi.",
+      "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
+      "自分では ほとんど 動けないが\n危ないときは 硬くなって\n身を守っているようだ。",
+      "Casi incapaz de moverse, este Pokémon solo puede\nendurecer su caparazón para protegerse."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "height": 10,
+    "weight": 295,
+    "stats": [
+      65,
+      90,
+      40,
+      45,
+      80,
+      75
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "りょうてと おしりにある ３ぼんの\nどくばりで あいてを さして さして\nさしまくって こうげきする。",
+      "양손과 엉덩이에 있는 3개의\n독침으로 상대를 찌르고 찌르고\n또 찌르며 공격한다.",
+      "Il se sert de ses trois aiguillons empoisonnés pour\nattaquer sans relâche ses adversaires.",
+      "Dieses Pokémon verfügt über drei Giftstachel.\nEs kann seine Gegner damit wiederholt stechen.",
+      "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces.",
+      "Possiede tre aculei velenosi sulle zampe anteriori e\nsull’addome con cui punge i nemici ripetutamente.",
+      "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
+      "両手と お尻にある ３本の 毒針で\n相手を 刺して 刺して\n刺しまくって 攻撃する。",
+      "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "height": 3,
+    "weight": 18,
+    "stats": [
+      40,
+      45,
+      40,
+      35,
+      35,
+      56
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "もりや はやしに おおく ぶんぷ。\nちじょうでも はげしく はばたいて\nすなを かけたりする。",
+      "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다.",
+      "On l’aperçoit souvent dans les forêts. Avec ses ailes,\nil brasse l’air près du sol pour projeter du sable.",
+      "Ein vorwiegend in Wäldern lebendes Pokémon,\ndas zur Verteidigung mit den Flügeln Sand aufwirbelt.",
+      "Muy común en bosques y selvas. Aletea al nivel del\nsuelo para levantar la gravilla.",
+      "Molto comune in boschi e foreste, sbatte le ali a\nlivello del suolo per sollevare sabbia accecante.",
+      "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
+      "森や 林に 多く 分布。\n地上でも 激しく はばたいて\n砂を かけたりする。",
+      "Muy común en bosques y selvas. Aletea al nivel del\nsuelo para levantar la gravilla."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "height": 11,
+    "weight": 300,
+    "stats": [
+      63,
+      60,
+      55,
+      50,
+      50,
+      71
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あしの ツメが はったつしている。\nエサの タマタマを つかんで\n１００キロさきの す まで はこぶ。",
+      "발톱이 발달해 있다.\n먹이인 아라리를 잡아\n100km 떨어져 있는 둥지까지 나른다.",
+      "Grâce à ses griffes très puissantes, il est capable\nde transporter des Noeunoeuf vers un nid éloigné\nde plus de 100 km.",
+      "Die Krallen an seinen Füßen sind sehr ausgeprägt.\nEs kann sogar ein Owei zu seinem Nest\nin 100 km Entfernung tragen.",
+      "Tiene unas garras desarrolladas. Puede atrapar un\nExeggcute y transportarlo desde una distancia de\ncasi 100 km.",
+      "Grazie ai potenti artigli può trasportare una preda\ndelle dimensioni di un Exeggcute per oltre 100 km.",
+      "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
+      "足の ツメが 発達している。\nエサの タマタマを つかんで\n１００キロ先の 巣まで 運ぶ。",
+      "Tiene unas garras desarrolladas. Puede atrapar un\nExeggcute y transportarlo desde una distancia de\ncasi 100 km."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "height": 15,
+    "weight": 395,
+    "stats": [
+      83,
+      80,
+      75,
+      70,
+      70,
+      101
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "エサを さがすとき すいめん\nすれすれを すべるように とんで\nコイキングなどを わしづかみにする。",
+      "먹이를 찾을 때 수면을\n아슬아슬하게 미끄러지듯 날아\n잉어킹 등을 움켜잡는다.",
+      "Il survole la surface de l’eau pour repérer une proie\net plonge en piqué pour l’attraper.",
+      "Dieses Pokémon schnellt bei der Jagd blitzschnell\nunter Wasser, um seine ahnungslose Beute zu fangen.",
+      "Cuando caza, vuela muy deprisa a ras del agua y\nsorprende a inocentes presas como Magikarp.",
+      "Quando caccia, vola velocissimo sul pelo dell’acqua\ne cattura ignare prede come Magikarp.",
+      "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
+      "エサを 探すとき 水面 すれすれを\n滑るように 飛んで\nコイキングなどを わしづかみにする。",
+      "Cuando caza, vuela muy deprisa a ras del agua y\nsorprende a inocentes presas como Magikarp."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "height": 3,
+    "weight": 35,
+    "stats": [
+      30,
+      56,
+      35,
+      25,
+      35,
+      72
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "たべるものが あるところなら\nどこにだって せいそくする。\n１にちじゅう エサを さがしている。",
+      "먹을 것이 있는 곳이라면\n어디서든 서식한다.\n온종일 먹이를 찾아다닌다.",
+      "Vivant là où se trouve la nourriture, ce charognard\npasse ses journées à la rechercher.",
+      "Es baut sein Nest, wo es Futter findet. Es ist den\nganzen Tag auf der Suche nach etwas Essbarem.",
+      "Vive allí donde haya comida disponible. Busca todo\nel día, sin descanso, algo comestible.",
+      "Vive ovunque si trovi del cibo, cercando\nincessantemente qualsiasi cosa sia commestibile.",
+      "Living wherever there is food available,\nit ceaselessly scavenges for edibles\nthe entire day.",
+      "食べるものが あるところなら\nどこにだって 生息する。\n１日中 エサを 探している。",
+      "Vive allí donde haya comida disponible. Busca todo\nel día, sin descanso, algo comestible."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "height": 7,
+    "weight": 185,
+    "stats": [
+      55,
+      81,
+      60,
+      50,
+      70,
+      97
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "のびつづける まえばを けずるため\nかたい ものを かじる しゅうせい。\nブロックべいも かじって こわす。",
+      "계속 자라는 앞니를 갈아내려고\n딱딱한 것을 갉는 습성이 있다.\n벽돌로 된 벽도 갉아서 부순다.",
+      "Il grignote sans cesse pour apaiser la poussée de ses\ncrocs. Il peut transpercer un mur de parpaings.",
+      "Es wetzt seine ständig wachsenden Zähne an\nharten Dingen. Es kann Wände aus Beton zernagen.",
+      "Lima sus colmillos royendo objetos duros. Con ellos\npuede destruir incluso paredes de hormigón.",
+      "Si affila le zanne in perenne crescita rosicchiando\ncose dure. Riesce a frantumare persino i muri.",
+      "It whittles its constantly growing fangs by gnawing\non hard things. It can chew apart cinder walls.",
+      "伸び続ける 前歯を 削るため\n硬い ものを かじる 習性。\nブロック塀も かじって 壊す。",
+      "Lima sus colmillos royendo objetos duros. Con ellos\npuede destruir incluso paredes de hormigón."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "height": 3,
+    "weight": 20,
+    "stats": [
+      40,
+      60,
+      30,
+      31,
+      31,
+      70
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "じぶんの テリトリーを まもるため\nみじかいハネを はばたかせ\nいそがしく とびまわっている。",
+      "자신의 영역을 지키기 위해\n작은 날개를 쳐서\n바쁘게 주위를 날아 맴돈다.",
+      "Très protecteur de son territoire, il bat vite des ailes\npour se déplacer à toute allure.",
+      "Es beschützt sein Gebiet stets vor Eindringlingen.\nDaher fliegt es ständig wild umher.",
+      "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad.",
+      "Molto geloso del suo territorio, svolazza in giro\na gran velocità battendo le ali continuamente.",
+      "Very protective of its territory, it flaps its short\nwings busily to dart around at high speed.",
+      "自分の テリトリーを 守るため\n短い 羽を はばたかせて\n忙しく 飛び回っている。",
+      "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "height": 12,
+    "weight": 380,
+    "stats": [
+      65,
+      90,
+      65,
+      61,
+      61,
+      100
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おおきな つばさで おおぞらを\nとびつづけることが できる。\n１かいも おりなくても へいきだ。",
+      "커다란 날개로 넓은 하늘을\n계속 날 수 있다.\n한 번도 내려앉지 않아도 괜찮다.",
+      "Ses ailes géantes lui permettent de voler sur de\nlongues distances sans qu’il ait besoin de se reposer.",
+      "Mit seinen riesigen Flügeln kann dieses Pokémon\nnahezu pausenlos in der Luft bleiben.",
+      "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar.",
+      "Con le sue enormi e magnifiche ali, è in grado di\nvolare senza mai atterrare per riposarsi.",
+      "With its huge and magnificent wings, it can keep\naloft without ever having to land for rest.",
+      "大きな 翼で 大空を\n飛び続けることが できる。\n１回も 降りなくても 平気だ。",
+      "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "height": 20,
+    "weight": 69,
+    "stats": [
+      35,
+      60,
+      44,
+      40,
+      54,
+      55
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "そだつほどに どんどん ながくなる。\nそして よなかは きのえだに\nグルグルと からまって やすむ。",
+      "성장할수록 점점 길어진다.\n밤에는 나뭇가지에\n몸을 돌돌 말고 쉰다.",
+      "Plus il est âgé, plus son corps est long. Il se love\nautour des arbres pour se reposer.",
+      "Mit dem Alter wird der Körper dieses Pokémon\nimmer länger. Es schläft um Äste gewickelt.",
+      "Cuanto más viejo, más crece este Pokémon. Por la\nnoche, descansa en las ramas de los árboles.",
+      "Con il tempo si fa sempre più lungo. La notte avvolge\nil suo corpo attorno a qualche ramo per dormire.",
+      "The older it gets, the longer it grows.\nAt night, it wraps its long body around\ntree branches to rest.",
+      "育つほどに どんどん 長くなる。\nそして 夜中は 木の枝に\nグルグルと 絡まって 休む。",
+      "Cuanto más viejo, más crece este Pokémon. Por la\nnoche, descansa en las ramas de los árboles."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "height": 35,
+    "weight": 650,
+    "stats": [
+      60,
+      95,
+      69,
+      65,
+      79,
+      80
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おなかの もようが こわいかおに\nみえる。よわいてきは そのもようを\nみただけで にげだしてしまう。",
+      "배의 무늬가 무서운 얼굴로\n보인다. 약한 적은 그 무늬만\n보고도 도망치고 만다.",
+      "Les motifs sur son corps ressemblent à un visage\nmenaçant. Les adversaires les plus craintifs fuient à la\nseule vue de ce Pokémon.",
+      "Das Muster auf seinem Bauch ähnelt einer Fratze.\nSchwache Gegner nehmen bereits beim Anblick\nReißaus.",
+      "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo.",
+      "Il disegno sulla pancia rappresenta una faccia\nspaventosa, capace di far fuggire i nemici più pavidi.",
+      "The pattern on its belly appears to be a frightening\nface. Weak foes will flee just at the sight of\nthe pattern.",
+      "お腹の 模様が 怖い 顔に 見える。\n弱い 敵は その模様を\n見ただけで 逃げ出してしまう。",
+      "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "height": 4,
+    "weight": 60,
+    "stats": [
+      35,
+      55,
+      40,
+      50,
+      50,
+      90
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しっぽを たてて まわりの\nようすを さぐっていると ときどき\nかみなりが しっぽに おちてくる。",
+      "꼬리를 세우고 주변의\n상황을 살피다 보면 가끔\n꼬리에 번개가 친다.",
+      "Il élève sa queue pour surveiller les environs.\nElle attire souvent la foudre dans cette position.",
+      "Es streckt seinen Schweif nach oben, um seine\nUmgebung zu prüfen. Häufig fährt ein Blitz hinein.",
+      "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose.",
+      "Solleva la coda per esaminare l’ambiente circostante.\nA volte la coda è colpita da un fulmine quando è in\nquesta posizione.",
+      "It raises its tail to check its surroundings.\nThe tail is sometimes struck by lightning\nin this pose.",
+      "尻尾を 立てて まわりの 様子を\n探っていると ときどき\n雷が 尻尾に 落ちてくる。",
+      "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "height": 8,
+    "weight": 300,
+    "stats": [
+      60,
+      90,
+      55,
+      90,
+      80,
+      110
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "でんきが たまってくると\nきんにくが しげきされ いつもより\nこうげきてきに なってしまう。",
+      "전기가 모이면\n근육이 자극되어 여느 때보다\n공격적이 된다.",
+      "Quand il se charge en électricité, ses muscles se\ncontractent et il devient plus agressif.",
+      "Wenn es sich auflädt, zucken seine Muskeln\nund es wird aggressiver und kampflustiger.",
+      "Cuando se carga de electricidad, sus músculos se\ntensan y se vuelve más agresivo de lo normal.",
+      "Se l’elettricità aumenta, i muscoli sono sollecitati\ne diventa più aggressivo del solito.",
+      "When its electricity builds, its muscles are stimulated,\nand it becomes more aggressive than usual.",
+      "電気が たまってくると\n筋肉が 刺激され\nいつもより 攻撃的に なってしまう。",
+      "Cuando se carga de electricidad, sus músculos se\ntensan y se vuelve más agresivo de lo normal."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "height": 6,
+    "weight": 120,
+    "stats": [
+      50,
+      75,
+      85,
+      20,
+      30,
+      40
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "じめんに あなを ほって すむ。\nじぶんに きけんが せまると\nまるくなって みを まもる。",
+      "지면에 구멍을 파고 산다.\n자신에게 위험이 닥쳐오면\n둥글게 말아서 몸을 보호한다.",
+      "Il s’enterre et vit dans les sous-sols. S’il se sent\nmenacé, il se met en boule pour se protéger.",
+      "Es gräbt und lebt im Erdboden. Bei Gefahr rollt es\nsich zum Schutz zu einem Ball zusammen.",
+      "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse.",
+      "Vive sottoterra, scavando buche. Se minacciato,\nsi protegge raggomitolandosi.",
+      "It burrows and lives underground. If threatened,\nit curls itself up into a ball for protection.",
+      "地面に 穴を 掘って 住む。\n自分に 危険が 迫ると\nまるくなって 身を 守る。",
+      "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "height": 10,
+    "weight": 295,
+    "stats": [
+      75,
+      100,
+      110,
+      45,
+      55,
+      65
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すごい いきおいで じめんをほると\nトゲや ツメが おれてしまうが\nつぎのひには はえそろっている。",
+      "굉장한 기세로 지면을 파면\n가시와 발톱이 부러져 버리지만\n다음 날에는 바로 돋아나 있다.",
+      "Il creuse si vite qu’il peut briser ses épines et ses\ngriffes. Mais elles repoussent en une journée.",
+      "Wenn es schnell gräbt, können seine Stacheln und\nKrallen abbrechen. Sie wachsen binnen eines Tages\nnach.",
+      "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día.",
+      "Se scava molto velocemente gli si consumano le\npunte e gli artigli, ma gli ricrescono in un giorno.",
+      "If it digs at an incredible pace, it may snap off\nits spikes and claws. They grow back in a day.",
+      "すごい 勢いで 地面を掘ると\nトゲや ツメが 折れてしまうが\n次の日には 生えそろっている。",
+      "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran-f",
+    "height": 4,
+    "weight": 70,
+    "stats": [
+      55,
+      47,
+      52,
+      40,
+      40,
+      41
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだは ちいさくても どくばりを\nもつため ちゅういが ひつようだ。\nメスのほうが ツノが ちいさい。",
+      "몸은 작지만 독침을\n지니고 있기 때문에 주의가 필요하다.\n암컷의 뿔이 더 작다.",
+      "Ce Pokémon est hérissé de dards empoisonnés.\nLes femelles ont une corne plus petite.",
+      "Dieses Pokémon ist sehr klein, verfügt aber über\nstarke Gifte. Das Weibchen hat ein kleineres Horn.",
+      "Aunque pequeñas, sus venenosas púas son muy\npeligrosas. Tienen un cuerno más pequeño que\nlos machos.",
+      "Sebbene piccolo, i suoi baffi velenosi sono molto\npericolosi. La femmina ha un corno più minuto.",
+      "Although small, its venomous barbs render\nthis Pokémon dangerous. The female has\nsmaller horns.",
+      "体は 小さくても 毒針を\n持つため 注意が 必要だ。\nメスのほうが ツノが 小さい。",
+      "Aunque pequeñas, sus venenosas púas son muy\npeligrosas. Tienen un cuerno más pequeño que\nlos machos."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "height": 8,
+    "weight": 200,
+    "stats": [
+      70,
+      62,
+      67,
+      55,
+      55,
+      56
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "メスなので せいかくは おんこう。\nくちから だす ちょうおんぱは\nあいてを まどわす ちからがある。",
+      "암컷으로 성격은 온화하다.\n입에서 내보내는 초음파는\n상대를 혼란시키는 힘이 있다.",
+      "La femelle a un tempérament doux. Elle émet des cris\nultrasoniques capables de déstabiliser ses ennemis.",
+      "Das Weibchen ist ausgeglichener. Es stößt Schreie\nim Ultraschallwellenbereich aus, die den Gegner\nverwirren können.",
+      "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo.",
+      "La femmina ha un temperamento mite. Lancia\nultrasuoni capaci di incantare i nemici.",
+      "The female has a gentle temperament.\nIt emits ultrasonic cries that have the power\nto befuddle foes.",
+      "メスなので 性格は 温厚。\n口から 出す 超音波は\n相手を まどわす 力がある。",
+      "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "height": 13,
+    "weight": 600,
+    "stats": [
+      90,
+      92,
+      87,
+      75,
+      85,
+      76
+    ],
+    "type": [
+      "poison",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ウロコで おおわれた がんじょうな\nからだで すあなの いりぐちをふさぎ\nてきから こどもたちを まもる。",
+      "비늘로 뒤덮인 튼튼한\n몸으로 둥지의 입구를 막아\n상대로부터 새끼들을 지킨다.",
+      "Il se sert de son corps lourdement protégé pour\nempêcher les prédateurs d’accéder à son nid.",
+      "Es benutzt seinen schuppigen Körper, um den\nHöhleneingang als Schutz für seine Jungen zu sperren.",
+      "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores.",
+      "Con il suo corpo robusto e squamoso sbarra\nl’accesso alla tana e protegge i piccoli dai predatori.",
+      "It uses its scaly, rugged body to seal the entrance\nof its nest and protect its young from predators.",
+      "ウロコで 覆われた 頑丈な 体で\n巣穴の 入り口を ふさぎ\n敵から 子供たちを 守る。",
+      "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran-m",
+    "height": 5,
+    "weight": 90,
+    "stats": [
+      46,
+      57,
+      40,
+      40,
+      40,
+      50
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くさむらの うえに みみだけ だして\nまわりの けはいを さぐる。\nもうどくの ツノで みを まもる。",
+      "풀밭 위로 귀만 내어\n주위의 낌새를 살핀다.\n맹독의 뿔로 몸을 보호한다.",
+      "Il jauge le terrain en laissant ses oreilles dépasser\nde l’herbe. Il se défend avec sa corne toxique.",
+      "Es untersucht die Umgebung, indem es die Ohren\nspitzt und lauscht. Sein giftiges Horn schützt es.",
+      "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso.",
+      "Esamina l’ambiente circostante tendendo le orecchie\nfuori dall’erba. Si protegge con il corno velenoso.",
+      "It scans its surroundings by raising its ears out of\nthe grass. Its toxic horn is for protection.",
+      "草むらの 上に 耳だけ 出して\nまわりの 気配を 探る。\n猛毒の ツノで 身を 守る。",
+      "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "height": 9,
+    "weight": 195,
+    "stats": [
+      61,
+      72,
+      57,
+      55,
+      55,
+      65
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はったつした みみを たてて\nまわりの けはいを さぐる。\nなにかあると すぐに とびかかる。",
+      "발달한 귀를 세워\n주위의 낌새를 살핀다.\n무슨 일이 생기면 바로 덤벼든다.",
+      "Il dresse ses oreilles à l’affût d’un bruit suspect et\nattaque toute menace se rapprochant de lui.",
+      "Es überwacht mit seinen riesigen Ohren die Umgebung.\nRegistriert es eine Bewegung, greift es an.",
+      "Levanta sus grandes orejas para vigilar. Si detecta\nalgo, atacará de inmediato.",
+      "Rizza le grandi orecchie per esaminare la zona.\nSe avverte qualcosa, attacca immediatamente.",
+      "It raises its big ears to check its surroundings.\nIf it senses anything, it attacks immediately.",
+      "発達した 耳を 立てて\nまわりの 気配を 探る。\nなにかあると すぐに 飛びかかる。",
+      "Levanta sus grandes orejas para vigilar. Si detecta\nalgo, atacará de inmediato."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "height": 14,
+    "weight": 620,
+    "stats": [
+      81,
+      102,
+      77,
+      85,
+      75,
+      85
+    ],
+    "type": [
+      "poison",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "いしのように かたい ひふと\nながく のびた ツノが とくちょう。\nツノには どくもあるので ちゅうい。",
+      "돌처럼 딱딱한 피부와\n길게 뻗은 뿔이 특징이다.\n뿔에는 독이 있으니 주의해야 한다.",
+      "On le reconnaît facilement grâce à sa peau dure\ncomme de la pierre ainsi qu’à sa grosse corne pleine\nde poison.",
+      "Seine steinharte Haut und sein ausgeprägtes Horn\nsind seine Markenzeichen. Achte auf das Horn,\ndenn es enthält Gift.",
+      "Es fácil reconocerlo por tener una dura piel y un gran\ncuerno lleno de peligrosísimo veneno.",
+      "Lo si riconosce dalla pelle durissima e dal corno\nparticolarmente allungato, che contiene sostanze\nvelenose.",
+      "It is recognized by its rock-hard hide and\nits extended horn. Be careful with the horn,\nas it contains venom.",
+      "石のように 硬い 皮膚と\n長く 伸びた ツノが 特徴。\nツノには 毒も あるので 注意。",
+      "Es fácil reconocerlo por tener una dura piel y un gran\ncuerno lleno de peligrosísimo veneno."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "height": 6,
+    "weight": 75,
+    "stats": [
+      70,
+      45,
+      48,
+      60,
+      65,
+      35
+    ],
+    "type": [
+      "fairy"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "まんげつのよる ピッピが あつまって\nダンスを おどるようすを みると\nしあわせに なれると いわれている。",
+      "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
+      "On dit que ceux qui voient danser un groupe de\nMélofée sous la pleine lune connaîtront un grand\nbonheur.",
+      "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll Freude verheißen.",
+      "Se dice que la felicidad llegará a quien vea a un grupo\nde Clefairy bailando a la luz de la luna llena.",
+      "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
+      "It is said that happiness will come to those who see\na gathering of Clefairy dancing under a full moon.",
+      "満月の夜 ピッピが 集まって\nダンスを 踊る様子を 見ると\n幸せに なれると 言われている。",
+      "Se dice que la felicidad llegará a quien vea a un grupo\nde Clefairy bailando a la luz de la luna llena."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "height": 13,
+    "weight": 400,
+    "stats": [
+      95,
+      70,
+      73,
+      95,
+      90,
+      60
+    ],
+    "type": [
+      "fairy"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "１キロさきで おちた ハリの おとも\nききわける すぐれた みみを もつ。\nしずかな やまおくに すんでいる。",
+      "1km 전방에 떨어진 바늘 소리도\n분간할 수 있는 우수한 귀를 가지고\n있다. 조용한 산속에 살고 있다.",
+      "Il aime le calme des montagnes. Son ouïe\nexceptionnelle entendrait une aiguille tomber à 1 km.",
+      "Es kann eine Nadel hören, die in 1 km Entfernung\nzu Boden fällt. Es lebt in der Stille der Berge.",
+      "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias.",
+      "Ha un udito tanto acuto da sentire la caduta di uno\nspillo a 1 km di distanza. Vive su monti quieti.",
+      "Its hearing is so acute it can hear a pin drop over\nhalf a mile away. It lives on quiet mountains.",
+      "１キロ先で 落ちた 針の 音も\n聞き分ける 優れた 耳を 持つ。\n静かな 山奥に 住んでいる。",
+      "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "height": 6,
+    "weight": 99,
+    "stats": [
+      38,
+      41,
+      40,
+      50,
+      65,
+      65
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うまれたとき しっぽは まっしろで\n１ぽんしかない。そだつと やがて\nさきが わかれて しっぽが ふえる。",
+      "태어났을 때는 꼬리가 새하얗고\n하나밖에 없다. 성장하면\n끝이 갈라지며 꼬리 수가 늘어난다.",
+      "Il n’a qu’une seule queue à la naissance. Sa queue\nse divise à la pointe au fil des ans.",
+      "Dieses Pokémon hat bei seiner Geburt nur einen\nSchweif, der sich mit zunehmendem Alter aufspaltet.",
+      "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta.",
+      "Alla nascita ha solo una coda, che con il passare\ndel tempo sviluppa diverse diramazioni.",
+      "When it is born, it has just one snow-white tail.\nThe tail splits from its tip as it grows older.",
+      "生まれたとき 尻尾は 真っ白で\n１本しかない。育つと やがて\n先が 分かれて 尻尾が 増える。",
+      "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "height": 11,
+    "weight": 199,
+    "stats": [
+      73,
+      76,
+      75,
+      81,
+      100,
+      100
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おうごんに かがやく たいもうと\n９ほんの ながい しっぽを もつ。\n１０００ねんは いきると いわれる。",
+      "황금빛으로 빛나는 털과\n9개의 긴 꼬리를 지녔다.\n1000년을 산다고 한다.",
+      "Il a neuf longues queues et une fourrure qui brille\ncomme de l’or. On dit qu’il peut vivre 1 000 ans.",
+      "Es hat neun lange Schweife und sein Fell glänzt\ngülden. Man sagt, es soll 1 000 Jahre alt werden.",
+      "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años.",
+      "Dotato di nove code e di una pelliccia dorata,\nsi dice che viva 1000 anni.",
+      "It has nine long tails and fur that gleams gold.\nIt is said to live for 1,000 years.",
+      "黄金に 輝く 体毛と\n９本の 長い 尻尾を 持つ。\n１０００年は 生きると 言われる。",
+      "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "height": 5,
+    "weight": 55,
+    "stats": [
+      115,
+      45,
+      20,
+      45,
+      25,
+      20
+    ],
+    "type": [
+      "normal",
+      "fairy"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "まるくて おおきい ひとみで\nさそいこみ ここちよい うたを\nうたい あいてを ねむらせる。",
+      "동그랗고 커다란 눈동자로\n유인하고 기분 좋은 노래를\n불러 상대방을 잠들게 한다.",
+      "Il hypnotise ses ennemis grâce à ses grands yeux\navant de les plonger dans un profond sommeil en\nchantant une douce mélopée.",
+      "Es fesselt die Gegner mit seinen großen,\nrunden Augen und versetzt sie in Schlaf,\nindem es eine beruhigende Melodie singt.",
+      "Cautiva con la mirada a su enemigo y hace que se\nquede profundamente dormido mientras entona una\ndulce melodía.",
+      "Cattura l’attenzione dei nemici grazie agli enormi\nocchi rotondi, per poi farli addormentare con una\ndolce ninnananna.",
+      "It captivates foes with its huge, round eyes,\nthen lulls them to sleep by singing a\nsoothing melody.",
+      "まるくて 大きい 瞳で 誘いこみ\n心地よい 歌を 歌い\n相手を 眠らせる。",
+      "Cautiva con la mirada a su enemigo y hace que se\nquede profundamente dormido mientras entona una\ndulce melodía."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "height": 10,
+    "weight": 120,
+    "stats": [
+      140,
+      70,
+      45,
+      85,
+      50,
+      45
+    ],
+    "type": [
+      "normal",
+      "fairy"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "２ひき よりそいあうと おたがいの\nけがわが きもちよすぎて\nはなれられなく なってしまう。",
+      "2마리가 바싹 붙어 있으면 서로의\n털이 너무 기분 좋아서\n떨어지지 않게 되어버린다.",
+      "Leur fourrure est si douce que s’ils se font des câlins,\nils ne voudront plus se séparer.",
+      "Sein Fell ist so flauschig, dass, wenn zwei\nzusammenstehen, sie nicht getrennt werden möchten.",
+      "Su piel es tan suave que si dos de ellos se acurrucan\njuntos, no querrán separarse nunca.",
+      "Hanno un pelo così morbido che se due di loro\nsi abbracciano non vogliono più separarsi.",
+      "Their fur feels so good that if two of them snuggle\ntogether, they won’t want to be separated.",
+      "２匹 寄り添いあうと お互いの\n毛皮が 気持ち良すぎて\n離れられなく なってしまう。",
+      "Su piel es tan suave que si dos de ellos se acurrucan\njuntos, no querrán separarse nunca."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "height": 8,
+    "weight": 75,
+    "stats": [
+      40,
+      45,
+      35,
+      30,
+      40,
+      55
+    ],
+    "type": [
+      "poison",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くちから だす ちょうおんぱで\nりょうめが なくても まわりの\nしょうがいぶつを さっちできる。",
+      "입에서 내는 초음파로\n두 눈이 없어도 주위의\n장애물을 탐색할 수 있다.",
+      "Bien que dépourvu d’yeux, il repère les obstacles\ngrâce aux ultrasons émis par sa gueule.",
+      "Obwohl es keine Augen hat, kann es Hindernisse\nmithilfe von Ultraschallwellen wahrnehmen.",
+      "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca.",
+      "Non ha occhi, ma avverte gli ostacoli con le onde\nultrasoniche che emette dalla bocca.",
+      "Even though it has no eyes, it can sense obstacles\nusing ultrasonic waves it emits from its mouth.",
+      "口から 出す 超音波で\n両目が なくても\nまわりの 障害物を 察知できる。",
+      "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "height": 16,
+    "weight": 550,
+    "stats": [
+      75,
+      80,
+      70,
+      65,
+      75,
+      90
+    ],
+    "type": [
+      "poison",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "かみついたら さいご。しぬほど\nちを すいまくるので おもたくなって\nじぶんで とべなくなることもある。",
+      "물리면 끝이다. 죽을 정도로\n피를 빨아들이기 때문에 무거워져서\n날 수 없게 될 때도 있다.",
+      "Il mord son adversaire et absorbe toute son énergie,\nmême s’il devient trop lourd pour voler.",
+      "Dieses Pokémon saugt dem Gegner selbst dann noch\nEnergie ab, wenn es zu schwer zum Fliegen wird.",
+      "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar.",
+      "Quando attacca, non smette di succhiare l’energia\ndella vittima, fino a diventare troppo pesante\nper volare.",
+      "Once it bites, it will not stop draining energy\nfrom the victim even if it gets too heavy to fly.",
+      "かみついたら 最後。死ぬほど\n血を 吸いまくるので 重たくなって\n自分で 飛べなくなることもある。",
+      "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "height": 5,
+    "weight": 54,
+    "stats": [
+      45,
+      50,
+      55,
+      75,
+      65,
+      30
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ひるまは たいようを さけるため\nつめたい じめんに もぐっている。\nつきのひかりを あびて そだつ。",
+      "낮에는 태양을 피하려고\n차가운 땅속에 들어가 있다.\n달빛을 쬐어 성장한다.",
+      "Le jour, il reste en sous-sol et évite le soleil.\nIl grandit en se baignant au clair de lune.",
+      "Tagsüber versteckt es sich in der kalten Erde,\num die Sonne zu meiden. Es wächst im Mondschein.",
+      "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho.",
+      "Di giorno vive nel freddo sottosuolo, per evitare la\nluce del sole. Cresce assorbendo la luce lunare.",
+      "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight.",
+      "昼間は 太陽を 避けるため\n冷たい 地面に 潜っている。\n月の 光を 浴びて 育つ。",
+      "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "height": 8,
+    "weight": 86,
+    "stats": [
+      60,
+      65,
+      70,
+      85,
+      75,
+      40
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "もうれつな クサさ！ それなのに\n１０００にんに ひとりぐらい\nこれを このんで かぐひとがいる。",
+      "강렬한 악취가 난다! 그럼에도\n불구하고 1000명에 한 명 정도\n이 냄새를 즐겨 맡는 사람이 있다.",
+      "Il sent très mauvais ! Mais une personne sur 1 000\naime la puanteur de son corps nauséabond.",
+      "Dieses Pokémon sondert einen übelriechenden\nGeruch ab. Trotzdem halten einige Leute es im Haus.",
+      "¡Huele bastante mal! De todas formas, una de cada\nmil personas aprecian su fétido olor.",
+      "Puzza da levare il fiato! Tuttavia circa una persona\nsu mille adora annusarne il fetido lezzo.",
+      "Smells incredibly foul! However, around one out\nof a thousand people enjoy sniffing its\nnose-bending stink.",
+      "猛烈な クサさ！ それなのに\n１０００人に １人ぐらい\nこれを 好んで かぐ 人がいる。",
+      "¡Huele bastante mal! De todas formas, una de cada\nmil personas aprecian su fétido olor."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "height": 12,
+    "weight": 186,
+    "stats": [
+      75,
+      80,
+      85,
+      110,
+      90,
+      50
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はなびらが おおきいほど たくさん\nかふんを だすが あたまが\nおもたくて つかれてしまうという。",
+      "꽃잎이 클수록 많은\n꽃가루를 만들어 내지만 머리가\n무거워서 지쳐버린다고 한다.",
+      "Plus ses pétales sont grands, plus ils contiennent de\npollen toxique.",
+      "Je größer die Blütenblätter, desto mehr giftige\nPollen sind in der Blüte enthalten.",
+      "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida.",
+      "Più grandi sono i petali, maggiore è la quantità di\npolline tossico che contengono. La testa è\nmolto pesante.",
+      "The larger its petals, the more toxic pollen it\ncontains. Its big head is heavy and hard to hold up.",
+      "花びらが 大きいほど\nたくさん 花粉を 出すが\n頭が 重たくて 疲れてしまうという。",
+      "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "height": 3,
+    "weight": 54,
+    "stats": [
+      35,
+      70,
+      55,
+      45,
+      55,
+      25
+    ],
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "むしの せなかに はえているのは\nとうちゅうかそう という キノコ。\nそだつと キノコも おおきくなる。",
+      "벌레의 등에 돋아나 있는 것은\n동충하초라는 버섯이다.\n성장하면 버섯도 커진다.",
+      "Sur le dos de ce Pokémon se trouvent des\nchampignons appelés tochukaso. Ils se développent\nau même rythme que leur hôte.",
+      "Auf seinem Rücken wachsen Pilze, die man\nTochukaso nennt. Die Pilze wachsen mit ihrem Wirt.",
+      "Lleva en el lomo dos setas parásitas llamadas\ntochukaso, que crecen con él.",
+      "Sul dorso di questo Pokémon nascono funghi\nchiamati tochukaso, che crescono insieme a lui.",
+      "Growing out of the bug’s back are mushrooms\ncalled tochukaso. The mushrooms grow\nwith the bug host.",
+      "虫の 背中に 生えているのは\n冬虫夏草 という キノコ。\n育つと キノコも 大きくなる。",
+      "Lleva en el lomo dos setas parásitas llamadas\ntochukaso, que crecen con él."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "height": 10,
+    "weight": 295,
+    "stats": [
+      60,
+      95,
+      80,
+      60,
+      80,
+      30
+    ],
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだよりも おおきな キノコが\nパラセクトを あやつっている。\nどくの ほうしを ばらまく。",
+      "몸보다 큰 버섯이\n파라섹트를 조종하고 있다.\n독 포자를 여기저기 뿌린다.",
+      "Un champignon parasite plus gros que Parasect\ncontrôle son corps. Il répand des spores\nempoisonnées.",
+      "Parasek wird von einem Pilz, der größer als das\nPokémon ist, kontrolliert. Er gibt Giftsporen ab.",
+      "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas.",
+      "Parasect è controllato da un fungo ancora più\ngrosso del suo corpo. Diffonde spore velenose.",
+      "A mushroom grown larger than the host’s body\ncontrols Parasect. It scatters poisonous spores.",
+      "体よりも 大きな キノコが\nパラセクトを 操っている。\n毒の 胞子を ばらまく。",
+      "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "height": 10,
+    "weight": 300,
+    "stats": [
+      60,
+      55,
+      50,
+      40,
+      55,
+      45
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちいさな めが たくさん あつまって\nおおきな めに なっている。\nよるになると あかりに あつまる。",
+      "작은 눈이 많이 모여\n큰 눈을 이루고 있다.\n밤이 되면 불빛을 향해 모여든다.",
+      "Ses grands yeux sont en fait des amas d’yeux\nminuscules. La nuit, il est attiré par la lumière.",
+      "Seine großen Augen bestehen aus vielen kleinen\nAugen. Nachts wird es von Licht angezogen.",
+      "Sus grandes ojos son en realidad grupos de ojos\ndiminutos. Por la noche se siente atraído por la luz.",
+      "I suoi grandi occhi sono in realtà un insieme di tanti\npiccoli occhi. Di notte, è attirato dalla luce.",
+      "Its big eyes are actually clusters of tiny eyes.\nAt night, its kind is drawn by light.",
+      "小さな 目が たくさん 集まって\n大きな 目に なっている。\n夜になると 明かりに 集まる。",
+      "Sus grandes ojos son en realidad grupos de ojos\ndiminutos. Por la noche se siente atraído por la luz."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "height": 15,
+    "weight": 125,
+    "stats": [
+      70,
+      65,
+      60,
+      90,
+      75,
+      90
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ばらまかれた りんぷんに ふれると\nからだの かんかくが おかしくなって\nまっすぐ たって いられなくなる。",
+      "흩뿌려진 날개 가루에 닿으면\n몸의 감각이 이상해져서\n똑바로 서 있을 수 없게 된다.",
+      "Les écailles qu’il sème ont le pouvoir de paralyser\ntotalement un ennemi.",
+      "Wer die von ihm verstreuten Schuppen berührt,\nwird gelähmt und muss sich setzen.",
+      "Lanza unas escamas que paralizan a cualquiera.\nQuien las toque, no podrá ni ponerse de pie.",
+      "Sparge scaglie che paralizzano chiunque le tocchi,\nrendendolo incapace di stare in piedi.",
+      "The scales it scatters will paralyze anyone who\ntouches them, making that person unable to stand.",
+      "ばらまかれた りんぷんに 触れると\n体の 感覚が おかしくなって\nまっすぐ 立っていられなくなる。",
+      "Lanza unas escamas que paralizan a cualquiera.\nQuien las toque, no podrá ni ponerse de pie."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "height": 2,
+    "weight": 8,
+    "stats": [
+      10,
+      55,
+      25,
+      35,
+      45,
+      95
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちか１メートルくらいを ほりすすみ\nきのねっこなどを かじって いきる。\nたまに ちじょうに かおをだす。",
+      "지하 1m 정도를 파고들어 가서\n나무뿌리 등을 씹어 먹고 산다.\n가끔 지상으로 얼굴을 내민다.",
+      "Il vit à 1 m sous la terre et se nourrit de racines.\nIl apparaît rarement à la surface.",
+      "Dieses Pokémon lebt 1 m unter der Erde.\nEs frisst Wurzeln und kommt selten an die Oberfläche.",
+      "Vive un metro por debajo del suelo, donde se alimenta\nde raíces. También aparece en la superficie.",
+      "Vive un metro sotto terra, dove si nutre di radici.\nTalvolta compare in superficie.",
+      "Lives about one yard underground where it feeds\non plant roots. It sometimes appears aboveground.",
+      "地下１メートルくらいを 掘りすすみ\n木の根っこなどを かじって 生きる。\nたまに 地上に 顔を出す。",
+      "Vive un metro por debajo del suelo, donde se alimenta\nde raíces. También aparece en la superficie."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "height": 7,
+    "weight": 333,
+    "stats": [
+      35,
+      100,
+      50,
+      50,
+      70,
+      120
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちちゅうを ほりすすんで\nあいてが ゆだんしているところを\nべつの ばしょから こうげきする。",
+      "땅속을 파고들어 가\n상대가 방심하고 있을 때\n다른 곳에서 공격한다.",
+      "Au combat, il s’enfouit sous terre pour pouvoir frapper\nses adversaires depuis n’importe quelle direction.",
+      "Im Kampf gräbt es sich ein und attackiert den\nGegner aus einer unvorhersehbaren Richtung.",
+      "En combate, cava la tierra, se esconde y sale de\nrepente para golpear a su rival. Nunca se sabe por\ndónde puede aparecer.",
+      "Nella lotta, scava tunnel nel terreno per sorprendere\nil nemico attaccandolo da una direzione imprevedibile.",
+      "In battle, it digs through the ground and strikes\nthe unsuspecting foe from an unexpected direction.",
+      "地中を 掘りすすんで\n相手が 油断しているところを\n別の 場所から 攻撃する。",
+      "En combate, cava la tierra, se esconde y sale de\nrepente para golpear a su rival. Nunca se sabe por\ndónde puede aparecer."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "height": 4,
+    "weight": 42,
+    "stats": [
+      40,
+      45,
+      35,
+      40,
+      40,
+      90
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "よなかに こうどうする しゅうせい。\nきらきら ひかるものを みつけると\nまけないくらい ひとみが かがやく。",
+      "한밤중에 움직이는 습성이 있다.\n반짝반짝 빛나는 것을 발견하면\n그에 못지않게 눈동자가 반짝인다.",
+      "Son regard s’anime à la vue d’un objet brillant.\nC’est un Pokémon nocturne.",
+      "Ein nachtaktives Pokémon. Sieht es etwas\nSchimmerndes, fangen seine Augen an zu glänzen.",
+      "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes.",
+      "È un Pokémon attivo di notte. Se nota qualcosa\ndi luccicante, i suoi occhi cominciano a brillare.",
+      "It is nocturnal in nature. If it spots something shiny,\nits eyes glitter brightly.",
+      "夜中に 行動する 習性。\nキラキラ 光るものを 見つけると\n負けないくらい 瞳が 輝く。",
+      "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "height": 10,
+    "weight": 320,
+    "stats": [
+      65,
+      70,
+      60,
+      65,
+      65,
+      115
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "けなみが うつくしく ペットに\nしたがる ひとも おおいが すぐ\nひっかいたり するので てごわいぞ。",
+      "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만, 곧잘\n할퀴려 들기 때문에 쉽지 않다.",
+      "Très apprécié pour sa fourrure, il est difficile à\napprivoiser en raison de son caractère rétif.",
+      "Dieses Pokémon hat sehr schönes Fell.\nEs ist jedoch ein schwer erziehbares Haustier.",
+      "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso.",
+      "Sebbene molto amato per il suo pelo, è difficile\naddomesticarlo per la volubile crudeltà.",
+      "Although its fur has many admirers, it is tough\nto raise as a pet because of its fickle meanness.",
+      "毛並みが 美しく\nペットにしたがる 人も 多いが すぐ\nひっかいたり するので 手強いぞ。",
+      "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "height": 8,
+    "weight": 196,
+    "stats": [
+      50,
+      52,
+      48,
+      65,
+      50,
+      55
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "いつも ずつうに なやまされている。\nこの ずつうが はげしくなると\nふしぎな ちからを つかいはじめる。",
+      "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다.",
+      "Ce Pokémon a tout le temps la migraine.\nQuand la douleur devient insupportable, il se met à\nutiliser ses pouvoirs psy.",
+      "Es wird permanent von Kopfschmerzen geplagt.\nWird der Schmerz stärker, setzt es geheimnisvolle\nKräfte ein.",
+      "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes.",
+      "È costantemente tormentato dal mal di testa che,\nquando si fa particolarmente intenso, gli conferisce\nstrani poteri.",
+      "It is constantly wracked by a headache.\nWhen the headache turns intense,\nit begins using mysterious powers.",
+      "いつも 頭痛に 悩まされている。\nこの 頭痛が 激しくなると\n不思議な 力を 使いはじめる。",
+      "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "height": 17,
+    "weight": 766,
+    "stats": [
+      80,
+      82,
+      78,
+      95,
+      80,
+      85
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ゆうぐれ みずべに すがたをみせる。\nひたいが あやしく ひかるとき\nじんつうりきを つかいこなすという。",
+      "해 질 무렵 강가에 모습을 나타낸다.\n이마가 이상하게 빛날 때\n신통력을 발휘한다고 전해진다.",
+      "Il apparaît dans les étendues d’eau au crépuscule.\nSi son front brille, il se sert de sa télékinésie.",
+      "Es taucht bei Sonnenuntergang am Wasser auf.\nLeuchtet seine Stirn, setzt es telekinetische Kräfte ein.",
+      "Aparece en ríos al anochecer. Puede usar poderes\ntelequinéticos si su frente brilla misteriosamente.",
+      "Appare presso i corsi d’acqua col buio. Acquisisce\npoteri telecinetici se la sua fronte diventa\nincandescente.",
+      "It appears by waterways at dusk.\nIt may use telekinetic powers\nif its forehead glows mysteriously.",
+      "夕暮れ 水辺に 姿をみせる。\n額が あやしく 光るとき\n神通力を 使いこなすという。",
+      "Aparece en ríos al anochecer. Puede usar poderes\ntelequinéticos si su frente brilla misteriosamente."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "height": 5,
+    "weight": 280,
+    "stats": [
+      40,
+      80,
+      35,
+      35,
+      45,
+      70
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "いみもなく おこって あばれだすと\nなかまの くべつも つかなくなるので\nちかよるのは ひじょうに きけんだ。",
+      "이유 없이 화내고 날뛰기 시작하면\n동료도 구별하지 못하기 때문에\n가까이 가는 것은 매우 위험하다.",
+      "Il ne peut dissocier ses amis de ses ennemis et a\ntendance à enrager lorsqu’on l’approche.",
+      "Da es grundlos angreift und nicht zwischen Freund\noder Feind unterscheidet, ist es sehr gefährlich.",
+      "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos.",
+      "Se è tanto arrabbiato da non riuscire più a distinguere\ngli amici dai nemici, è pericoloso avvicinarsi.",
+      "It’s unsafe to approach if it gets violently enraged\nfor no reason and can’t distinguish friends\nfrom foes.",
+      "意味もなく 怒って 暴れ出すと\n仲間の 区別も つかなくなるので\n近寄るのは 非常に 危険だ。",
+      "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "height": 10,
+    "weight": 320,
+    "stats": [
+      65,
+      105,
+      60,
+      60,
+      70,
+      95
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "まわりに だれも いないときだけは\nおこるのを やめている。しかし\nそれをみるのは むずかしい。",
+      "주위에 아무도 없을 때만은\n화를 내지 않고 있다. 그러나\n그 모습을 보기가 어렵다.",
+      "Sa fureur prend fin quand il n’a plus personne à\nfrapper. Il est difficile d’en être témoin.",
+      "In ganz seltenen Fällen beruhigt sich dieses sehr\njähzornige Pokémon und ist für einen Moment friedlich.",
+      "Solo se calma cuando nadie está cerca. Llegar a ver\nese momento es realmente difícil.",
+      "Questo Pokémon è costantemente furioso e si\ncalma solo nella solitudine più assoluta.",
+      "It stops being angry only when nobody else is\naround. To view this moment is very difficult.",
+      "まわりに だれも いないときだけは\n怒るのを やめている。しかし\nそれを 見るのは 難しい。",
+      "Solo se calma cuando nadie está cerca. Llegar a ver\nese momento es realmente difícil."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "height": 7,
+    "weight": 190,
+    "stats": [
+      55,
+      70,
+      45,
+      70,
+      50,
+      60
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ひとなつこく せいじつな せいかく。\nてきには ほえて かみつき\nおいはらおう とする。",
+      "사람을 잘 따르는 충실한 성격이다.\n적에게는 짖거나 물며\n쫓아내려고 한다.",
+      "Ce Pokémon est particulièrement affectueux et loyal.\nIl aboie et il mord pour se débarrasser de ses\nadversaires.",
+      "Es ist sehr freundlich und bleibt den Menschen\ntreu. Durch Bellen und Beißen versucht es,\nGegner zu verscheuchen.",
+      "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados.",
+      "Molto amichevole e fedele verso le persone.\nAllontana i nemici abbaiando e mordendoli.",
+      "Very friendly and faithful to people. It will try to\nrepel enemies by barking and biting.",
+      "人懐こく 誠実な 性格。\n敵には ほえて かみつき\n追い払おうとする。",
+      "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "height": 19,
+    "weight": 1550,
+    "stats": [
+      90,
+      110,
+      80,
+      100,
+      80,
+      95
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "むかしから おおくの ひとを\nとりこにした うつくしい ポケモン。\nとぶように かろやかに はしる。",
+      "옛날부터 많은 사람의\n마음을 사로잡은 아름다운 포켓몬이다.\n날듯이 경쾌하게 달린다.",
+      "Un Pokémon très recherché pour sa grâce légendaire.\nIl court avec tellement d’agilité qu’on dirait qu’il vole.",
+      "Dieses Pokémon trägt ein wunderschönes Fell.\nEs ist obendrein schnell und sehr wendig.",
+      "Un Pokémon muy admirado desde la antigüedad por\nsu belleza. Corre ágilmente como si tuviera alas.",
+      "Da sempre ammirato per la sua bellezza, corre\nveloce come se avesse le ali.",
+      "A Pokémon that has long been admired for its\nbeauty. It runs agilely as if on wings.",
+      "昔から 多くの 人を\n虜にした 美しい ポケモン。\n飛ぶように 軽やかに 走る。",
+      "Un Pokémon muy admirado desde la antigüedad por\nsu belleza. Corre ágilmente como si tuviera alas."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "height": 6,
+    "weight": 124,
+    "stats": [
+      40,
+      50,
+      40,
+      40,
+      40,
+      90
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "スベスベした くろいひふは うすく\nしめっている。ないぞうの いちぶが\nすけて うずまきじょうに みえる。",
+      "매끄럽고 검은 피부는 얇고\n축축하다. 내장 일부가\n비쳐서 소용돌이 모양으로 보인다.",
+      "Sa peau est humide, lisse et surtout très fine. La\nforme en spirale sur son ventre est en fait une partie\nde ses organes internes que l’on peut apercevoir.",
+      "Seine glatte, schwarze Haut ist dünn und feucht.\nTeilweise sind seine Innereien als spiralförmige\nMuster sichtbar.",
+      "Tiene una piel extraordinaria, fina y húmeda, que deja\nentrever las vísceras que tiene dispuestas en espiral.",
+      "Dalla pelle nera, lucida, umida e sottile si intravedono\ngli organi interni, che formano una spirale.",
+      "Its slick black skin is thin and damp. A part of its\ninternal organs can be seen through the skin as a\nspiral pattern.",
+      "スベスベした 黒い皮膚は 薄く\n湿っている。内臓の 一部が\n透けて 渦巻状に 見える。",
+      "Tiene una piel extraordinaria, fina y húmeda, que deja\nentrever las vísceras que tiene dispuestas en espiral."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "height": 10,
+    "weight": 200,
+    "stats": [
+      65,
+      65,
+      65,
+      50,
+      50,
+      90
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "りくでも すいちゅうでも くらせる。\nちじょうでは いつも あせをかき\nひふを ぬめぬめ させている。",
+      "육지에서도 수중에서도 살 수 있다.\n지상에서는 항상 땀을 흘려서\n피부를 미끌미끌하게 하고 있다.",
+      "Ce Pokémon amphibie transpire continuellement\nquand il est hors de l’eau afin d’hydrater son corps.",
+      "Dieses Pokémon kann im Wasser und auch an Land\nleben. An Land schwitzt es sich den Körper nass.",
+      "Capaz de vivir dentro o fuera del agua. Fuera del agua\nsuda para mantener baboso su cuerpo.",
+      "Capace di vivere dentro o fuori dall’acqua. Sulla\nterraferma suda per mantenere il suo corpo unto.",
+      "It can live in or out of water. When out of water,\nit constantly sweats to keep its body slimy.",
+      "陸でも 水中でも 暮らせる。\n地上では いつも 汗をかき\n皮膚を ぬめぬめ させている。",
+      "Capaz de vivir dentro o fuera del agua. Fuera del agua\nsuda para mantener baboso su cuerpo."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "height": 13,
+    "weight": 540,
+    "stats": [
+      90,
+      95,
+      95,
+      70,
+      90,
+      70
+    ],
+    "type": [
+      "water",
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "きょうじんな きんにくを もつ。\nたいへいようを やすむことなく\nおよぎつづけることが できるのだ。",
+      "강인한 근육을 가지고 있다.\n태평양을 쉬지 않고\n계속 헤엄칠 수 있다.",
+      "Il possède de sacrés biscoteaux. Il peut parcourir\nsans relâche l’océan Pacifique.",
+      "Es hat extrem starke Muskeln und kann durch den\nOzean schwimmen, ohne sich ausruhen zu müssen.",
+      "Tiene músculos muy desarrollados. Es capaz de nadar\nen el océano sin descanso.",
+      "Ha dei muscoli tanto sviluppati da riuscire ad\nattraversare a nuoto interi oceani senza fermarsi.",
+      "With its extremely tough muscles, it can keep\nswimming in the Pacific Ocean without resting.",
+      "強靭な 筋肉を 持つ。\n太平洋を 休むことなく\n泳ぎ続けることが できるのだ。",
+      "Tiene músculos muy desarrollados. Es capaz de nadar\nen el océano sin descanso."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "height": 9,
+    "weight": 195,
+    "stats": [
+      25,
+      20,
+      15,
+      105,
+      55,
+      90
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "１にち １８じかんは ねている。\nねむってる あいだでも さまざまな\nちょうのうりょくを つかう。",
+      "하루에 18시간은 자고 있다.\n자는 동안에도 다양한\n초능력을 사용한다.",
+      "Il dort 18 h par jour. Il peut utiliser de nombreux\npouvoirs psy, même pendant son sommeil.",
+      "Es schläft 18 Stunden am Tag.\nWährenddessen setzt es eine Vielzahl\nzusätzlicher sensorischer Kräfte ein.",
+      "Duerme 18 horas al día y mientras lo hace es capaz de\nusar una serie de poderes extrasensoriales.",
+      "Dorme 18 ore al giorno. Anche da addormentato\nutilizza una serie di poteri extrasensoriali.",
+      "It sleeps for 18 hours a day. It uses a variety of\nextrasensory powers even while asleep.",
+      "１日 １８時間は 寝ている。\n眠ってる あいだでも\nさまざまな 超能力を 使う。",
+      "Duerme 18 horas al día y mientras lo hace es capaz de\nusar una serie de poderes extrasensoriales."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "height": 13,
+    "weight": 565,
+    "stats": [
+      40,
+      35,
+      30,
+      120,
+      70,
+      105
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちょうのうりょくを はっきすると\nつよい アルファはを だして\nせいみつきかいを こわしてしまう。",
+      "초능력을 발휘하면\n강한 알파파를 내어\n정밀 기계를 고장 내 버린다.",
+      "Son pouvoir psychique émet des ondes alpha qui\nbrouillent les appareils électroniques.",
+      "Setzt es seine Psycho-Kräfte ein, sondert es\nAlphawellen ab, die Präzisionsgeräten schaden\nkönnen.",
+      "Cuando utiliza su poder psíquico, emite poderosas\nondas alfa que pueden destruir dispositivos.",
+      "Quando usa i poteri psichici, emette forti onde alfa\nche possono rovinare strumenti di precisione.",
+      "When it uses its psychic power, it emits strong\nalpha waves that can ruin precision devices.",
+      "超能力を 発揮すると\n強い アルファ波を 出して\n精密機械を 壊してしまう。",
+      "Cuando utiliza su poder psíquico, emite poderosas\nondas alfa que pueden destruir dispositivos."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "height": 15,
+    "weight": 480,
+    "stats": [
+      55,
+      50,
+      45,
+      135,
+      95,
+      120
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "のうさいぼうは いつも ぶんれつして\nしぬまで ふえつづけるので\nあらゆることを おぼえておける。",
+      "뇌세포는 항상 분열해서\n죽을 때까지 늘어나기 때문에\n모든 것을 기억해 놓을 수 있다.",
+      "Ses cellules cérébrales se multiplient jusqu’à sa mort.\nIl se souvient donc de tout.",
+      "Seine Gehirnzellen vervielfachen sich sein ganzes\nLeben lang. Daher kann es sich immer an alles\nerinnern.",
+      "Sus neuronas se multiplican continuamente durante su\nvida. Por eso, siempre lo recuerda todo.",
+      "Le sue cellule cerebrali si moltiplicano di continuo.\nPerciò ricorda qualsiasi cosa gli accada.",
+      "Its brain cells multiply continually until it dies.\nAs a result, it remembers everything.",
+      "脳細胞は いつも 分裂して\n死ぬまで 増え続けるので\nあらゆることを 覚えておける。",
+      "Sus neuronas se multiplican continuamente durante su\nvida. Por eso, siempre lo recuerda todo."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "height": 8,
+    "weight": 195,
+    "stats": [
+      70,
+      80,
+      50,
+      35,
+      35,
+      35
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ゴローンを なんども あげおろしして\nぜんしんの きんにくを きたえる。\nあらゆる かくとうぎを つかう。",
+      "데구리를 수없이 들었다 놨다 하며\n전신의 근육을 단련한다.\n모든 격투기를 사용한다.",
+      "Il muscle son corps en soulevant régulièrement un\nGravalanch. Il est rompu à tous les arts martiaux.",
+      "Es hebt Georok hoch, um seinen Körper zu trainieren.\nAußerdem übt es sich in jeder Art von Kampfsport.",
+      "Levanta un Graveler para mantener sus músculos en\nforma. Domina todas las artes marciales.",
+      "Solleva Graveler ripetutamente per mantenersi forte.\nConosce ogni tipo di arte marziale.",
+      "It hefts a Graveler repeatedly to strengthen\nits entire body. It uses every type of martial arts.",
+      "ゴローンを 何度も 上げ下ろしして\n全身の 筋肉を 鍛える。\nあらゆる 格闘技を 使う。",
+      "Levanta un Graveler para mantener sus músculos en\nforma. Domina todas las artes marciales."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "height": 15,
+    "weight": 705,
+    "stats": [
+      80,
+      100,
+      70,
+      50,
+      60,
+      45
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すごく きょうじんな にくたいなので\nパワーセーブ ベルトを つけて\nつよさを せいぎょしている。",
+      "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다.",
+      "Son corps est si puissant qu’il lui faut une ceinture\nde force pour équilibrer ses mouvements.",
+      "Dieses Pokémon ist superstark. Es kann sich nur\nmit einem Kraft regulierenden Gürtel bewegen.",
+      "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos.",
+      "Il suo corpo muscoloso è così forte che usa una\ncintura antiforza per regolare i suoi movimenti.",
+      "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate its motions.",
+      "すごく 強靭な 肉体なので\nパワーセーブ ベルトを つけて\n強さを 制御している。",
+      "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "height": 16,
+    "weight": 1300,
+    "stats": [
+      90,
+      130,
+      80,
+      65,
+      85,
+      55
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はったつした ４ほんの うでは\n２びょうかんに １０００ぱつの\nパンチを くりだすことができる。",
+      "발달한 4개의 팔은\n2초 동안 1000번의\n펀치를 날릴 수 있다.",
+      "Ses deux paires de bras permettent à Mackogneur\nd’envoyer une série de 1 000 coups de poing en 2 s.",
+      "Seine markigen Arme können innerhalb von nur\nzwei Sekunden 1 000 Schläge verteilen.",
+      "Tiene cuatro brazos tan bien desarrollados que puede\ndar una serie de 1000 puñetazos en cuestión de dos\nsegundos.",
+      "Le braccia eccezionalmente sviluppate sono in\ngrado di assestare 1000 pugni in soli 2 secondi.",
+      "Its four ruggedly developed arms can launch\na flurry of 1,000 punches in just two seconds.",
+      "発達した ４本の 腕は\n２秒間に １０００発の パンチを\n繰り出すことができる。",
+      "Tiene cuatro brazos tan bien desarrollados que puede\ndar una serie de 1000 puñetazos en cuestión de dos\nsegundos."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "height": 7,
+    "weight": 40,
+    "stats": [
+      50,
+      75,
+      35,
+      70,
+      30,
+      40
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ひょろっとした からだつき だが\nえものを とらえるときの うごきは\nめにも とまらないほど すばやい。",
+      "홀쭉한 체격이지만\n먹이를 잡을 때의 움직임은\n눈에 보이지 않을 정도로 빠르다.",
+      "Même si son corps est très frêle, ce Pokémon est\nextrêmement rapide quand il attaque ses adversaires.",
+      "Obwohl sein Körper sehr schmal ist,\nschnappt es blitzschnell nach Beute.",
+      "Aunque su cuerpo es extremadamente delgado, es\nmuy rápido a la hora de capturar sus presas.",
+      "Sebbene abbia un corpo magrissimo, sa essere\nmolto rapido quando si scaglia sulla preda.",
+      "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey.",
+      "ひょろっとした 体つきだが\n獲物を 捕らえるときの 動きは\n目にも とまらないほど 素早い。",
+      "Aunque su cuerpo es extremadamente delgado, es\nmuy rápido a la hora de capturar sus presas."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "height": 10,
+    "weight": 64,
+    "stats": [
+      65,
+      90,
+      50,
+      85,
+      45,
+      55
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はっぱの ぶぶんは カッターになって\nあいてを きりさく。くちからは\nなんでも とかす えきたいを はく。",
+      "잎사귀 부분은 칼날이 되어\n상대를 베어버린다. 입에서는\n무엇이든 녹이는 액체를 뿜어낸다.",
+      "Ses membres en forme de feuilles permettent à\nBoustiflor de trancher ses adversaires. Il crache un\nfluide capable de tout dissoudre.",
+      "Die Blätter werden eingesetzt, um Gegner\naufzuschlitzen. Dieses Pokémon spuckt eine\nFlüssigkeit, die alles auflöst.",
+      "Las hojas que tiene actúan como cuchillas en\ncombate. Otra de sus armas es el corrosivo fluido\nque expulsa.",
+      "Si serve delle foglie laterali come lame contro i\nnemici. Il fluido che secerne dalla bocca scioglie\nqualsiasi cosa.",
+      "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
+      "葉っぱの 部分は カッターになって\n相手を 切り裂く。口からは\nなんでも 溶かす 液体を 吐く。",
+      "Las hojas que tiene actúan como cuchillas en\ncombate. Otra de sus armas es el corrosivo fluido\nque expulsa."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "height": 17,
+    "weight": 155,
+    "stats": [
+      80,
+      105,
+      65,
+      100,
+      70,
+      70
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ジャングルの おくちに ウツボット\nばかり いる ちたいが あって\nいったら ２どと かえってこれない。",
+      "정글의 안쪽에 우츠보트만\n있는 지대가 있어서\n한 번 가면 두 번 다시 돌아올 수 없다.",
+      "On dit qu’il vit en colonie dans la jungle, mais\npersonne n’en est jamais revenu vivant pour\nle confirmer.",
+      "Dieses Pokémon soll in großen Kolonien\ntief im Dschungel leben, doch niemand\nkann dies bestätigen.",
+      "Dicen que vive en grandes colonias en el interior de\nlas junglas, aunque nadie ha podido verificarlo.",
+      "Pare che viva in grandi colonie nel cuore della giungla,\nma nessuno è mai tornato da lì per raccontarlo.",
+      "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",
+      "ジャングルの 奥地に ウツボット\nばかり いる 地帯が あって\n行ったら ２度と 帰ってこれない。",
+      "Dicen que vive en grandes colonias en el interior de\nlas junglas, aunque nadie ha podido verificarlo."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "height": 9,
+    "weight": 455,
+    "stats": [
+      40,
+      40,
+      35,
+      50,
+      100,
+      70
+    ],
+    "type": [
+      "water",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだの ほとんどが すいぶん。\nすいしょうのような めだまから\nふしぎな ビームを はっしゃする。",
+      "몸 대부분이 수분이다.\n수정 같은 눈에서\n이상한 빔을 발사한다.",
+      "Son corps est principalement composé d’eau.\nSes yeux cristallins projettent d’étranges rayons.",
+      "Sein Körper besteht aus Wasser. Aus seinen\nkristallartigen Augen verschießt es eigenartige\nStrahlen.",
+      "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos.",
+      "Il suo corpo è quasi interamente composto d’acqua.\nEmette dei raggi misteriosi dagli occhi cristallini.",
+      "Its body is virtually composed of water. It shoots\nstrange beams from its crystal-like eyes.",
+      "体の ほとんどが 水分。\n水晶のような 目玉から\n不思議な ビームを 発射する。",
+      "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "height": 16,
+    "weight": 550,
+    "stats": [
+      80,
+      70,
+      65,
+      80,
+      120,
+      100
+    ],
+    "type": [
+      "water",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しょくしゅは ふだん みじかくて\nえものを さすときに ながく\nのびて からみつくのだ。",
+      "촉수는 평소에는 짧고\n먹이를 찌를 때\n길게 늘어나 휘감는다.",
+      "Ses tentacules sont rétractés au repos. En situation\nde chasse, ils s’allongent pour prendre ses proies\nau piège.",
+      "Dieses Pokémon kann die Tentakel bei der Jagd\nausfahren, um die Beute leichter zu fangen.",
+      "Cuando caza, extiende los cortos tentáculos que tiene\npara atrapar e inmovilizar a su presa.",
+      "I corti tentacoli si estendono durante la caccia\nper catturare e immobilizzare la preda.",
+      "The tentacles are normally kept short. On hunts,\nthey are extended to ensnare and immobilize prey.",
+      "触手は 普段 短くて\n獲物を 刺すときに\n長く 伸びて 絡みつくのだ。",
+      "Cuando caza, extiende los cortos tentáculos que tiene\npara atrapar e inmovilizar a su presa."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "height": 4,
+    "weight": 200,
+    "stats": [
+      40,
+      80,
+      100,
+      30,
+      30,
+      20
+    ],
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "そうげんや やまに せいそくする。\nいしころに にていて きがつかずに\nふんだり つまずいたり してしまう。",
+      "초원이나 산에 서식한다.\n돌멩이와 닮은 탓에 알아채지 못하고\n밟거나 발이 걸려 넘어지기도 한다.",
+      "Il vit dans les plaines ou les montagnes.\nOn le confond souvent avec un petit caillou.",
+      "Wanderer stolpern in den Bergen häufig über dieses\nPokémon, da es wie ein Stein aussieht.",
+      "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa.",
+      "Si trova nei campi e in montagna. Se confuso con\nuna roccia, può succedere di inciamparvi.",
+      "Found in fields and mountains. Mistaking them for\nboulders, people often step or trip on them.",
+      "草原や 山に 生息する。\n石ころに 似ていて 気がつかず\n踏んだり つまずいたりしてしまう。",
+      "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "height": 10,
+    "weight": 1050,
+    "stats": [
+      55,
+      95,
+      115,
+      45,
+      45,
+      35
+    ],
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "やまから ころがり おちるとき\nからだの あちこちが とれても\nきにしない ごうかいな せいかく。",
+      "산에서 굴러 떨어질 때\n몸의 여기저기가 부서져도\n신경 쓰지 않는 호쾌한 성격이다.",
+      "D’une nature téméraire, il se moque de perdre des\nparties de son corps quand il dévale les pentes.",
+      "Es ist ihm völlig gleichgültig, wenn Stücke aus ihm\nherausbrechen, während es Berge hinabrollt.",
+      "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas.",
+      "Di natura libera e incurante, non si preoccupa se\nperde dei pezzi mentre si rotola giù dai monti.",
+      "With a free and uncaring nature, it doesn’t mind\nif pieces break off while it rolls down mountains.",
+      "山から 転がり 落ちるとき\n体の あちこちが 取れても\n気にしない 豪快な 性格。",
+      "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "height": 14,
+    "weight": 3000,
+    "stats": [
+      80,
+      120,
+      130,
+      55,
+      65,
+      45
+    ],
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "さんちょうから ふもとまで つづく\nみぞは ゴローニャが ころがりおちる\nとおりみちなので ようちゅうい。",
+      "산 정상에서 산기슭까지 이어지는\n움푹 패인 홈은 딱구리가 굴러\n다니는 길이므로 주의가 필요하다.",
+      "À force de dévaler les falaises, il a creusé de larges\nsillons. Mieux vaut ne pas s’en approcher.",
+      "Sie rollen Berge hinunter und hinterlassen\nSpurrillen. Halte dich von diesen Rillen fern.",
+      "Se lanza montaña abajo y deja un surco desde la cima\nhasta el pie. Es mejor mantenerse alejado.",
+      "A furia di rotolare giù dalla cima dei monti, ha\nformato dei solchi. Meglio evitarli.",
+      "It tumbles down mountains, leaving grooves\nfrom peak to base. Stay clear of these grooves.",
+      "山頂から ふもとまで 続く 溝は\nゴローニャが 転がり落ちる\n通り道なので 要注意。",
+      "Se lanza montaña abajo y deja un surco desde la cima\nhasta el pie. Es mejor mantenerse alejado."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "height": 10,
+    "weight": 300,
+    "stats": [
+      50,
+      85,
+      55,
+      65,
+      65,
+      90
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うまれたばかりでは たつのがやっと。\nだが はしるほどに あしこしは\nきたえられて そくどが ましていく。",
+      "막 태어나서는 겨우 일어설 수 있을\n정도이지만 많이 달리면 하반신이\n단련되어 달리는 속도가 빨라진다.",
+      "Chancelantes à la naissance, ses pattes deviennent\ntrès vite sûres et solides à force de galoper.",
+      "Neugeboren kann es kaum stehen. Durch das\nGaloppieren werden seine Beine aber schneller\nund kräftiger.",
+      "Cuando nace, apenas puede tenerse en pie. Pero va\nfortaleciendo las patas en cuanto empieza a galopar.",
+      "Alla nascita non riesce quasi a reggersi in piedi.\nGaloppando si rinforza e diventa più veloce.",
+      "As a newborn, it can barely stand.\nHowever, through galloping, its\nlegs are made tougher and faster.",
+      "生まれたばかりでは 立つのがやっと。\nだが 走るほどに 足腰は\n鍛えられて 速度が 増していく。",
+      "Cuando nace, apenas puede tenerse en pie. Pero va\nfortaleciendo las patas en cuanto empieza a galopar."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "height": 17,
+    "weight": 950,
+    "stats": [
+      65,
+      100,
+      70,
+      80,
+      80,
+      105
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "はやく うごく ぶったいを みると\nきょうそう したくなり もうれつな\nスピードで おいかけ はじめる。",
+      "빠르게 움직이는 물체를 보면\n경주를 하고 싶어져서 맹렬한\n스피드로 쫓아가기 시작한다.",
+      "Doté d’un esprit de compétition, il poursuit toute\ncréature rapide pour faire la course.",
+      "Dieses Pokémon verfolgt schnelle Objekte in der\nHoffnung, ein Wettrennen gegen sie zu gewinnen.",
+      "Muy competitivo, este Pokémon perseguirá a todo lo\nque se mueva rápido e intentará salir airoso.",
+      "Pokémon molto competitivo, rincorre tutto ciò\nche si muove veloce, sperando di superarlo.",
+      "Very competitive, this Pokémon will chase anything\nthat moves fast in the hopes of racing it.",
+      "速く 動く 物体を 見ると\n競争したくなり 猛烈な\nスピードで 追いかけはじめる。",
+      "Muy competitivo, este Pokémon perseguirá a todo lo\nque se mueva rápido e intentará salir airoso."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "height": 12,
+    "weight": 360,
+    "stats": [
+      90,
+      65,
+      65,
+      40,
+      40,
+      15
+    ],
+    "type": [
+      "water",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "いつも ボーッとしていて なにを\nかんがえているか わからない。\nしっぽで エサを つるのが とくい。",
+      "항상 멍하니 있으므로 무슨\n생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다.",
+      "Ramoloss semble toujours perdu dans ses pensées,\nmais personne ne sait vraiment à quoi il pense.\nIl adore pêcher en utilisant sa queue.",
+      "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
+      "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola.",
+      "È sempre assorto, ma nessuno sa a cosa stia\npensando. Si serve della coda per pescare.",
+      "It is always vacantly lost in thought, but no one\nknows what it is thinking about. It is good at fishing\nwith its tail.",
+      "いつも ボーッとしていて なにを\n考えているか わからない。\n尻尾で エサを 釣るのが 得意。",
+      "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "height": 16,
+    "weight": 785,
+    "stats": [
+      95,
+      75,
+      110,
+      100,
+      80,
+      30
+    ],
+    "type": [
+      "water",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くっついている シェルダーは\nしっぽから にじみでる うまみが\nほしくて ずっと はなれない。",
+      "붙어 있는 셀러는\n꼬리에서 배어 나오는 맛을\n좋아해서 계속 떨어지지 않는다.",
+      "Le Kokiyas accroché à sa queue est friand de ce qu’il\ndévore et ne veut pas lâcher prise.",
+      "Das Muschas an seiner Rute lässt nicht locker,\nda ein leckerer Geschmack aus seiner Rute strömt.",
+      "Tiene una cola tan apetecible, que el Shellder que va\nenganchado a ella no se soltará por nada del mundo.",
+      "Lo Shellder che gli sta attaccato non si stacca mai\na causa del profumo appetitoso della coda.",
+      "An attached Shellder won’t let go because of\nthe tasty flavor that oozes out of its tail.",
+      "くっついている シェルダーは\n尻尾から にじみ出る うま味が\n欲しくて ずっと 離れない。",
+      "Tiene una cola tan apetecible, que el Shellder que va\nenganchado a ella no se soltará por nada del mundo."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "height": 3,
+    "weight": 60,
+    "stats": [
+      25,
+      35,
+      70,
+      95,
+      55,
+      45
+    ],
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "さゆうの ユニットから\nじゅうりょくを さえぎる ちからを\nだすので くうちゅうに うかべる。",
+      "좌우의 유닛에서\n중력을 차단하는 힘을\n발휘하기에 공중에 뜰 수 있다.",
+      "Les parties sur les côtés de son corps génèrent\nune énergie lui permettant de léviter.",
+      "Die Magneten an seinem Körper erzeugen\nein Antigravitationsfeld, um es ständig\nin der Schwebe zu halten.",
+      "Las unidades a los lados de su cuerpo generan\nenergía antigravitatoria para mantenerlo en el aire.",
+      "Le unità alle due estremità del corpo producono\nenergia antigravitazionale con cui si mantiene\na mezz’aria.",
+      "The units at the sides of its body generate\nantigravity energy to keep it aloft in the air.",
+      "左右の ユニットから\n重力を さえぎる 力を\n出すので 空中に 浮かべる。",
+      "Las unidades a los lados de su cuerpo generan\nenergía antigravitatoria para mantenerlo en el aire."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "height": 10,
+    "weight": 600,
+    "stats": [
+      50,
+      60,
+      95,
+      120,
+      70,
+      70
+    ],
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ふくすうの コイルが れんけつして\nきょうりょくな じりょくせんと\nこうでんあつを ほうしゃする。",
+      "다수의 코일이 연결되어\n강력한 자기장과\n높은 전압을 방사한다.",
+      "Ce Pokémon est composé de plusieurs Magnéti.\nIl est capable de projeter de puissantes décharges\nmagnétiques à haute tension.",
+      "Schließen sich mehrere Magnetilo zusammen,\nentsteht dieses Pokémon. Es entlädt kräftige\nHochspannungsmagnetwellen.",
+      "Lo constituye un grupo de Magnemite. Descarga\npotentes ondas magnéticas de alto voltaje.",
+      "Formato da vari Magnemite, è in grado di lanciare\nonde magnetiche ad alto voltaggio.",
+      "A linked cluster formed of several Magnemite.\nIt discharges powerful magnetic waves at\nhigh voltage.",
+      "複数の コイルが 連結して\n強力な 磁力線と\n高電圧を 放射する。",
+      "Lo constituye un grupo de Magnemite. Descarga\npotentes ondas magnéticas de alto voltaje."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Farfetchd",
+    "height": 8,
+    "weight": 150,
+    "stats": [
+      52,
+      90,
+      55,
+      58,
+      62,
+      60
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "もっている クキは たいせつな\nぶきでもあり かたなを ふるように\nいろんなものを きることが できる。",
+      "가지고 있는 파 줄기는 소중한\n무기이기도 하며 칼을 휘두르듯\n다양한 것을 자를 수 있다.",
+      "Il utilise le légume qu’il tient comme s’il\ns’agissait d’une épée.",
+      "Dieses Pokémon nutzt eine Lauchstange als Waffe.\nEs setzt sie wie ein Schwert ein.",
+      "El puerro que lleva es su mejor arma. Suele usarlo\ncomo espada para cortar cosas.",
+      "Il verde gambo di porro che brandisce è la sua\narma, che usa come spada.",
+      "The plant stalk it holds is its weapon. The stalk is\nused like a sword to cut all sorts of things.",
+      "持っている 茎は 大切な\n武器でもあり 刀を 振るように\nいろんな ものを 切ることができる。",
+      "El puerro que lleva es su mejor arma. Suele usarlo\ncomo espada para cortar cosas."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "height": 14,
+    "weight": 392,
+    "stats": [
+      35,
+      85,
+      45,
+      35,
+      35,
+      75
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "とつぜんへんいで みつかった\n２つの あたまを もつ ポケモン。\nじそく １００キロで はしる。",
+      "돌연변이로 발견된\n두 개의 머리를 지닌 포켓몬이다.\n시속 100km로 달린다.",
+      "Ce Pokémon à deux têtes est le résultat d’une\nsoudaine mutation. Il peut courir jusqu’à 100 km/h.",
+      "Dieses zweiköpfige Pokémon gilt als plötzliche\nMutation. Es rennt bis zu 100 km/h schnell.",
+      "Este Pokémon de dos cabezas es el resultado de una\nmutación. Cuando corre, puede alcanzar casi 100 km\npor hora.",
+      "Pokémon a due teste, scoperto a seguito di\nun’improvvisa mutazione. Può correre a 100 km/h.",
+      "A two-headed Pokémon that was discovered as a\nsudden mutation. It runs at a pace of over 60 miles\nper hour.",
+      "突然変異で 見つかった\n２つの 頭を 持つ ポケモン。\n時速１００キロで 走る。",
+      "Este Pokémon de dos cabezas es el resultado de una\nmutación. Cuando corre, puede alcanzar casi 100 km\npor hora."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "height": 18,
+    "weight": 852,
+    "stats": [
+      60,
+      110,
+      70,
+      60,
+      60,
+      110
+    ],
+    "type": [
+      "normal",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "３つの あたまが みているまえで\nわずかでも すきを みせると\nくちばしで はげしく つつかれる。",
+      "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다.",
+      "Un ennemi ne faisant pas attention à l’une des trois\ntêtes pendant une seconde se fait picorer.",
+      "Lässt ein Feind auch nur einen der drei Köpfe\nfür nur eine Sekunde aus den Augen, wird er\nsofort gepickt.",
+      "Más vale no perder de vista ninguna de las tres\ncabezas. De lo contrario, el número de picotazos\nserá enorme.",
+      "Occorre fare attenzione a tutte le sue tre teste,\naltrimenti si rischia d’essere colpiti duramente.",
+      "An enemy that takes its eyes off any of the\nthree heads--even for a second--will get\npecked severely.",
+      "３つの 頭が 見ている前で\nわずかでも すきを 見せると\nクチバシで 激しく つつかれる。",
+      "Más vale no perder de vista ninguna de las tres\ncabezas. De lo contrario, el número de picotazos\nserá enorme."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "height": 11,
+    "weight": 900,
+    "stats": [
+      65,
+      45,
+      55,
+      45,
+      70,
+      45
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ひょうざんで くらす ポケモン。\nあたまの とがった でっぱりで\nこおりを わって うみを およぐ。",
+      "빙산에 사는 포켓몬이다.\n머리의 뾰족하게 돌출된 부분으로\n얼음을 깨고 바다를 헤엄친다.",
+      "Un habitant des icebergs. En mer, il utilise la corne\nsur sa tête pour briser la banquise.",
+      "Dieses Pokémon lebt auf Eisbergen. Es schwimmt\nim Eiswasser und bricht das Eis mithilfe seines Horns.",
+      "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo.",
+      "Pokémon che vive sugli iceberg. Nuota spaccando\nil ghiaccio con la punta che ha sulla testa.",
+      "A Pokémon that lives on icebergs. It swims in the\nsea using the point on its head to break up ice.",
+      "氷山で 暮らす ポケモン。\n頭の とがった でっぱりで\n氷を 割って 海を 泳ぐ。",
+      "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "height": 17,
+    "weight": 1200,
+    "stats": [
+      90,
+      70,
+      80,
+      70,
+      95,
+      70
+    ],
+    "type": [
+      "water",
+      "ice"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ぜんしんが まっしろな けで\nおおわれている。さむさに つよく\nむしろ さむいほど げんきになる。",
+      "전신이 새하얀 털로\n뒤덮여 있다. 추위에 강해서\n오히려 추울수록 힘이 넘쳐 난다.",
+      "Son corps est recouvert d’une fourrure d’un blanc pur.\nPlus il fait froid, et plus ce Pokémon est actif.",
+      "Sein Körper ist mit reinem, weißem Fell überzogen.\nJe kälter es wird, desto aktiver wird dieses Pokémon.",
+      "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas.",
+      "Ha il corpo ricoperto da una candida pelliccia bianca.\nPiù fa freddo, più questo Pokémon è attivo.",
+      "Its body is covered with a pure white fur.\nThe colder the weather, the more active\nit becomes.",
+      "全身が 真っ白な 毛で\n覆われている。寒さに 強く\nむしろ 寒いほど 元気になる。",
+      "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "height": 9,
+    "weight": 300,
+    "stats": [
+      80,
+      80,
+      50,
+      40,
+      50,
+      25
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "つきからの エックスせんをあびた\nヘドロが ベトベターにへんかした。\nきたないモノが だいこうぶつ。",
+      "달로부터의 X선을 쬔\n오물이 질퍽이로 변화했다.\n더러운 것을 좋아한다.",
+      "Tadmorv est né d’un tas de déchets exposé aux\nrayons X lunaires. Ce Pokémon adore se nourrir\nde choses dégoûtantes.",
+      "Schlamm, der Röntgenstrahlung vom Mond\nausgesetzt war, wurde zu Sleima. Es isst\nam liebsten dreckige Dinge.",
+      "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables.",
+      "Grimer è nato da fango esposto ai raggi X provenienti\ndalla luna. Ama nutrirsi di sostanze sudicie.",
+      "Sludge exposed to X-rays from the moon\ntransformed into Grimer. It loves feeding\non filthy things.",
+      "月からの エックス線を 浴びた\nヘドロが ベトベターに 変化した。\n汚いものが 大好物。",
+      "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "height": 12,
+    "weight": 300,
+    "stats": [
+      105,
+      105,
+      75,
+      65,
+      100,
+      50
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ヘドロが たまる くさい ばしょを\nこのんで あつまってくるので\nあたりは いっそう くさくなる。",
+      "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다.",
+      "Il recherche les endroits sales où il y a des ordures\npour y établir son habitat puant et infect.",
+      "Sie treffen sich an stinkenden Orten, an denen der\nSchleim sich türmt. Dies merkt man am Gestank.",
+      "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable.",
+      "Amano riunirsi vicino a puzzolenti liquami di scolo,\nrendendo il fetore ancora più intenso.",
+      "They love to gather in smelly areas where sludge\naccumulates, making the stench around\nthem worse.",
+      "ヘドロが たまる くさい 場所を\n好んで 集まってくるので\nあたりは いっそう くさくなる。",
+      "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "height": 3,
+    "weight": 40,
+    "stats": [
+      30,
+      65,
+      100,
+      45,
+      25,
+      40
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "かたいカラは どんな こうげきも\nはねかえす。ひらいた ときに\nなかを こうげき されると よわい。",
+      "단단한 껍데기는 어떤 공격도\n튕겨낸다. 껍데기를 벌리고 있을 때\n안쪽을 공격당하는 것에는 약하다.",
+      "Protégé par une carapace très résistante, il est\nvulnérable quand celle-ci s’ouvre.",
+      "Eine harte Schale schützt dieses Pokémon.\nNur wenn es diese öffnet, wird es verwundbar.",
+      "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre.",
+      "La sua conchiglia dura respinge ogni tipo di attacco.\nÈ vulnerabile solo quando apre il guscio.",
+      "Its hard shell repels any kind of attack.\nIt is vulnerable only when its shell is open.",
+      "硬い 殻は どんな 攻撃も\n跳ね返す。開いたときに\n中を 攻撃されると 弱い。",
+      "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre."
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "height": 15,
+    "weight": 1325,
+    "stats": [
+      50,
+      95,
+      180,
+      85,
+      45,
+      70
+    ],
+    "type": [
+      "water",
+      "ice"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しおのながれが はげしい うみに\nせいそくしている パルシェンの\nカラのトゲは おおきく するどい。",
+      "조수의 흐름이 격한 바다에\n서식하고 있는 파르셀의\n껍질의 가시는 크고 날카롭다.",
+      "Les Crustabri vivant dans des mers aux courants forts\ndéveloppent des dards sur leur coquille.",
+      "Austos, die im Meer mit starker Strömung leben,\nwerden groß und entwickeln scharfe Stacheln.",
+      "A los Cloyster que viven en las fuertes corrientes\nmarinas les crecen largas y afiladas púas en la concha.",
+      "Ai Cloyster che vivono in mari con forti maree\ncrescono grandi aculei affilati sui gusci.",
+      "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
+      "潮の 流れが 激しい 海に\n生息している パルシェンの\n殻の トゲは 大きく 鋭い。",
+      "A los Cloyster que viven en las fuertes corrientes\nmarinas les crecen largas y afiladas púas en la concha."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "height": 13,
+    "weight": 1,
+    "stats": [
+      30,
+      35,
+      30,
+      100,
+      35,
+      80
+    ],
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ガスでできた うすい からだは\nどんな おおきさの あいても\nつつみこみ いきのねを とめる。",
+      "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다.",
+      "Son corps est composé de gaz. Il peut ainsi\nenvelopper un adversaire et le faire suffoquer.",
+      "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken.",
+      "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo.",
+      "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli.",
+      "Its body is made of gas. Despite lacking substance,\nit can envelop an opponent of any size and\ncause suffocation.",
+      "ガスでできた 薄い 体は\nどんな 大きさの 相手も\n包みこみ 息の根を 止める。",
+      "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "height": 16,
+    "weight": 1,
+    "stats": [
+      45,
+      50,
+      45,
+      115,
+      55,
+      95
+    ],
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くらやみで だれもいないのに\nみられているような きがしたら\nそこに ゴーストが いるのだ。",
+      "어둠 속에서 아무도 없는데도\n누군가가 보고 있다는 느낌이 들면\n그곳에 고우스트가 있는 것이다.",
+      "Si vous avez l’impression qu’on vous surveille dans\nle noir, c’est sûrement qu’un Spectrum est dans\nle coin.",
+      "Falls du im Dunkeln das Gefühl hast,\nbeobachtet zu werden und niemand\nist zu sehen, ist es bestimmt Alpollo.",
+      "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca.",
+      "Se da soli, al buio, si ha l’impressione di essere\nosservati da qualcuno, si tratta di Haunter.",
+      "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there.",
+      "暗闇で だれもいないのに\n見られているような 気がしたら\nそこに ゴーストが いるのだ。",
+      "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "height": 15,
+    "weight": 405,
+    "stats": [
+      60,
+      65,
+      60,
+      130,
+      75,
+      110
+    ],
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ものかげに すがたを かくす。\nゲンガーの ひそんでいる へやは\nおんどが ５ど さがると いわれる。",
+      "그림자에 모습을 숨긴다.\n팬텀이 숨어 있는 방은\n온도가 5도 내려간다고 전해진다.",
+      "On dit que lorsqu’Ectoplasma se cache dans l’ombre,\nla température alentour chute de 5 °C.",
+      "Es versteckt sich im Schatten. Man sagt, wenn sich\nein Gengar versteckt, kühlt es sich um 5 °C ab.",
+      "Se esconde entre las sombras. Se dice que donde\nGengar acecha, la temperatura baja 5 °C.",
+      "Si nasconde nell’ombra. Pare che nei luoghi in cui\nGengar si cela, la temperatura si abbassi di 5 °C.",
+      "It hides in shadows. It is said that if Gengar\nis hiding, it cools the area by nearly\n10 degrees Fahrenheit.",
+      "物陰に 姿を 隠す。\nゲンガーの 潜んでいる 部屋は\n温度が ５度 下がるといわれる。",
+      "Se esconde entre las sombras. Se dice que donde\nGengar acecha, la temperatura baja 5 °C."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "height": 88,
+    "weight": 2100,
+    "stats": [
+      35,
+      45,
+      160,
+      30,
+      45,
+      70
+    ],
+    "type": [
+      "rock",
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちちゅうを ものすごい いきおいで\nほりすすみ エサを さがす。とおった\nあとは ディグダの すみかになる。",
+      "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다.",
+      "Il creuse sous terre en quête de nourriture.\nSes tunnels servent de maison aux Taupiqueur.",
+      "Dieses Pokémon gräbt auf seiner Suche nach Futter\nlange Tunnel, in denen sich später Digda einnisten.",
+      "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett.",
+      "Scava veloce nel terreno in cerca di cibo lasciando\nlunghi cunicoli usati poi come casa dai Diglett.",
+      "Burrows at high speed in search of food.\nThe tunnels it leaves are used as homes\nby Diglett.",
+      "地中を ものすごい 勢いで\n掘りすすみ エサを 探す。通った\n跡は ディグダの 住処になる。",
+      "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "height": 10,
+    "weight": 324,
+    "stats": [
+      60,
+      48,
+      45,
+      43,
+      90,
+      42
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ねむらせては ユメを たべるが\nわるい ユメばかり たべてると\nおなかを こわすことが あるらしい。",
+      "잠들게 한 뒤 꿈을 먹지만\n나쁜 꿈만 먹고 있으면\n배탈이 날 때도 있는 것 같다.",
+      "Il endort ses ennemis et dévore leurs songes.\nS’il mange trop de cauchemars, il fait une indigestion.",
+      "Traumato versetzt Gegner in den Schlaf und frisst\nderen Träume. Von Alpträumen wird ihm aber übel.",
+      "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas.",
+      "Addormenta i suoi nemici e poi si nutre dei loro\nsogni. A volte fa indigestione di incubi.",
+      "Puts enemies to sleep, then eats their dreams.\nOccasionally gets sick from eating only bad dreams.",
+      "眠らせては 夢を 食べるが\n悪い 夢ばかり 食べてると\nお腹を 壊すことが あるらしい。",
+      "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "height": 16,
+    "weight": 756,
+    "stats": [
+      85,
+      73,
+      70,
+      73,
+      115,
+      67
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ふりこのようなものを もちあるく。\nこどもに さいみんじゅつを かけて\nどこかへ つれさるじけんが あった。",
+      "추 같은 것을 들고 다닌다.\n어린아이에게 최면술을 걸어\n어딘가로 데려가 버린 사건이 있었다.",
+      "Il transporte toujours un petit pendule. On raconte\nqu’il aurait un jour enlevé un enfant après l’avoir\nhypnotisé.",
+      "Es trägt ein Pendel. Man berichtet von einem\nVorfall, bei dem es ein Kind mitnahm,\ndas es zuvor hypnotisiert hatte.",
+      "Lleva un péndulo en la mano. Una vez, hizo\ndesaparecer a un niño al que había hipnotizado.",
+      "Ha con sé una sorta di pendolo. Una volta, per errore,\nsi è portato via un bambino che aveva ipnotizzato.",
+      "It carries a pendulum-like device. There once\nwas an incident in which it took away a child\nit hypnotized.",
+      "振り子のようなものを 持ち歩く。\n子供に 催眠術を かけて\nどこかへ 連れ去る 事件があった。",
+      "Lleva un péndulo en la mano. Una vez, hizo\ndesaparecer a un niño al que había hipnotizado."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "height": 4,
+    "weight": 65,
+    "stats": [
+      30,
+      105,
+      90,
+      25,
+      25,
+      50
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "きけんがせまると くちから はきだす\nあわで ぜんしんを つつんで\nからだを おおきく みせようとする。",
+      "위험이 닥치면 입에서 뿜어내는\n거품으로 전신을 감싸서\n몸을 크게 보이려고 한다.",
+      "S’il est menacé, il se cache derrière les bulles\némises par sa bouche pour paraître plus gros.",
+      "Wittert es Gefahr, hüllt es sich in Blasen\naus seinem Maul, um größer zu erscheinen.",
+      "Ante el peligro, se camufla con las burbujas que\ndesprende su boca, para parecer más grande.",
+      "Se si sente in pericolo, si circonda di bolle che\nproduce con la bocca per sembrare più grande.",
+      "If it senses danger approaching, it cloaks itself with\nbubbles from its mouth so it will look bigger.",
+      "危険が 迫ると 口から 吐き出す\n泡で 全身を 包んで\n体を 大きく みせようとする。",
+      "Ante el peligro, se camufla con las burbujas que\ndesprende su boca, para parecer más grande."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "height": 13,
+    "weight": 600,
+    "stats": [
+      55,
+      130,
+      115,
+      50,
+      50,
+      75
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "かたい ハサミは １まんばりきの\nパワーを もっているが\nおおきすぎて うごきが にぶい。",
+      "단단한 집게는 1만 마력의\n파워를 지녔지만\n너무 커서 움직임이 둔하다.",
+      "Sa grosse pince développe une puissance de\n10 000 CV. Toutefois, sa taille imposante la rend\ndifficile à utiliser.",
+      "Die Kraft seiner großen und harten Schere\nentspricht 10 000 PS. Durch die Größe ist sie\naber auch äußerst unhandlich und sperrig.",
+      "La pinza tan grande que tiene posee una fuerza de\n10 000 caballos de potencia. Pero, por su gran\ntamaño, cuesta moverla.",
+      "La chela più grande sprigiona una potenza di\n10.000 CV. Le dimensioni gli rendono difficili\ngli spostamenti.",
+      "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
+      "硬い ハサミは １万馬力の\nパワーを 持っているが\n大きすぎて 動きが 鈍い。",
+      "La pinza tan grande que tiene posee una fuerza de\n10 000 caballos de potencia. Pero, por su gran\ntamaño, cuesta moverla."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "height": 5,
+    "weight": 104,
+    "stats": [
+      40,
+      30,
+      50,
+      55,
+      55,
+      100
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "モンスターボールが うりだされたのと\nおなじ じきに はっけんされた。\nなにか かんけいがある といわれる。",
+      "몬스터볼이 팔리기 시작했을 때와\n같은 시기에 발견되었다.\n뭔가 관계가 있다고 전해진다.",
+      "Découvert en même temps que les Poké Balls.\nIl paraît qu’il existe un lien entre les deux.",
+      "Es wurde entdeckt, als man Pokébälle einführte.\nEs scheint, als gäbe es da einen Zusammenhang.",
+      "Fue descubierto cuando se crearon las Poké Balls.\nSe dice que tiene algo que ver con ellas.",
+      "Scoperto all’epoca dell’invenzione delle Poké Ball.\nSi pensa che i due fatti siano correlati.",
+      "It was discovered when Poké Balls were\nintroduced. It is said that there is\nsome connection.",
+      "モンスターボールが 売り出されたのと\n同じ 時期に 発見された。\nなにか 関係があると いわれる。",
+      "Fue descubierto cuando se crearon las Poké Balls.\nSe dice que tiene algo que ver con ellas."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "height": 12,
+    "weight": 666,
+    "stats": [
+      60,
+      50,
+      70,
+      80,
+      80,
+      150
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すこしの しげきに はんのうして\nばくはつする。バクダンボールという\nあだなで こわがられて いる。",
+      "작은 자극에도 반응해서\n폭발한다. 폭탄볼이라 불리며\n두려움의 대상이 되고 있다.",
+      "Il explose au moindre choc. Son seul surnom de\n« Bomb Ball » suffit à effrayer ses adversaires.",
+      "Es explodiert schon bei kleinsten Reizen.\nSein Spitzname „Die Bombenkugel“ spiegelt\ndie Furcht der Menschen wider.",
+      "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball.",
+      "Può esplodere anche alla minima provocazione.\nLo chiamano “Bomba Ball”.",
+      "It explodes in response to even minor stimuli. It is\nfeared, with the nickname of “The Bomb Ball.”",
+      "少しの 刺激に 反応して\n爆発する。バクダンボールという\nあだ名で 怖がられている。",
+      "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "height": 4,
+    "weight": 25,
+    "stats": [
+      60,
+      40,
+      80,
+      60,
+      45,
+      40
+    ],
+    "type": [
+      "grass",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "テレパシーで かいわをしているため\nタマタマを ひきはなそうとしても\nすぐに あつまって ６ぴきになる。",
+      "텔레파시로 대화를 하기 때문에\n아라리를 갈라놓으려 해도\n바로 모여들어 6마리가 된다.",
+      "Ces six œufs communiquent par télépathie.\nIls peuvent se réunir rapidement si on les sépare.",
+      "Die sechs Eier kommunizieren telepathisch.\nWerden sie getrennt, finden sie sich schnell wieder.",
+      "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente.",
+      "Queste sei uova comunicano per telepatia.\nSi riuniscono subito anche se vengono divise.",
+      "Its six eggs converse using telepathy. They can\nquickly gather if they become separated.",
+      "テレパシーで 会話をしているため\nタマタマを 引き離そうとしても\nすぐに 集まって ６匹になる。",
+      "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente."
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "height": 20,
+    "weight": 1200,
+    "stats": [
+      95,
+      95,
+      85,
+      125,
+      75,
+      55
+    ],
+    "type": [
+      "grass",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "３つの あたまは かんがえることは\nべつべつでも なかよし なので\nケンカしたり しないらしい。",
+      "3개의 머리는 생각하는 것이\n각각 다르지만 사이가 좋아서\n싸우지 않는 것 같다.",
+      "Ses trois têtes sont autonomes. Elles semblent\ntoutefois en harmonie et ne se disputent jamais.",
+      "Seine drei Köpfe denken unabhängig voneinander.\nDennoch sind sie nett zueinander und streiten nie.",
+      "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca.",
+      "Ha tre teste che ragionano autonomamente.\nMa sono amichevoli e non litigano mai tra di loro.",
+      "Its three heads think independently. However,\nthey are friendly and never appear to squabble.",
+      "３つの 頭は 考えることは\n別々でも 仲良しなので\nケンカしたり しないらしい。",
+      "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca."
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "height": 4,
+    "weight": 65,
+    "stats": [
+      50,
+      50,
+      95,
+      40,
+      50,
+      35
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しにわかれた ははおやの ほねを\nあたまに かぶっている。さびしいとき\nおおごえで なくという。",
+      "죽은 어미의 해골을\n머리에 쓰고 있다. 외로울 때는\n큰 소리로 운다고 한다.",
+      "Ce Pokémon porte le crâne de sa défunte mère sur\nsa tête. On raconte qu’il se met à pleurer dès qu’il\nse retrouve seul.",
+      "Es trägt den Schädel seiner verstorbenen Mutter auf\nseinem Kopf. Fühlt es sich einsam, soll es laut weinen.",
+      "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte.",
+      "Indossa il teschio della madre morta come un casco.\nQuando si sente solo lancia urla strazianti.",
+      "It wears the skull of its dead mother on its head.\nWhen it becomes lonesome, it is said to cry loudly.",
+      "死に別れた 母親の 骨を\n頭に 覆っている。寂しいとき\n大声で 泣くという。",
+      "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte."
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "height": 10,
+    "weight": 450,
+    "stats": [
+      60,
+      80,
+      110,
+      50,
+      80,
+      45
+    ],
+    "type": [
+      "ground"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだも ちいさく もともと\nよわかった。ホネを つかうようになり\nせいかくが きょうぼうか した。",
+      "몸집도 작으며 원래는\n약했다. 뼈를 쓰기 시작하면서\n성격이 흉포해졌다.",
+      "Ce petit Pokémon était à l’origine très faible. Il est\ndevenu redoutable le jour où il a appris à se servir\nde ses os.",
+      "Es ist klein und war ursprünglich sehr schwach.\nErst als es anfing Knochen einzusetzen, wurde es wild.",
+      "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento.",
+      "Di piccole dimensioni, un tempo era del tutto innocuo.\nÈ diventato più aggressivo brandendo un osso\ncome arma.",
+      "It is small and was originally very weak.\nIts temperament turned ferocious when it began\nusing bones.",
+      "体も 小さく もともと 弱かった。\n骨を 使うようになり\n性格が 凶暴化した。",
+      "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "height": 15,
+    "weight": 498,
+    "stats": [
+      50,
+      120,
+      53,
+      35,
+      110,
+      87
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あしが じゆうに のびちぢみして\nとおく はなれている ばあいでも\nあいてを けりあげることが できる。",
+      "다리를 자유자재로 늘였다 줄였다 한다.\n멀리 떨어져 있을 때도\n상대를 차올릴 수 있다.",
+      "Kicklee peut rétracter et allonger ses jambes à sa\nguise. La formidable allonge dont il dispose lui donne\nsouvent l’avantage en plein combat.",
+      "Die Beine ziehen und strecken sich unabhängig\nvoneinander. Mit seinen dehnbaren Beinen\nkann es einen entfernten Gegner treffen.",
+      "Encoge y estira las patas a su antojo. Cuando las\nestira, es capaz de propinar una buena patada al\nenemigo.",
+      "Le zampe gli si accorciano e allungano a piacere.\nCon le gambe allungate, con un calcio può colpire\nanche nemici distanti.",
+      "The legs freely contract and stretch. The stretchy\nlegs allow it to hit a distant foe with a rising kick.",
+      "脚が 自由に 伸び縮みして\n遠く 離れている 場合でも\n相手を 蹴り上げることができる。",
+      "Encoge y estira las patas a su antojo. Cuando las\nestira, es capaz de propinar una buena patada al\nenemigo."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "height": 14,
+    "weight": 502,
+    "stats": [
+      50,
+      105,
+      79,
+      35,
+      110,
+      76
+    ],
+    "type": [
+      "fighting"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うでを ねじりながら くりだす\nパンチは コンクリートも ふんさい。\n３ぷん たたかうと ひとやすみする。",
+      "팔을 비틀며 날리는 펀치는\n콘크리트도 부스러뜨린다.\n3분 싸우면 잠시 쉰다.",
+      "Même le béton cède sous ses poings dévastateurs.\nAu combat, il s’essouffle au bout de trois minutes.",
+      "Die Schläge, die es austeilt, können Beton\npulverisieren. Es muss sich im Kampf alle\ndrei Minuten ausruhen.",
+      "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos.",
+      "Sferra pugni così potenti da polverizzare persino\nil cemento. Si riposa dopo 3 minuti di lotta.",
+      "The arm-twisting punches it throws pulverize even\nconcrete. It rests after three minutes of fighting.",
+      "腕を ねじりながら 繰り出す\nパンチは コンクリートも 粉砕。\n３分 戦うと ひとやすみする。",
+      "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos."
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "height": 12,
+    "weight": 655,
+    "stats": [
+      90,
+      55,
+      75,
+      60,
+      75,
+      30
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ながい したは ねばねばした\nだえきで べっとり。どんなものでも\nくっついて とても べんり。",
+      "긴 혀는 끈적끈적한\n침으로 덮여 있다. 어떤 것이든\n달라붙어서 매우 편리하다.",
+      "Sa longue langue sécrète une salive gluante qui se\ncolle à n’importe quoi. Elle est très efficace !",
+      "Seine Zunge ist mit klebrigem Speichel bedeckt,\nder überall haftet. Dies ist sehr nützlich.",
+      "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil.",
+      "La lunga lingua intrisa di saliva appiccicosa si\nattacca agli oggetti e può diventare molto utile.",
+      "Its long tongue, slathered with a gooey saliva,\nsticks to anything, so it is very useful.",
+      "長い 舌は ねばねばした\nだえきで べっとり。どんなものでも\nくっついて とても 便利。",
+      "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil."
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "height": 6,
+    "weight": 10,
+    "stats": [
+      40,
+      65,
+      95,
+      60,
+      45,
+      35
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うすい バルーンじょうの からだに\nもうどくの ガスが つまっている。\nちかくにくると くさい。",
+      "얇고 풍선 같은 몸에\n맹독 가스가 차있다.\n가까이 오면 역겨운 냄새가 난다.",
+      "Son corps très fin en forme de ballon est rempli\nd’un horrible gaz toxique. L’air est nauséabond à\nproximité de ce Pokémon.",
+      "Sein dünner, ballonartiger Körper ist mit\nschrecklichem Giftgas gefüllt. Es verbreitet einen\nheftigen Gestank, wenn es in der Nähe ist.",
+      "Tiene forma de globo y es muy ligero. Está compuesto\npor gases tóxicos y apesta.",
+      "Il suo corpo fatto a pallone è pieno di orribili sostanze\ngassose, che emanano un puzzo disgustoso.",
+      "Its thin, balloon-like body is inflated by horribly\ntoxic gases. It reeks when it is nearby.",
+      "薄い バルーン状の 体に\n猛毒の ガスが つまっている。\n近くに 来ると くさい。",
+      "Tiene forma de globo y es muy ligero. Está compuesto\npor gases tóxicos y apesta."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "height": 12,
+    "weight": 95,
+    "stats": [
+      65,
+      90,
+      120,
+      85,
+      70,
+      60
+    ],
+    "type": [
+      "poison"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "どちらかが ふくらむと かたほうは\nしぼむ ふたごの ドガース。いつも\nたいないの どくガスを まぜている。",
+      "한쪽이 부풀어 오르면 다른 한쪽은\n오그라드는 쌍둥이 또가스. 항상\n체내의 독가스를 섞고 있다.",
+      "Si l’un des deux Smogo se gonfle, l’autre se\ndégonfle. Ils mélangent leurs gaz en permanence.",
+      "Pumpt sich eines der zwei Smogon auf, lässt das\nandere Luft ab. So findet ein Giftgasaustausch statt.",
+      "Si uno de los gemelos Koffing se infla, el otro se\ndesinfla. Mezclan constantemente sus venenosos\ngases.",
+      "Se un gemello Koffing si sgonfia, l’altro si gonfia.\nI gas velenosi dei due si mischiano continuamente.",
+      "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
+      "どちらかが ふくらむと 片方は\nしぼむ 双子の ドガース。いつも\n体内の 毒ガスを 混ぜている。",
+      "Si uno de los gemelos Koffing se infla, el otro se\ndesinfla. Mezclan constantemente sus venenosos\ngases."
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "height": 10,
+    "weight": 1150,
+    "stats": [
+      80,
+      85,
+      95,
+      30,
+      30,
+      25
+    ],
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あたまは わるいが ちからが つよく\nこうそうビルも たいあたりで\nコナゴナに ふんさいする。",
+      "머리는 나쁘지만 힘이 세서\n고층 빌딩도 몸통박치기로\n산산조각 낸다.",
+      "Costaud mais pas très intelligent, ce Pokémon est\ncapable de détruire un immeuble entier en utilisant\nsa Charge.",
+      "Stark, aber nicht allzu klug, kann dieses Pokémon\nsogar Hochhäuser mit seinem Tackle-Angriff zum\nEinsturz bringen.",
+      "Es muy fuerte, pero no especialmente listo. Es capaz\nde derribar rascacielos usando Placaje varias veces.",
+      "Potente, benché non particolarmente brillante, con\nAzione può distruggere anche un grattacielo.",
+      "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging Tackles.",
+      "頭は 悪いが 力が 強く\n高層ビルも 体当たりで\nコナゴナに 粉砕する。",
+      "Es muy fuerte, pero no especialmente listo. Es capaz\nde derribar rascacielos usando Placaje varias veces."
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "height": 19,
+    "weight": 1200,
+    "stats": [
+      105,
+      130,
+      120,
+      45,
+      45,
+      40
+    ],
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ぜんしんを よろいのような ひふで\nまもっている。２０００どの\nマグマの なかでも いきられる。",
+      "전신을 갑옷 같은 피부로\n보호하고 있다. 2000도의\n마그마 속에서도 살 수 있다.",
+      "Son épiderme très épais lui permet de survivre dans\nun environnement où il fait plus de 2 000 °C.",
+      "Durch seine panzerähnliche Körperhülle kann es\nin bis zu 2 000 °C heißer Lava leben.",
+      "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura.",
+      "Protetto da una pelle-armatura, può vivere nella\nlava liquida a 2000 °C.",
+      "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit.",
+      "全身を よろいのような 皮膚で\n守っている。２０００度の\nマグマの 中でも 生きられる。",
+      "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura."
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "height": 11,
+    "weight": 346,
+    "stats": [
+      250,
+      5,
+      5,
+      35,
+      105,
+      50
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しあわせを はこぶと いわれている。\nきずついた ひとに タマゴを\nわけてあげる やさしい ポケモン。",
+      "행복을 가져다준다고 전해진다.\n상처 입은 사람에게 알을\n나눠주는 상냥한 포켓몬이다.",
+      "Il est censé apporter la joie. Ce Pokémon charitable\noffre ses œufs aux blessés.",
+      "Man sagt, es bringe Glück. Es ist sehr mitfühlend\nund teilt seine Eier mit Verletzten.",
+      "Se dice que reparte felicidad. Se caracteriza por su\ncompasión y reparte sus huevos entre la gente herida.",
+      "Si dice che porti felicità. È molto altruista e condivide\nle uova con chi è ferito.",
+      "It is said to deliver happiness.\nBeing compassionate, it shares its eggs\nwith injured people.",
+      "幸せを 運ぶと いわれている。\n傷ついた 人に タマゴを\n分けてあげる 優しい ポケモン。",
+      "Se dice que reparte felicidad. Se caracteriza por su\ncompasión y reparte sus huevos entre la gente herida."
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "height": 10,
+    "weight": 350,
+    "stats": [
+      65,
+      55,
+      115,
+      100,
+      40,
+      60
+    ],
+    "type": [
+      "grass"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "たくさんの うごめく ツルに\nおおわれて しょうたいふめい。\nあおいツルは いっしょう のびる。",
+      "수많은 움직이는 덩굴에\n둘러싸여 정체불명이다.\n파란 덩굴은 평생 자란다.",
+      "Ses lianes s’allongent au fil du temps.\nElles recouvrent tout son corps, dont on ignore\nla véritable forme.",
+      "Aufgrund der Ranken, die seinen Körper bedecken,\nkennt keiner seine wahre Form. Die blauen Ranken\nwachsen immer weiter.",
+      "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida.",
+      "Una moltitudine di liane brulicanti, in crescita perenne,\nne ricopre il corpo celandone la vera forma.",
+      "Many writhing vines cover it, so its true identity\nremains unknown. The blue vines grow its whole\nlife long.",
+      "たくさんの うごめく ツルに\n覆われて 正体不明。\n青いツルは 一生 伸びる。",
+      "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida."
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "height": 22,
+    "weight": 800,
+    "stats": [
+      105,
+      95,
+      80,
+      40,
+      80,
+      90
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おなかの ふくろで こそだてをする。\nあんぜんな ときだけ こどもを\nふくろから だして あそばせる。",
+      "배의 주머니에서 새끼를 키운다.\n안전할 때만 새끼를\n주머니에서 꺼내어 놀게 한다.",
+      "Il élève ses petits dans sa poche ventrale. Il attend\nd’être en lieu sûr pour les laisser jouer dehors.",
+      "Sein Nachwuchs wächst in seinem Beutel heran.\nNur wenn es sicher ist, darf das Junge aus dem Beutel.",
+      "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro.",
+      "Tiene il cucciolo nel marsupio che ha sulla pancia e\nlo lascia uscire solo quando non ci sono pericoli.",
+      "It raises its offspring in its belly pouch. It lets the\nbaby out to play only when it feels safe.",
+      "お腹の 袋で 子育てをする。\n安全な ときだけ 子供を\n袋から 出して 遊ばせる。",
+      "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro."
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "height": 4,
+    "weight": 80,
+    "stats": [
+      30,
+      40,
+      70,
+      70,
+      25,
+      60
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すいめんから いきおいよく スミを\nはっしゃして とんでいる ムシを\nうちおとす ことが あるという。",
+      "수면에서 힘차게 먹물을\n발사해서 날고 있는 벌레를\n맞춰서 떨어뜨릴 때가 있다고 한다.",
+      "Il abat les insectes volants en leur tirant un jet\nd’encre depuis la surface de l’eau. Ses tirs sont\ntoujours précis.",
+      "Dieses Pokémon schießt mit Tinte auf über der\nWasseroberfläche fliegende Insekten.",
+      "Es famoso por derribar a bichos voladores lanzando\ntinta desde la superficie del agua.",
+      "È noto per i suoi attacchi ai volatili con getti\nd’inchiostro dalla superficie dell’acqua.",
+      "Known to shoot down flying bugs with precision\nblasts of ink from the surface of the water.",
+      "水面から 勢いよく 墨を 発射して\n飛んでいる 虫を\n撃ち落とすことがあるという。",
+      "Es famoso por derribar a bichos voladores lanzando\ntinta desde la superficie del agua."
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "height": 12,
+    "weight": 250,
+    "stats": [
+      55,
+      65,
+      95,
+      95,
+      45,
+      85
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "うかつに さわろうとすると\nからだじゅうに はえる トゲに\nさされて きぜつすることも ある。",
+      "섣불리 만지려고 하면\n몸 전체에서 돋아나는 가시에\n찔려 기절할 수도 있다.",
+      "Son corps est recouvert de pointes tranchantes.\nIl faut la plus grande attention pour le saisir, sous\npeine de se faire piquer.",
+      "Sein Körper ist mit scharfen Stacheln gespickt.\nWenn man sorglos ist und es berührt, kann man\ndurch die Stacheln bewusstlos werden.",
+      "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo.",
+      "Ha il corpo ispido di aculei pungenti. Un contatto\nfortuito può causare uno svenimento.",
+      "Its body bristles with sharp spikes. Carelessly trying\nto touch it could cause fainting from the spikes.",
+      "うかつに 触ろうとすると\n体中に 生える トゲに 刺されて\n気絶することもある。",
+      "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo."
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "height": 6,
+    "weight": 150,
+    "stats": [
+      45,
+      67,
+      60,
+      35,
+      50,
+      63
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "５ノットの スピードで およぐ。\nみの きけんを かんじると\nするどい ツノで はんげきする。",
+      "5노트의 스피드로 헤엄친다.\n몸에 위험을 느끼면\n날카로운 뿔로 반격한다.",
+      "Il nage à 5 nœuds. Quand on l’agresse, il réplique\nd’un bon coup de corne aiguisée.",
+      "Es schwimmt mit fünf Knoten. Wird es angegriffen,\nwehrt es sich mit seinem scharfen Horn.",
+      "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno.",
+      "Nuota alla velocità di 5 nodi. Se avverte il pericolo,\ncontrattacca con il suo corno aguzzo.",
+      "It swims at a steady 5 knots. If it senses danger,\nit will strike back with its sharp horn.",
+      "５ノットの スピードで 泳ぐ。\n身の 危険を 感じると\n鋭い ツノで 反撃する。",
+      "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno."
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "height": 13,
+    "weight": 390,
+    "stats": [
+      80,
+      92,
+      65,
+      65,
+      80,
+      68
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あきが くると さんらんの ために\nながれに さからって ちからづよく\nかわを およぐ すがたが みられる。",
+      "가을이 오면 산란을 위해\n힘차게 강물을 거슬러 올라가며\n헤엄치는 모습을 볼 수 있다.",
+      "Pendant la saison des amours, on peut le voir nager\ndans les rivières et les lacs.",
+      "Im Herbst, zur Paarungszeit, sieht man diese\nPokémon kraftvoll Bäche und Flüsse hinaufschwimmen.",
+      "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos.",
+      "In autunno, quando si riproduce, può essere visto\nrisalire impetuoso fiumi e torrenti.",
+      "In the autumn spawning season, they can be seen\nswimming powerfully up rivers and creeks.",
+      "秋が くると 産卵のために\n流れに 逆らって 力強く\n川を 泳ぐ 姿が みられる。",
+      "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos."
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "height": 8,
+    "weight": 345,
+    "stats": [
+      30,
+      45,
+      55,
+      70,
+      55,
+      85
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだの ちゅうしんで ひかる\nコアが あるかぎり からだが\nちぎれても さいせい できる。",
+      "몸의 중심에서 빛나는\n핵이 있는 한 몸이\n찢겨나가도 재생할 수 있다.",
+      "Même si son corps est détruit, il peut se régénérer\naussi longtemps que son cœur est en bon état.",
+      "Auch wenn sein Körper nicht mehr intakt ist,\nkann es sich regenerieren, wenn der Kern leuchtet.",
+      "Aunque sus brazos se rompan podrán regenerarse,\nsiempre y cuando su núcleo siga intacto.",
+      "Anche se il corpo è lacerato, continua a rigenerarsi\nfinché il nucleo ardente centrale rimane intatto.",
+      "Even if its body is torn, it can regenerate as long as\nthe glowing central core remains intact.",
+      "体の 中心で 光る\nコアが ある限り\n体が ちぎれても 再生できる。",
+      "Aunque sus brazos se rompan podrán regenerarse,\nsiempre y cuando su núcleo siga intacto."
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "height": 11,
+    "weight": 800,
+    "stats": [
+      60,
+      75,
+      85,
+      100,
+      85,
+      115
+    ],
+    "type": [
+      "water",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "まんなかの コアとよばれる ぶぶんは\nなないろに かがやく。これを\nほうせきにする ひとも いるという。",
+      "코어라고 불리는 중심 부분은\n일곱 빛깔로 빛난다. 이것을\n보석으로 삼는 사람도 있다고 한다.",
+      "Son cœur brille des couleurs de l’arc-en-ciel.\nOn raconte que c’est une pierre précieuse.",
+      "Der Kern dieses Pokémon leuchtet in den Farben\ndes Regenbogens. Sein Kern gilt als Edelstein.",
+      "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema.",
+      "Nel suo nucleo brillano i sette colori dell’arcobaleno.\nQualcuno lo considera una pietra preziosa.",
+      "Its central core glows with the seven colors of the\nrainbow. Some people value the core as a gem.",
+      "真ん中の コアと呼ばれる 部分は\n七色に 輝く。これを\n宝石にする 人も いるという。",
+      "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema."
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Mr-mime",
+    "height": 13,
+    "weight": 545,
+    "stats": [
+      40,
+      45,
+      65,
+      100,
+      120,
+      90
+    ],
+    "type": [
+      "psychic",
+      "fairy"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ゆびさきから だす はどうが\nくうきを かためて カベを つくる。\nはげしい こうげきも はねかえす。",
+      "손가락 끝에서 내는 파동이\n공기를 굳혀서 벽을 만든다.\n격렬한 공격도 튕겨 낸다.",
+      "Les murs invisibles qu’il matérialise du bout des doigts\nrepoussent les attaques les plus puissantes.",
+      "Seine Fingerspitzen sondern etwas ab, das die Luft\nzu einer schützenden Wand werden lässt.",
+      "Para repeler ataques, solidifica el aire y crea muros\ninvisibles con emanaciones de sus dedos.",
+      "Con le dita solidifica l’aria e crea pareti invisibili\nche respingono gli attacchi più violenti.",
+      "Emanations from its fingertips solidify the air into\ninvisible walls that repel even harsh attacks.",
+      "指先から 出す 波動が\n空気を 固めて 壁を 作る。\n激しい 攻撃も 跳ね返す。",
+      "Para repeler ataques, solidifica el aire y crea muros\ninvisibles con emanaciones de sus dedos."
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "height": 15,
+    "weight": 560,
+    "stats": [
+      70,
+      110,
+      80,
+      55,
+      80,
+      105
+    ],
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "するどいカマで えものを きりさき\nいきのねを とめる。ごくまれに\nハネをつかって とぶ。",
+      "날카로운 낫으로 먹이를 베고\n숨통을 끊는다. 매우 드물게\n날개를 사용해서 난다.",
+      "Il déchiquette ses proies à l’aide de ses bras\ntranchants comme des faux. Il n’utilise ses ailes pour\nvoler que très rarement.",
+      "Es zerreißt und zerkleinert seine Beute mit seinen\nunglaublich scharfen Sicheln. Selten breitet es\nseine Flügel aus, um zu fliegen.",
+      "Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar.",
+      "Fa a pezzi le prede con gli artigli spaventosamente\naffilati. Solo raramente spiega le ali per alzarsi in volo.",
+      "It tears and shreds prey with its wickedly sharp\nscythes. It very rarely spreads its wings to fly.",
+      "鋭い カマで 獲物を 切り裂き\n息の根を 止める。ごくまれに\n羽を 使って 飛ぶ。",
+      "Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar."
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "height": 14,
+    "weight": 406,
+    "stats": [
+      65,
+      50,
+      35,
+      115,
+      95,
+      95
+    ],
+    "type": [
+      "ice",
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "こしを ふるように あるいている。\nゆだんをすると おもわず つられて\nおどってしまうという。",
+      "허리를 흔드는 듯이 걷고 있다.\n방심하면 엉겁결에 따라서\n춤춰버린다고 한다.",
+      "Il ondule ses hanches en marchant et entraîne les\ngens dans des danses frénétiques.",
+      "Der beschwingte Gang dieses Pokémon bezaubert\nZuschauer und lässt sie im Takt dazu tanzen.",
+      "Camina moviendo las caderas de forma llamativa.\nPuede hacer que la gente baile a su ritmo.",
+      "Camminando ancheggia in modo seducente.\nLa gente può essere indotta a seguire la sua danza.",
+      "It wiggles its hips as it walks. It can\ncause people to dance in unison with it.",
+      "腰を 振るように 歩いている。\n油断をすると 思わず 釣られて\n踊ってしまうという。",
+      "Camina moviendo las caderas de forma llamativa.\nPuede hacer que la gente baile a su ritmo."
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "height": 11,
+    "weight": 300,
+    "stats": [
+      65,
+      83,
+      57,
+      95,
+      85,
+      105
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "からだの ひょうめんには でんきが\nながれている。あたりが くらいと\nぜんしんが あおじろく ひかるのだ。",
+      "몸의 표면에는 전기가\n흐르고 있다. 주변이 어두우면\n전신이 푸르스름하게 빛난다.",
+      "Des ondes électriques parcourent la surface de son\ncorps. Il brille d’un éclat bleuté dans le noir.",
+      "Elektrizität bedeckt seinen Körper. Im Dunkeln\nerstrahlt es in einem bläulichen Ton.",
+      "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino.",
+      "La corrente elettrica attraversa la superficie del\nsuo corpo che al buio riluce di un blu perlato.",
+      "Electricity runs across the surface of its body.\nIn darkness, its entire body glows a whitish blue.",
+      "体の 表面には 電気が\n流れている。あたりが 暗いと\n全身が 青白く 光るのだ。",
+      "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino."
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "height": 13,
+    "weight": 445,
+    "stats": [
+      65,
+      95,
+      57,
+      100,
+      85,
+      93
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "かざんの かこうちかくで\nみつかった。くちから ほのおをはく。\nたいおんは １２００ど もある。",
+      "화산의 분화구 근처에서\n발견되었다. 입에서 불꽃을 뿜어낸다.\n체온은 1200도나 된다.",
+      "On trouve ce Pokémon près des bouches de volcans.\nSon corps incandescent atteint 1 200 °C.",
+      "Es wurde in der Nähe eines Vulkans gefunden.\nDie Körpertemperatur dieses Feuerspuckers\nliegt bei fast 1 200 °C.",
+      "A este Pokémon se lo encontraron cerca de un volcán.\nEsta criatura ígnea tiene una temperatura corporal de\nunos 1200 °C.",
+      "È stato trovato presso il cratere di un vulcano.\nLa sua temperatura corporea si aggira sui 1200 °C.",
+      "Found near the mouth of a volcano.\nThis fire-breather’s body temperature is\nnearly 2,200 degrees Fahrenheit.",
+      "火山の 火口近くで 見つかった。\n口から 炎を 吐く。\n体温は １２００度もある。",
+      "A este Pokémon se lo encontraron cerca de un volcán.\nEsta criatura ígnea tiene una temperatura corporal de\nunos 1200 °C."
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "height": 15,
+    "weight": 550,
+    "stats": [
+      65,
+      125,
+      100,
+      55,
+      70,
+      85
+    ],
+    "type": [
+      "bug"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "２ほんの ツノで えものを はさんで\nちぎれるまで はなさない。ちぎれない\nときは かなたまで なげとばすのだ。",
+      "2개의 뿔 사이에 먹이를 끼우고\n조각날 때까지 놓지 않는다. 조각나지\n않으면 저편으로 세게 내던진다.",
+      "Il serre les proies dans ses pinces pour les trancher\nen deux. S’il n’y arrive pas, il les jette au loin.",
+      "Es hält seine Beute mit seiner Zange fest und\nteilt sie dann. Was es nicht teilen kann, wirft es fort.",
+      "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar.",
+      "Afferra la preda con le pinze e non la molla finché\nnon l’ha tranciata. Se non ci riesce, la scaglia via.",
+      "It grips prey with its pincers until the prey is torn\nin half. What it can’t tear, it tosses far.",
+      "２本の ツノで 獲物を 挟んで\nちぎれるまで 放さない。ちぎれない\nときは かなたまで 投げ飛ばすのだ。",
+      "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar."
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "height": 14,
+    "weight": 884,
+    "stats": [
+      75,
+      100,
+      95,
+      40,
+      70,
+      110
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "３ぼんのしっぽで じぶんを たたき\nたたかう きもちを たかめると\nぜんそくりょくで つっこんでくる。",
+      "3개의 꼬리로 자신을 때려서\n투지가 끓어오르면\n전속력으로 돌진해온다.",
+      "Après s’être fouetté avec ses trois queues pour\naugmenter son agressivité, il charge.",
+      "Es kämpft mit vollem Einsatz, nachdem es sich\nmit seinen drei Schweifen auspeitschte,\num sich anzustacheln.",
+      "Después de animarse a luchar fustigándose con sus\ntres colas, carga a toda velocidad.",
+      "Prima si frusta con le tre code per caricarsi, poi\nparte all’attacco a tutta velocità.",
+      "After heightening its will to fight by whipping itself\nwith its three tails, it charges at full speed.",
+      "３本の 尻尾で 自分を たたき\n戦う 気持ちを 高めると\n全速力で 突っこんでくる。",
+      "Después de animarse a luchar fustigándose con sus\ntres colas, carga a toda velocidad."
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "height": 9,
+    "weight": 100,
+    "stats": [
+      20,
+      10,
+      55,
+      15,
+      20,
+      80
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ちからも スピードも ほとんどダメ。\nせかいで いちばん よわくて\nなさけない ポケモンだ。",
+      "힘도 스피드도 거의 없다.\n세상에서 가장 약하고\n한심한 포켓몬이다.",
+      "Magicarpe manque totalement de vitesse et de force.\nC’est le Pokémon le plus pathétique sur terre.",
+      "Es ist nutzlos, was Kraft und Geschwindigkeit\nangeht. Dieses ist das schwächste\nund erbärmlichste Pokémon der Welt.",
+      "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay.",
+      "La sua forza e velocità sono praticamente nulle.\nSi può tranquillamente definire il più debole e patetico\nPokémon del mondo.",
+      "It is virtually worthless in terms of both power and\nspeed. It is the most weak and pathetic Pokémon\nin the world.",
+      "力も スピードも ほとんど ダメ。\n世界で 一番 弱くて\n情けない ポケモンだ。",
+      "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay."
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "height": 65,
+    "weight": 2350,
+    "stats": [
+      95,
+      125,
+      79,
+      60,
+      100,
+      81
+    ],
+    "type": [
+      "water",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あらそいの おこった むらを\nやきつくしたという きろくが\nこもんじょに のこされている。",
+      "분쟁이 일어난 마을을\n다 태워버렸다는 기록이\n고문서에 남아 있다.",
+      "La littérature ancienne fait état d’un Léviator qui\naurait rasé un village sous le coup de la colère.",
+      "In alten Schriften wird von einem Garados berichtet,\ndas in einem Wutanfall ein Dorf zerstörte.",
+      "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado.",
+      "Un antico documento riporta che Gyarados rase al\nsuolo un villaggio in cui dilagava la violenza.",
+      "In ancient literature, there is a record of a Gyarados\nthat razed a village when violence flared.",
+      "争いの 起こった 村を\n焼きつくしたという 記録が\n古文書に 残されている。",
+      "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado."
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "height": 25,
+    "weight": 2200,
+    "stats": [
+      130,
+      85,
+      80,
+      85,
+      95,
+      60
+    ],
+    "type": [
+      "water",
+      "ice"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "やさしい こころの もちぬし。\nめったに あらそわないため たくさん\nつかまえられ かずが へった。",
+      "부드러운 마음의 소유자다.\n좀처럼 다투지 않아 많이\n잡혔기 때문에 수가 줄었다.",
+      "Ils sont d’une nature gentille. Comme ils se défendent\nrarement, ils sont en voie d’extinction.",
+      "Sie sind gutmütig. Da sie selten kämpfen,\nwurden sie oft gefangen. Ihre Anzahl ist\nstark reduziert.",
+      "Son buenos de corazón. Muchos fueron capturados\npor ser tan pacíficos. Ahora hay muchos menos.",
+      "Sono buoni d’animo e lottano di rado, così molti\ndi loro sono facili prede: sono stati decimati.",
+      "They have gentle hearts. Because they rarely\nfight, many have been caught. Their number\nhas dwindled.",
+      "優しい 心の 持ち主。\nめったに 争わないため たくさん\n捕まえられ 数が 減った。",
+      "Son buenos de corazón. Muchos fueron capturados\npor ser tan pacíficos. Ahora hay muchos menos."
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "height": 3,
+    "weight": 40,
+    "stats": [
+      48,
+      48,
+      48,
+      48,
+      48,
+      48
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ぜんしんの さいぼうを くみかえて\nみたものの かたち そっくりに\nへんしんする のうりょくを もつ。",
+      "전신의 세포를 재구성해서\n본 것의 모양과 똑 닮게\n변신하는 능력을 가지고 있다.",
+      "Il a la capacité de modifier sa structure cellulaire pour\nprendre l’apparence de ce qu’il voit.",
+      "Es kann seine Zellstruktur so verändern, dass es\nsich in alles verwandeln kann, was es sieht.",
+      "Puede alterar por completo su estructura celular para\nemular cualquier objeto que vea.",
+      "Ha la capacità di modificare la sua struttura cellulare\nper trasformarsi in qualsiasi cosa veda.",
+      "It has the ability to reconstitute its entire cellular\nstructure to transform into whatever it sees.",
+      "全身の 細胞を 組み替えて\n見たものの 形 そっくりに\n変身する 能力を 持つ。",
+      "Puede alterar por completo su estructura celular para\nemular cualquier objeto que vea."
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "height": 3,
+    "weight": 65,
+    "stats": [
+      55,
+      55,
+      50,
+      45,
+      65,
+      55
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しんかのとき すがたと のうりょくが\nかわることで きびしい かんきょうに\nたいおうする めずらしい ポケモン。",
+      "진화할 때 모습과 능력이\n바뀜으로써 혹독한 환경에\n적응하는 희귀한 포켓몬이다.",
+      "Un Pokémon rare qui s’adapte aux environnements\nhostiles en variant ses formes évolutives.",
+      "Ein seltenes Pokémon, das sich seiner Umgebung\nanpasst, indem es sich in unterschiedliche Formen\nentwickelt.",
+      "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones.",
+      "Un Pokémon raro che si adatta agli ambienti più\ndifficili assumendo diverse forme nell’evoluzione.",
+      "A rare Pokémon that adapts to harsh environments\nby taking on different evolutionary forms.",
+      "進化のとき 姿と 能力が\n変わることで きびしい 環境に\n対応する 珍しい ポケモン。",
+      "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones."
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "height": 10,
+    "weight": 290,
+    "stats": [
+      130,
+      65,
+      60,
+      110,
+      95,
+      65
+    ],
+    "type": [
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "きれいな みずべを このんでいる。\nさいぼうが みずのぶんしに にており\nみずに とけることもできる。",
+      "아름다운 물가를 좋아한다.\n세포가 물의 분자구조와 닮아서\n물에 녹는 것도 가능하다.",
+      "Il préfère les belles plages. Il peut se dissoudre à\nvolonté grâce à ses cellules proches de l’eau.",
+      "Es liebt schöne Ufer. Da seine Zellstruktur\nWassermolekülen ähnlich ist, kann es mit\nWasser verschmelzen.",
+      "Prefiere las bellas costas. Con células parecidas al\nagua, podría fundirse en la misma.",
+      "Preferisce stare sulla costa. In acqua le sue cellule\nsimili a molecole acquee si possono scomporre.",
+      "It prefers beautiful shores. With cells similar to\nwater molecules, it could melt in water.",
+      "きれいな 水辺を 好んでいる。\n細胞が 水の 分子に 似ており\n水に 溶けることもできる。",
+      "Prefiere las bellas costas. Con células parecidas al\nagua, podría fundirse en la misma."
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "height": 8,
+    "weight": 245,
+    "stats": [
+      65,
+      65,
+      60,
+      110,
+      95,
+      130
+    ],
+    "type": [
+      "electric"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "たいないに でんきが たまると\nぜんしんの たいもうが ぜんぶ\nするどく とがりはじめる。",
+      "체내에 전기가 모이면\n전신의 털이 모두\n날카롭게 곤두서기 시작한다.",
+      "Chaque poil sur son corps se dresse quand il se\ncharge en électricité.",
+      "Lädt es sich mit Elektrizität auf, steht jedes\neinzelne seiner Körperhaare steil nach oben.",
+      "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad.",
+      "Quando inizia a caricarsi di elettricità, gli si rizza\nogni pelo del corpo.",
+      "Every hair on its body starts to stand sharply on\nend if it becomes charged with electricity.",
+      "体内に 電気が たまると\n全身の 体毛が 全部\n鋭く とがりはじめる。",
+      "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad."
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "height": 9,
+    "weight": 250,
+    "stats": [
+      65,
+      130,
+      60,
+      95,
+      110,
+      65
+    ],
+    "type": [
+      "fire"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "たいないに ほのおぶくろを もつ。\nたたかいが はじまる ちょくぜんには\nたいおんが ９００どまで あがる。",
+      "체내에 불꽃 주머니를 가지고 있다.\n싸움이 시작되기 직전에는\n체온이 900도까지 올라간다.",
+      "Son corps contient une glande enflammée.\nSa température monte à 900 °C avant le combat.",
+      "In seinem Körper befindet sich eine Flamme.\nSeine Körpertemperatur liegt vor dem Kampf\nbei 900 °C.",
+      "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate.",
+      "Nel corpo conserva una tasca ardente. Prima di\nlottare, la sua temperatura si innalza a 900 °C.",
+      "It has a flame sac in its body. Its body temperature\ntops 1,650 degrees Fahrenheit before battle.",
+      "体内に 炎袋を 持つ。\n戦いが はじまる 直前には\n体温が ９００度まで 上がる。",
+      "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate."
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "height": 8,
+    "weight": 365,
+    "stats": [
+      65,
+      60,
+      70,
+      85,
+      75,
+      40
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "けんきゅうのすえ うみだされた\nじんこうの ポケモン。きほんてきな\nどうさしか プログラムされていない。",
+      "연구 끝에 태어난\n인공 포켓몬이다. 기본적인\n동작만 프로그램되어 있다.",
+      "Un Pokémon créé par l’homme après de longues\nrecherches. Il ne connaît que peu de mouvements.",
+      "Ein künstlich produziertes Pokémon, welches das\nErgebnis von Forschungen ist. Es ist simpel aufgebaut.",
+      "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas.",
+      "Questo Pokémon è il risultato di una ricerca umana.\nEsegue solo i movimenti più elementari.",
+      "A man-made Pokémon that came about\nas a result of research. It is programmed\nwith only basic motions.",
+      "研究の末 生み出された\n人工の ポケモン。基本的な\n動作しか プログラムされていない。",
+      "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas."
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "height": 4,
+    "weight": 75,
+    "stats": [
+      35,
+      40,
+      100,
+      90,
+      55,
+      35
+    ],
+    "type": [
+      "rock",
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おおむかし うみに すんでいた\nこだい ポケモン。１０ぽんの あしを\nくねらせて およぐ。",
+      "먼 옛날 바다에서 살고 있던\n고대 포켓몬. 10개의 다리를\n구불거리며 헤엄친다.",
+      "Un Pokémon préhistorique qui vivait dans les\nprofondeurs marines. Il se déplace en agitant ses 10\ntentacules.",
+      "Ein prähistorisches Pokémon, das zur Urzeit im\nWasser lebte. Es schwimmt, indem es seine\nzehn Tentakel bewegt.",
+      "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos.",
+      "Pokémon preistorico, che viveva nel mare primordiale.\nNuota facendo oscillare i suoi dieci tentacoli.",
+      "A prehistoric Pokémon that lived in the primordial\nsea, it swims by twisting its 10 tentacles about.",
+      "大昔 海に 住んでいた\n古代ポケモン。１０本の 脚を\nくねらせて 泳ぐ。",
+      "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos."
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "height": 10,
+    "weight": 350,
+    "stats": [
+      70,
+      60,
+      125,
+      115,
+      70,
+      55
+    ],
+    "type": [
+      "rock",
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "しょくしゅが てあしのように\nはったつしてる。しがみつくと\nどうじに かみついてくる。",
+      "촉수가 팔다리처럼\n발달해 있다.\n달라붙자마자 문다.",
+      "Ses tentacules sont développés comme s’il s’agissait\nde bras ou de jambes. Dès qu’il attrape une proie,\nil la mord.",
+      "Seine Tentakel sind hoch entwickelt und es setzt\nsie ähnlich Händen und Füßen ein. Sobald es Beute\nergriffen hat, beißt es zu.",
+      "Tiene los tentáculos tan desarrollados que le sirven de\nmanos y pies. Con ellos atrapa a su presa y le da un\nbocado.",
+      "Ha tentacoli molto sviluppati, paragonabili ad arti\numani. Appena irretisce la preda, la morde.",
+      "Its tentacles are highly developed as if they are\nhands and feet. As soon as it ensnares prey,\nit bites.",
+      "触手が 手足のように\n発達している。しがみつくと\n同時に かみついてくる。",
+      "Tiene los tentáculos tan desarrollados que le sirven de\nmanos y pies. Con ellos atrapa a su presa y le da un\nbocado."
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "height": 5,
+    "weight": 115,
+    "stats": [
+      30,
+      80,
+      90,
+      55,
+      45,
+      55
+    ],
+    "type": [
+      "rock",
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "３おくねんまえの すなはまで\nくらしていたと かんがえられている。\nかたい カラが みを まもる。",
+      "3억 년 전에 모래 해변에서\n살고 있었던 것으로 추측된다.\n단단한 껍질이 몸을 보호한다.",
+      "On pense qu’il peuplait les plages il y a 300 millions\nd’années. Il est protégé par une coquille robuste.",
+      "Man geht davon aus, dass dieses Pokémon vor\n300 Millionen Jahren die Strände bevölkerte.",
+      "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha.",
+      "Si ritiene che vivesse sulle spiagge 300 milioni di\nanni fa. È protetto da una conchiglia robusta.",
+      "It is thought to have inhabited beaches 300 million\nyears ago. It is protected by a stiff shell.",
+      "３億年前の 砂浜で\n暮らしていたと 考えられている。\n硬い 殻が 身を 守る。",
+      "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha."
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "height": 13,
+    "weight": 405,
+    "stats": [
+      60,
+      115,
+      105,
+      65,
+      70,
+      80
+    ],
+    "type": [
+      "rock",
+      "water"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すいちゅうを いどうするとき\nてあしを ちいさく おりたたみ\nこうらを くねらせ はやく およぐ。",
+      "수중을 이동할 때\n손발을 작게 접고\n등껍질을 구부려 빠르게 헤엄친다.",
+      "Dans l’eau, il se recroqueville sur ses jambes et il\nagite sa coquille pour nager à très grande vitesse.",
+      "Im Wasser zieht es seine Beine an und bewegt\nseinen Panzer, um so schneller schwimmen zu können.",
+      "Repliega sus extremidades en el agua para hacerse\nmás compacto, y mueve su concha para nadar rápido.",
+      "In acqua raccoglie gli arti per diventare più compatto,\nagitando il guscio per nuotare veloce.",
+      "In the water, it tucks in its limbs to become more\ncompact, then it wiggles its shell to swim fast.",
+      "水中を 移動するとき\n手足を 小さく 折りたたみ\n甲羅を くねらせ 速く 泳ぐ。",
+      "Repliega sus extremidades en el agua para hacerse\nmás compacto, y mueve su concha para nadar rápido."
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "height": 18,
+    "weight": 590,
+    "stats": [
+      80,
+      105,
+      65,
+      60,
+      75,
+      130
+    ],
+    "type": [
+      "rock",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "こはくに のこされた きょうりゅうの\nいでんしから ふっかつさせた。\nたかいこえで なきながら とぶ。",
+      "호박에 남아 있던 공룡의\n유전자에서 부활시켰다.\n높은 소리로 울며 난다.",
+      "Ce Pokémon a été reconstitué à partir d’une cellule\nde dinosaure trouvée dans un morceau d’ambre.\nIl vole très haut en poussant des cris très aigus.",
+      "In Bernstein eingeschlossenes genetisches Material\neines Dinosauriers war der Ursprung dieses\nPokémon. Beim Fliegen schreit es schrill.",
+      "Se regeneró a partir de material genético de un\ndinosaurio encontrado en ámbar. Cuando vuela emite\nescandalosos alaridos.",
+      "Rigenerato dal materiale organico di un dinosauro\nritrovato nell’ambra. Emette versi acuti mentre vola.",
+      "It was regenerated from a dinosaur’s genetic\nmatter that was found in amber. It flies with\nhigh-pitched cries.",
+      "こはくに 残された 恐竜の\n遺伝子から 復活させた。\n高い 声で 鳴きながら 飛ぶ。",
+      "Se regeneró a partir de material genético de un\ndinosaurio encontrado en ámbar. Cuando vuela emite\nescandalosos alaridos."
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "height": 21,
+    "weight": 4600,
+    "stats": [
+      160,
+      110,
+      65,
+      65,
+      110,
+      30
+    ],
+    "type": [
+      "normal"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "１にちに たべものを ４００キロ\nたべないと きが すまない。\nたべおわると ねむってしまう。",
+      "하루에 먹을 것을 400kg\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
+      "Ronflex n’est pas satisfait tant qu’il n’a pas avalé ses\n400 kg de nourriture quotidienne. Dès qu’il a fini de\nmanger, il commence une sieste pour digérer.",
+      "Es ist erst satt, wenn es über 400 kg Nahrung am\nTag gefressen hat. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
+      "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido.",
+      "Dopo aver trangugiato i suoi immancabili 400 kg di\ncibo quotidiani, cade in un sonno profondo.",
+      "It is not satisfied unless it eats over 880 pounds of\nfood every day. When it is done eating, it goes\npromptly to sleep.",
+      "１日に 食べ物を ４００キロ\n食べないと 気がすまない。\n食べ終わると 眠ってしまう。",
+      "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido."
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "height": 17,
+    "weight": 554,
+    "stats": [
+      90,
+      85,
+      100,
+      95,
+      125,
+      85
+    ],
+    "type": [
+      "ice",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "でんせつの とりポケモン。\nくうきちゅうの すいぶんを こおらせ\nふぶきを つくりだすことが できる。",
+      "전설의 새포켓몬이다.\n공기 중의 수분을 얼려\n눈보라를 만들어 낼 수 있다.",
+      "Un Pokémon Oiseau légendaire. Il peut provoquer\ndes blizzards en gelant l’humidité de l’air.",
+      "Ein Legendäres Vogel-Pokémon. Es kann Blizzards\nverursachen, indem es Feuchtigkeit gefriert.",
+      "Legendario Pokémon pájaro capaz de generar\nventiscas congelando la humedad del aire.",
+      "Un Pokémon uccello leggendario. Riesce a creare\nbufere di neve congelando l’umidità dell’aria.",
+      "A legendary bird Pokémon. It can create blizzards\nby freezing moisture in the air.",
+      "伝説の とりポケモン。\n空気中の 水分を 凍らせ\n吹雪を 作り出すことが できる。",
+      "Legendario Pokémon pájaro capaz de generar\nventiscas congelando la humedad del aire."
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "height": 16,
+    "weight": 526,
+    "stats": [
+      90,
+      90,
+      85,
+      125,
+      90,
+      100
+    ],
+    "type": [
+      "electric",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "くもの うえから きょだいな\nいなずまを おとしながら あらわれる\nでんせつの とりポケモンである。",
+      "구름 위에서 거대한\n번개를 내리치며 나타난다.\n전설의 새포켓몬이다.",
+      "L’oiseau légendaire de la foudre. Il surgit hors\ndes nuages en lançant d’énormes éclairs.",
+      "Ein Legendäres Vogel-Pokémon, das im Sturzflug\naus den Wolken bricht und Blitze schleudert.",
+      "Es un legendario pájaro Pokémon. Dicen que aparece\nentre las nubes lanzando enormes rayos brillantes.",
+      "Uccello leggendario, si dice appaia tra le nuvole\nscagliando enormi saette.",
+      "A legendary bird Pokémon that is said to\nappear from clouds while dropping enormous\nlightning bolts.",
+      "雲の 上から 巨大な 稲妻を\n落としながら 現れる\n伝説の とりポケモンである。",
+      "Es un legendario pájaro Pokémon. Dicen que aparece\nentre las nubes lanzando enormes rayos brillantes."
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "height": 20,
+    "weight": 600,
+    "stats": [
+      90,
+      100,
+      90,
+      125,
+      85,
+      90
+    ],
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "むかしから ひのとりでんせつとして\nしられる。はばたくたびに はねが\nあかるく もえあがり うつくしい。",
+      "오래전부터 불새의 전설로\n알려져 있다. 날갯짓할 때마다\n날개가 눈부시게 불타올라서 아름답다.",
+      "Le légendaire oiseau du feu. Une pluie de flammes\nsurgit à chaque battement de ses ailes.",
+      "Dieses Pokémon ist der Legendäre Feuervogel.\nSein Flügelschlag entfacht ein helles Feuermeer.",
+      "Es más conocido como el legendario pájaro de fuego.\nCon cada aleteo crea brillantes llamas.",
+      "Noto come uccello leggendario del fuoco, quando\nsbatte le ali crea scintillanti lingue infuocate.",
+      "It is said to be the legendary bird Pokémon of fire.\nEvery flap of its wings creates a dazzling flare\nof flames.",
+      "昔から 火の鳥伝説として\n知られる。羽ばたくたびに 羽が\n明るく 燃え上がり 美しい。",
+      "Es más conocido como el legendario pájaro de fuego.\nCon cada aleteo crea brillantes llamas."
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "height": 18,
+    "weight": 33,
+    "stats": [
+      41,
+      64,
+      45,
+      50,
+      50,
+      50
+    ],
+    "type": [
+      "dragon"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "もくげきしゃが すくないために\nまぼろしのポケモンと よばれていた。\nだっぴした かわが みつかっている。",
+      "목격자가 적기 때문에\n환상의 포켓몬이라고 불리고 있다.\n탈피한 껍질이 발견되고 있다.",
+      "On l’appelle « Pokémon mirage » en raison de sa\nrareté. On a découvert sa mue.",
+      "Man nennt es „Illusion-Pokémon“, denn nur wenige\nhaben es gesehen. Nur seine Haut wurde oft\ngefunden.",
+      "Se le llama el Pokémon Espejismo porque son muy\npocos los que lo han visto. Se encontró su muda.",
+      "Detto “Pokémon miraggio” perché è stato avvistato\nda pochi. È facile trovare la sua pelle della muta.",
+      "It is called the “Mirage Pokémon” because so few\nhave seen it. Its shed skin has been found.",
+      "目撃者が 少ないために\n幻のポケモンと 呼ばれていた。\n脱皮した 皮が 見つかっている。",
+      "Se le llama el Pokémon Espejismo porque son muy\npocos los que lo han visto. Se encontró su muda."
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "height": 40,
+    "weight": 165,
+    "stats": [
+      61,
+      84,
+      65,
+      70,
+      70,
+      70
+    ],
+    "type": [
+      "dragon"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "すいしょうのような タマには\nてんこうを じゆうに あやつる\nのうりょくが ひめられているらしい。",
+      "수정 같은 구슬에는\n날씨를 자유롭게 조종하는\n능력이 담겨 있는 듯하다.",
+      "Ses orbes de cristal donnent le pouvoir de contrôler\nle climat.",
+      "Die kristallenen Bälle an seinem Schweif\nermöglichen es ihm, das Wetter zu beeinflussen.",
+      "Sus cristalinos orbes parecen darle al Pokémon el\npoder de controlar el clima libremente.",
+      "Pare che le sfere di cristallo diano a questo Pokémon\nil pieno controllo sulle condizioni atmosferiche.",
+      "Its crystalline orbs appear to give this Pokémon\nthe power to freely control the weather.",
+      "水晶のような 玉には\n天候を 自由に 操る\n能力が 秘められているらしい。",
+      "Sus cristalinos orbes parecen darle al Pokémon el\npoder de controlar el clima libremente."
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "height": 22,
+    "weight": 2100,
+    "stats": [
+      91,
+      134,
+      95,
+      100,
+      100,
+      80
+    ],
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "おおきな たいかくで そらを とぶ。\nちきゅうを やく１６じかんで\n１しゅう してしまう。",
+      "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다.",
+      "Malgré son poids et son physique imposant,\nDracolosse est capable de voler. Il peut faire le tour\ndu monde en 16 heures.",
+      "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden.",
+      "A pesar del tamaño que tiene y de lo pesado que es,\npuede volar. Es capaz de dar la vuelta al mundo en\nsolo 16 horas.",
+      "Nonostante la stazza, è in grado di volare.\nPuò compiere il giro del mondo in 16 ore.",
+      "It can fly in spite of its big and bulky physique.\nIt circles the globe in just 16 hours.",
+      "大きな 体格で 空を 飛ぶ。\n地球を 約１６時間で\n１周してしまう。",
+      "A pesar del tamaño que tiene y de lo pesado que es,\npuede volar. Es capaz de dar la vuelta al mundo en\nsolo 16 horas."
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "height": 20,
+    "weight": 1220,
+    "stats": [
+      106,
+      110,
+      90,
+      154,
+      90,
+      130
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "ひとりの かがくしゃが なんねんも\nおそろしい いでんし けんきゅうを\nつづけた けっか たんじょうした。",
+      "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다.",
+      "Il est le fruit de nombreuses expériences génétiques\nhorribles et malsaines.",
+      "Dieses Pokémon ist das Resultat eines jahrelangen\nund skrupellosen Experimentes.",
+      "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética.",
+      "Creato da uno scienziato dopo anni di orribili\nesperimenti di ingegneria genetica.",
+      "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
+      "１人の 科学者が 何年も\n恐ろしい 遺伝子 研究を\n続けた 結果 誕生した。",
+      "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética."
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "height": 4,
+    "weight": 40,
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "type": [
+      "psychic"
+    ],
+    "language_id": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      14
+    ],
+    "flavor_text": [
+      "あらゆる わざを つかうため\nポケモンの せんぞと かんがえる\nがくしゃが たくさん いる。",
+      "모든 기술을 사용하기 때문에\n포켓몬의 조상이라고 생각하는\n학자가 많다.",
+      "Nombre de scientifiques voient en lui l’ancêtre\ndes Pokémon car il maîtrise toutes leurs capacités.",
+      "Es beherrscht alle möglichen Attacken, daher sieht\nman in ihm den Vorfahren aller Pokémon.",
+      "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos.",
+      "Poiché sa usare qualsiasi mossa, molti scienziati\nritengono che Mew sia l’antenato di tutti i Pokémon.",
+      "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
+      "あらゆる 技を 使うため\nポケモンの 先祖と 考える\n学者が たくさん いる。",
+      "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos."
+    ]
+  }
+]
