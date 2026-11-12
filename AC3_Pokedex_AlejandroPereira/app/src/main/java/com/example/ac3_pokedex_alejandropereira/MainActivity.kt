@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -26,16 +27,17 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.ac3_pokedex_alejandropereira.ui.theme.AC3_Pokedex_AlejandroPereiraTheme
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
 
 
 @Serializable
@@ -121,9 +123,10 @@ fun GetPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
 @Composable
-fun GetPokemonImg(pokemon : Pokemon, pokemonid : Int){
-
-
+fun GetPokemonImg(pokemon : Pokemon) : Int{
+    val context = LocalContext.current
+    GetPokemonName(pokemon)
+    return context.resources.getIdentifier(GetPokemonName(pokemon), "drawable", context.packageName)
 }
 
 @Composable
@@ -149,35 +152,45 @@ fun PrintPokemonButton(onClick: () -> Unit, pokemon: Pokemon){
 @Composable
 fun CreateScreenView(pokemons : List<Pokemon>, onClick : () -> Unit){
     Column() {
-        Box(modifier = Modifier.fillMaxWidth().height(50.dp).background(Color.Gray), contentAlignment = Alignment.Center){
+        Box(modifier = Modifier
+            .fillMaxWidth()
+            .height(50.dp)
+            .background(Color.Gray), contentAlignment = Alignment.Center){
             Text(text = "Kanto Pokédex",
                 textAlign = TextAlign.Center
             )
-
         }
         Row(){
             Column(Modifier.weight(0.9f)) {
+                Spacer(modifier = Modifier.weight(0.1f))
+                Box(modifier = Modifier.fillMaxWidth().weight(0.3f) ){
 
 
+
+                }
+                
             }
             LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp,10.dp) ) {
-                items(pokemons) { pokemon->
-                    PrintPokemonButton(onClick, pokemon)
+                items(pokemons) { Pokemon ->
+                    PrintPokemonButton({}, Pokemon)
                 }
             }
         }
     }
 
 }
+
+
 @Composable
 fun ListScreen(modifier: Modifier){
     val context = LocalContext.current
     val input = context.assets.open("PokedexData.json")
     val texto = input.bufferedReader().use { it.readText() }
-    val pokemons : List<Pokemon> = Json.decodeFromString(texto)
+    val PokemonsList : List<Pokemon> = Json.decodeFromString(texto)
     input.close()
 
-    CreateScreenView(pokemons, {})
+
+    CreateScreenView(PokemonsList, {})
 }
 
 
