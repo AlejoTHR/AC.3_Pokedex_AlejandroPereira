@@ -16,6 +16,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -50,8 +51,9 @@ data class Pokemon(
     val stats: List<Int>,
     val type: List<String>,
     val language_id : List<Int>,
-    val flavor_text: List<String>
-
+    val flavor_text: List<String>,
+    val image_id : String,
+    val captured : Boolean
 )
 
 
@@ -59,7 +61,6 @@ data class Pokemon(
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
 
         enableEdgeToEdge()
         setContent{
@@ -76,7 +77,6 @@ class MainActivity : ComponentActivity() {
                     ){
                         composable("home") {
                             ListScreen(modifier = Modifier.padding(innerPadding))
-
                         }
                     }
 
@@ -89,7 +89,6 @@ class MainActivity : ComponentActivity() {
     }
 
 }
-
 @Composable
 fun ReadFromJson(){
     val context = LocalContext.current
@@ -106,10 +105,22 @@ fun WriteFromJson(pokemon: Pokemon){
     }
 
 }
-
-
-
 // POKEMON LIST
+// IN SCREEN
+
+// HEADER
+@Composable
+fun CreateHeader(){
+    Box(modifier = Modifier
+        .fillMaxWidth()
+        .height(50.dp)
+        .background(Color.Gray), contentAlignment = Alignment.Center){
+        Text(text = "Kanto Pokédex",
+            textAlign = TextAlign.Center
+        )
+    }
+}
+// GETS FROM LIST
 fun GetPokemonId(pokemon : Pokemon) : String{
     if(pokemon.id <10){
         return "00${pokemon.id}"
@@ -122,65 +133,11 @@ fun GetPokemonId(pokemon : Pokemon) : String{
 fun GetPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
-@Composable
-fun GetPokemonImg(pokemon : Pokemon) : Int{
-    val context = LocalContext.current
-    GetPokemonName(pokemon)
-    return context.resources.getIdentifier(GetPokemonName(pokemon), "drawable", context.packageName)
-}
-
-@Composable
-fun PrintPokemonButton(onClick: () -> Unit, pokemon: Pokemon){
-    Box(Modifier.width(200.dp)){
-        Button(onClick = onClick, modifier = Modifier.fillMaxSize()) {
-            Row(){
-                Text(
-                    text = GetPokemonName(pokemon),
-                    fontSize = 16.sp
-                )
-                Spacer(modifier = Modifier.weight(0.1f))
-                Text(
-                    text = GetPokemonId(pokemon),
-                    fontSize = 16.sp
-
-                )
-            }
-        }
-    }
-}
-
-@Composable
-fun CreateScreenView(pokemons : List<Pokemon>, onClick : () -> Unit){
-    Column() {
-        Box(modifier = Modifier
-            .fillMaxWidth()
-            .height(50.dp)
-            .background(Color.Gray), contentAlignment = Alignment.Center){
-            Text(text = "Kanto Pokédex",
-                textAlign = TextAlign.Center
-            )
-        }
-        Row(){
-            Column(Modifier.weight(0.9f)) {
-                Spacer(modifier = Modifier.weight(0.1f))
-                Box(modifier = Modifier.fillMaxWidth().weight(0.3f) ){
 
 
 
-                }
-                
-            }
-            LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp,10.dp) ) {
-                items(pokemons) { Pokemon ->
-                    PrintPokemonButton({}, Pokemon)
-                }
-            }
-        }
-    }
 
-}
-
-
+// ALL SCREEN COMPONENTS COMBINATION
 @Composable
 fun ListScreen(modifier: Modifier){
     val context = LocalContext.current
@@ -189,13 +146,71 @@ fun ListScreen(modifier: Modifier){
     val PokemonsList : List<Pokemon> = Json.decodeFromString(texto)
     input.close()
 
+    Column() {
+        CreateHeader()
+        Row(){
 
-    CreateScreenView(PokemonsList, {})
+            Column(Modifier.weight(0.9f)) {
+
+                Spacer(modifier = Modifier.weight(0.4f))
+
+                Box(modifier = Modifier.fillMaxWidth().weight(0.3f) ){
+                    // SET POKEMON IMAGE
+                }
+
+
+                Box(modifier = Modifier.padding(10.dp,0.dp,10.dp)){
+                    Button(modifier = Modifier.fillMaxWidth(),
+                        onClick = {/* SEND TO DETAILS ACTIVITY */}
+                    ) {
+                        Text(text = "Details")
+                    }
+                }
+
+                Spacer(modifier = Modifier.weight(0.5f))
+
+            }
+
+            LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp,10.dp) ) {
+                items(PokemonsList) { Pokemon ->
+                    // BUTON FOR EACH Pokemon IN PokemonList
+                    Box(Modifier.width(200.dp)){
+                        Button(onClick = { }, modifier = Modifier.fillMaxSize()) {
+                            CreateButtonInterior(Pokemon)
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
+// CREATE BUTTON INTERIOR
+@Composable
+fun CreateButtonInterior(pokemon : Pokemon){
+    Row(modifier = Modifier) {
+        Box(modifier = Modifier.size(20.dp), contentAlignment = Alignment.TopCenter){
+            Image(
+                painter = painterResource(R.drawable.pokeballempty),
+                contentDescription = "NotCaptures",
+                modifier = Modifier.fillMaxSize()
+            )
+        }
+        Spacer(Modifier.width(5.dp))
+        Box(modifier = Modifier.weight(0.1f), contentAlignment = Alignment.TopStart){
+            Text(
+                text = GetPokemonId(pokemon),
+                fontSize = 16.sp
 
-
-
-
+            )
+        }
+        Box(modifier =  Modifier, contentAlignment = Alignment.TopStart){
+            Text(
+                text = GetPokemonName(pokemon),
+                fontSize = 16.sp
+            )
+        }
+    }
+}
 
 @Preview(showBackground = true)
 @Composable

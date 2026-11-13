@@ -27,6 +27,7 @@
       11,
       14
     ],
+    "image_id": "p001.png",
     "flavor_text": [
       "うまれたときから せなかに\nふしぎな タネが うえてあって\nからだと ともに そだつという。",
       "태어났을 때부터 등에\n이상한 씨앗이 심어져 있으며\n몸과 함께 자란다고 한다.",
@@ -37,7 +38,8 @@
       "A strange seed was planted on its back at birth.\nThe plant sprouts and grows with this Pokémon.",
       "生まれたときから 背中に\n不思議な タネが 植えてあって\n体と ともに 育つという。",
       "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 2,
@@ -67,6 +69,7 @@
       11,
       14
     ],
+    "image_id": "p002.png",
     "flavor_text": [
       "つぼみが せなかに ついていて\nようぶんを きゅうしゅうしていくと\nおおきな はなが さくという。",
       "꽃봉오리가 등에 붙어 있으며\n양분을 흡수해가면\n커다란 꽃이 핀다고 한다.",
@@ -77,7 +80,8 @@
       "There is a plant bulb on its back.\nWhen it absorbs nutrients, the bulb is said to\nblossom into a large flower.",
       "つぼみが 背中に ついていて\n養分を 吸収していくと\n大きな 花が 咲くという。",
       "Este Pokémon tiene un bulbo en el lomo. Dicen que,\nal absorber nutrientes, el bulbo se transforma en una\nflor grande."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 3,
@@ -107,6 +111,7 @@
       11,
       14
     ],
+    "image_id": "p003.png",
     "flavor_text": [
       "おおきな はなびらを ひろげ\nたいようの ひかりを あびていると\nからだに げんきが みなぎっていく。",
       "큰 꽃잎을 펼쳐\n햇빛을 받고 있으면\n몸에 힘이 넘쳐흐른다.",
@@ -117,7 +122,8 @@
       "By spreading the broad petals of its flower\nand catching the sun’s rays, it fills its body\nwith power.",
       "大きな 花びらを 広げ\n太陽の 光を 浴びていると\n体に 元気が みなぎっていく。",
       "Llena su cuerpo de energía con los rayos solares que\ncaptan los anchos pétalos de su flor."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 4,
@@ -146,6 +152,7 @@
       11,
       14
     ],
+    "image_id": "p004.png",
     "flavor_text": [
       "しっぽの ほのおは ヒトカゲの\nせいめいりょくの あかし。\nげんきだと さかんに もえさかる。",
       "꼬리의 불꽃은 파이리의\n생명력의 상징이다.\n건강할 때 왕성하게 불타오른다.",
@@ -156,7 +163,8 @@
       "The flame on its tail indicates Charmander’s life\nforce. If it is healthy, the flame burns brightly.",
       "尻尾の 炎は\nヒトカゲの 生命力の 証。\n元気だと さかんに 燃えさかる。",
       "La llama de su cola indica la fuerza vital de\nCharmander. Será brillante si está sano."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 5,
@@ -185,6 +193,7 @@
       11,
       14
     ],
+    "image_id": "p005.png",
     "flavor_text": [
       "しっぽを ふりまわして あいてを\nなぎたおし するどい ツメで\nズタズタに ひきさいてしまう。",
       "꼬리를 휘둘러 상대를\n쓰러트리고 날카로운 발톱으로\n갈기갈기 찢어버린다.",
@@ -195,7 +204,8 @@
       "It lashes about with its tail to knock down its foe.\nIt then tears up the fallen opponent with\nsharp claws.",
       "尻尾を 振り回して\n相手を なぎ倒し 鋭い ツメで\nズタズタに ひきさいてしまう。",
       "Suele usar la cola para derribar a su rival. Cuando lo\ntira, se vale de sus afiladas garras para acabar con él."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 6,
@@ -225,6 +235,7 @@
       11,
       14
     ],
+    "image_id": "p006.png",
     "flavor_text": [
       "くちから しゃくねつの ほのおを\nはきだすとき しっぽの さきは\nより あかく はげしく もえあがる。",
       "입에서 작렬하는 불꽃을\n토해낼 때 꼬리의 끝이\n더욱 붉고 격렬하게 타오른다.",
@@ -235,7 +246,8 @@
       "When expelling a blast of superhot fire,\nthe red flame at the tip of its tail burns\nmore intensely.",
       "口から 灼熱の 炎を 吐き出すとき\n尻尾の 先は\nより 赤く 激しく 燃え上がる。",
       "Cuando lanza una descarga de fuego supercaliente, la\nroja llama de su cola brilla más intensamente."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 7,
@@ -264,6 +276,7 @@
       11,
       14
     ],
+    "image_id": "p007.png",
     "flavor_text": [
       "こうらに とじこもり みを まもる。\nあいての すきを みのがさず\nみずを ふきだして はんげきする。",
       "등껍질에 숨어 몸을 보호한다.\n상대의 빈틈을 놓치지 않고\n물을 뿜어내어 반격한다.",
@@ -274,7 +287,8 @@
       "It shelters itself in its shell, then strikes back\nwith spouts of water at every opportunity.",
       "甲羅に 閉じこもり 身を 守る。\n相手の すきを 見逃さず\n水を 噴き出して 反撃する。",
       "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 8,
@@ -303,6 +317,7 @@
       11,
       14
     ],
+    "image_id": "p008.png",
     "flavor_text": [
       "ポカンと あたまを たたかれるとき\nこうらに ひっこんで よける。でも\nちょっとだけ しっぽが でているよ。",
       "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다.",
@@ -313,7 +328,8 @@
       "When tapped, this Pokémon will pull in its head,\nbut its tail will still stick out a little bit.",
       "ポカンと 頭を たたかれるとき\n甲羅に 引っこんで 避ける。でも\nちょっとだけ 尻尾が 出ているよ。",
       "Si es golpeado, esconderá su cabeza. Aun así, su cola\npuede seguir golpeando."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 9,
@@ -342,6 +358,7 @@
       11,
       14
     ],
+    "image_id": "p009.png",
     "flavor_text": [
       "からだが おもたく のしかかって\nあいてを きぜつさせる。\nピンチの ときは カラに かくれる。",
       "무거운 몸으로 상대를\n덮쳐서 기절시킨다.\n위기에 처하면 등껍질에 숨는다.",
@@ -352,7 +369,8 @@
       "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
       "体が 重たく のしかかって\n相手を 気絶させる。\nピンチのときは 殻に 隠れる。",
       "Para acabar con su enemigo, lo aplasta con el peso de\nsu cuerpo. En momentos de apuro, se esconde en el\ncaparazón."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 10,
@@ -381,6 +399,7 @@
       11,
       14
     ],
+    "image_id": "p010.png",
     "flavor_text": [
       "あたまの しょっかく から\nきょうれつな においを だして\nてきを おいはらい みをまもる。",
       "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다.",
@@ -391,7 +410,8 @@
       "For protection, it releases a horrible stench from\nthe antennae on its head to drive away enemies.",
       "頭の 触覚から\n強烈な においを 出して\n敵を 追い払い 身を守る。",
       "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 11,
@@ -420,6 +440,7 @@
       11,
       14
     ],
+    "image_id": "p011.png",
     "flavor_text": [
       "こうてつのように かたい カラで\nやわらかい なかみを まもっている。\nしんかするまで じっと たえている。",
       "강철같이 단단한 껍질로\n부드러운 몸을 보호하고 있다.\n진화할 때까지 가만히 참고 있다.",
@@ -430,7 +451,8 @@
       "A steel-hard shell protects its tender body.\nIt quietly endures hardships while\nawaiting evolution.",
       "鋼鉄のように 硬い 殻で\nやわらかい 中身を 守っている。\n進化するまで じっと 耐えている。",
       "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 12,
@@ -460,6 +482,7 @@
       11,
       14
     ],
+    "image_id": "p012.png",
     "flavor_text": [
       "はなの ミツが だいこうぶつ。\nわずかな かふんで はなばたけの\nばしょを さがしだすことが できる。",
       "꽃의 꿀을 매우 좋아한다.\n약간의 꽃가루만으로 꽃밭이\n있는 장소를 찾아낼 수 있다.",
@@ -470,7 +493,8 @@
       "It loves the honey of flowers and can locate\nflower patches that have even tiny amounts\nof pollen.",
       "花の ミツが 大好物。\nわずかな 花粉で 花畑の\n場所を 探し出すことが できる。",
       "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 13,
@@ -500,6 +524,7 @@
       11,
       14
     ],
+    "image_id": "p013.png",
     "flavor_text": [
       "もりや くさちに おおく せいそく。\nあたまの さきに ５センチぐらいの\nちいさく するどい どくばりをもつ。",
       "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다.",
@@ -510,7 +535,8 @@
       "Often found in forests and grasslands.\nIt has a sharp, toxic barb of around two inches\non top of its head.",
       "森や 草地に 多く 生息。\n頭の 先に ５センチぐらいの\n小さく 鋭い 毒針を持つ。",
       "Suele habitar bosques y praderas. Tiene un afilado y\nvenenoso aguijón de unos 5 cm encima de la cabeza."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 14,
@@ -540,6 +566,7 @@
       11,
       14
     ],
+    "image_id": "p014.png",
     "flavor_text": [
       "じぶんでは ほとんど うごけないが\nあぶないときは かたくなって\nみを まもっているようだ。",
       "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다.",
@@ -550,7 +577,8 @@
       "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
       "自分では ほとんど 動けないが\n危ないときは 硬くなって\n身を守っているようだ。",
       "Casi incapaz de moverse, este Pokémon solo puede\nendurecer su caparazón para protegerse."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 15,
@@ -580,6 +608,7 @@
       11,
       14
     ],
+    "image_id": "p015.png",
     "flavor_text": [
       "りょうてと おしりにある ３ぼんの\nどくばりで あいてを さして さして\nさしまくって こうげきする。",
       "양손과 엉덩이에 있는 3개의\n독침으로 상대를 찌르고 찌르고\n또 찌르며 공격한다.",
@@ -590,7 +619,8 @@
       "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
       "両手と お尻にある ３本の 毒針で\n相手を 刺して 刺して\n刺しまくって 攻撃する。",
       "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 16,
@@ -620,6 +650,7 @@
       11,
       14
     ],
+    "image_id": "p016.png",
     "flavor_text": [
       "もりや はやしに おおく ぶんぷ。\nちじょうでも はげしく はばたいて\nすなを かけたりする。",
       "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다.",
@@ -630,7 +661,8 @@
       "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
       "森や 林に 多く 分布。\n地上でも 激しく はばたいて\n砂を かけたりする。",
       "Muy común en bosques y selvas. Aletea al nivel del\nsuelo para levantar la gravilla."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 17,
@@ -660,6 +692,7 @@
       11,
       14
     ],
+    "image_id": "p017.png",
     "flavor_text": [
       "あしの ツメが はったつしている。\nエサの タマタマを つかんで\n１００キロさきの す まで はこぶ。",
       "발톱이 발달해 있다.\n먹이인 아라리를 잡아\n100km 떨어져 있는 둥지까지 나른다.",
@@ -670,7 +703,8 @@
       "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
       "足の ツメが 発達している。\nエサの タマタマを つかんで\n１００キロ先の 巣まで 運ぶ。",
       "Tiene unas garras desarrolladas. Puede atrapar un\nExeggcute y transportarlo desde una distancia de\ncasi 100 km."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 18,
@@ -700,6 +734,7 @@
       11,
       14
     ],
+    "image_id": "p018.png",
     "flavor_text": [
       "エサを さがすとき すいめん\nすれすれを すべるように とんで\nコイキングなどを わしづかみにする。",
       "먹이를 찾을 때 수면을\n아슬아슬하게 미끄러지듯 날아\n잉어킹 등을 움켜잡는다.",
@@ -710,7 +745,8 @@
       "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
       "エサを 探すとき 水面 すれすれを\n滑るように 飛んで\nコイキングなどを わしづかみにする。",
       "Cuando caza, vuela muy deprisa a ras del agua y\nsorprende a inocentes presas como Magikarp."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 19,
@@ -739,6 +775,7 @@
       11,
       14
     ],
+    "image_id": "p019.png",
     "flavor_text": [
       "たべるものが あるところなら\nどこにだって せいそくする。\n１にちじゅう エサを さがしている。",
       "먹을 것이 있는 곳이라면\n어디서든 서식한다.\n온종일 먹이를 찾아다닌다.",
@@ -749,7 +786,8 @@
       "Living wherever there is food available,\nit ceaselessly scavenges for edibles\nthe entire day.",
       "食べるものが あるところなら\nどこにだって 生息する。\n１日中 エサを 探している。",
       "Vive allí donde haya comida disponible. Busca todo\nel día, sin descanso, algo comestible."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 20,
@@ -778,6 +816,7 @@
       11,
       14
     ],
+    "image_id": "p020.png",
     "flavor_text": [
       "のびつづける まえばを けずるため\nかたい ものを かじる しゅうせい。\nブロックべいも かじって こわす。",
       "계속 자라는 앞니를 갈아내려고\n딱딱한 것을 갉는 습성이 있다.\n벽돌로 된 벽도 갉아서 부순다.",
@@ -788,7 +827,8 @@
       "It whittles its constantly growing fangs by gnawing\non hard things. It can chew apart cinder walls.",
       "伸び続ける 前歯を 削るため\n硬い ものを かじる 習性。\nブロック塀も かじって 壊す。",
       "Lima sus colmillos royendo objetos duros. Con ellos\npuede destruir incluso paredes de hormigón."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 21,
@@ -818,6 +858,7 @@
       11,
       14
     ],
+    "image_id": "p021.png",
     "flavor_text": [
       "じぶんの テリトリーを まもるため\nみじかいハネを はばたかせ\nいそがしく とびまわっている。",
       "자신의 영역을 지키기 위해\n작은 날개를 쳐서\n바쁘게 주위를 날아 맴돈다.",
@@ -828,7 +869,8 @@
       "Very protective of its territory, it flaps its short\nwings busily to dart around at high speed.",
       "自分の テリトリーを 守るため\n短い 羽を はばたかせて\n忙しく 飛び回っている。",
       "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 22,
@@ -858,6 +900,7 @@
       11,
       14
     ],
+    "image_id": "p022.png",
     "flavor_text": [
       "おおきな つばさで おおぞらを\nとびつづけることが できる。\n１かいも おりなくても へいきだ。",
       "커다란 날개로 넓은 하늘을\n계속 날 수 있다.\n한 번도 내려앉지 않아도 괜찮다.",
@@ -868,7 +911,8 @@
       "With its huge and magnificent wings, it can keep\naloft without ever having to land for rest.",
       "大きな 翼で 大空を\n飛び続けることが できる。\n１回も 降りなくても 平気だ。",
       "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 23,
@@ -897,6 +941,7 @@
       11,
       14
     ],
+    "image_id": "p023.png",
     "flavor_text": [
       "そだつほどに どんどん ながくなる。\nそして よなかは きのえだに\nグルグルと からまって やすむ。",
       "성장할수록 점점 길어진다.\n밤에는 나뭇가지에\n몸을 돌돌 말고 쉰다.",
@@ -907,7 +952,8 @@
       "The older it gets, the longer it grows.\nAt night, it wraps its long body around\ntree branches to rest.",
       "育つほどに どんどん 長くなる。\nそして 夜中は 木の枝に\nグルグルと 絡まって 休む。",
       "Cuanto más viejo, más crece este Pokémon. Por la\nnoche, descansa en las ramas de los árboles."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 24,
@@ -936,6 +982,7 @@
       11,
       14
     ],
+    "image_id": "p024.png",
     "flavor_text": [
       "おなかの もようが こわいかおに\nみえる。よわいてきは そのもようを\nみただけで にげだしてしまう。",
       "배의 무늬가 무서운 얼굴로\n보인다. 약한 적은 그 무늬만\n보고도 도망치고 만다.",
@@ -946,7 +993,8 @@
       "The pattern on its belly appears to be a frightening\nface. Weak foes will flee just at the sight of\nthe pattern.",
       "お腹の 模様が 怖い 顔に 見える。\n弱い 敵は その模様を\n見ただけで 逃げ出してしまう。",
       "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 25,
@@ -975,6 +1023,7 @@
       11,
       14
     ],
+    "image_id": "p025.png",
     "flavor_text": [
       "しっぽを たてて まわりの\nようすを さぐっていると ときどき\nかみなりが しっぽに おちてくる。",
       "꼬리를 세우고 주변의\n상황을 살피다 보면 가끔\n꼬리에 번개가 친다.",
@@ -985,7 +1034,8 @@
       "It raises its tail to check its surroundings.\nThe tail is sometimes struck by lightning\nin this pose.",
       "尻尾を 立てて まわりの 様子を\n探っていると ときどき\n雷が 尻尾に 落ちてくる。",
       "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 26,
@@ -1014,6 +1064,7 @@
       11,
       14
     ],
+    "image_id": "p026.png",
     "flavor_text": [
       "でんきが たまってくると\nきんにくが しげきされ いつもより\nこうげきてきに なってしまう。",
       "전기가 모이면\n근육이 자극되어 여느 때보다\n공격적이 된다.",
@@ -1024,7 +1075,8 @@
       "When its electricity builds, its muscles are stimulated,\nand it becomes more aggressive than usual.",
       "電気が たまってくると\n筋肉が 刺激され\nいつもより 攻撃的に なってしまう。",
       "Cuando se carga de electricidad, sus músculos se\ntensan y se vuelve más agresivo de lo normal."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 27,
@@ -1053,6 +1105,7 @@
       11,
       14
     ],
+    "image_id": "p027.png",
     "flavor_text": [
       "じめんに あなを ほって すむ。\nじぶんに きけんが せまると\nまるくなって みを まもる。",
       "지면에 구멍을 파고 산다.\n자신에게 위험이 닥쳐오면\n둥글게 말아서 몸을 보호한다.",
@@ -1063,7 +1116,8 @@
       "It burrows and lives underground. If threatened,\nit curls itself up into a ball for protection.",
       "地面に 穴を 掘って 住む。\n自分に 危険が 迫ると\nまるくなって 身を 守る。",
       "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 28,
@@ -1092,6 +1146,7 @@
       11,
       14
     ],
+    "image_id": "p028.png",
     "flavor_text": [
       "すごい いきおいで じめんをほると\nトゲや ツメが おれてしまうが\nつぎのひには はえそろっている。",
       "굉장한 기세로 지면을 파면\n가시와 발톱이 부러져 버리지만\n다음 날에는 바로 돋아나 있다.",
@@ -1102,7 +1157,8 @@
       "If it digs at an incredible pace, it may snap off\nits spikes and claws. They grow back in a day.",
       "すごい 勢いで 地面を掘ると\nトゲや ツメが 折れてしまうが\n次の日には 生えそろっている。",
       "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 29,
@@ -1131,6 +1187,7 @@
       11,
       14
     ],
+    "image_id": "p029.png",
     "flavor_text": [
       "からだは ちいさくても どくばりを\nもつため ちゅういが ひつようだ。\nメスのほうが ツノが ちいさい。",
       "몸은 작지만 독침을\n지니고 있기 때문에 주의가 필요하다.\n암컷의 뿔이 더 작다.",
@@ -1141,7 +1198,8 @@
       "Although small, its venomous barbs render\nthis Pokémon dangerous. The female has\nsmaller horns.",
       "体は 小さくても 毒針を\n持つため 注意が 必要だ。\nメスのほうが ツノが 小さい。",
       "Aunque pequeñas, sus venenosas púas son muy\npeligrosas. Tienen un cuerno más pequeño que\nlos machos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 30,
@@ -1170,6 +1228,7 @@
       11,
       14
     ],
+    "image_id": "p030.png",
     "flavor_text": [
       "メスなので せいかくは おんこう。\nくちから だす ちょうおんぱは\nあいてを まどわす ちからがある。",
       "암컷으로 성격은 온화하다.\n입에서 내보내는 초음파는\n상대를 혼란시키는 힘이 있다.",
@@ -1180,7 +1239,8 @@
       "The female has a gentle temperament.\nIt emits ultrasonic cries that have the power\nto befuddle foes.",
       "メスなので 性格は 温厚。\n口から 出す 超音波は\n相手を まどわす 力がある。",
       "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 31,
@@ -1210,6 +1270,7 @@
       11,
       14
     ],
+    "image_id": "p031.png",
     "flavor_text": [
       "ウロコで おおわれた がんじょうな\nからだで すあなの いりぐちをふさぎ\nてきから こどもたちを まもる。",
       "비늘로 뒤덮인 튼튼한\n몸으로 둥지의 입구를 막아\n상대로부터 새끼들을 지킨다.",
@@ -1220,7 +1281,8 @@
       "It uses its scaly, rugged body to seal the entrance\nof its nest and protect its young from predators.",
       "ウロコで 覆われた 頑丈な 体で\n巣穴の 入り口を ふさぎ\n敵から 子供たちを 守る。",
       "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 32,
@@ -1249,6 +1311,7 @@
       11,
       14
     ],
+    "image_id": "p032.png",
     "flavor_text": [
       "くさむらの うえに みみだけ だして\nまわりの けはいを さぐる。\nもうどくの ツノで みを まもる。",
       "풀밭 위로 귀만 내어\n주위의 낌새를 살핀다.\n맹독의 뿔로 몸을 보호한다.",
@@ -1259,7 +1322,8 @@
       "It scans its surroundings by raising its ears out of\nthe grass. Its toxic horn is for protection.",
       "草むらの 上に 耳だけ 出して\nまわりの 気配を 探る。\n猛毒の ツノで 身を 守る。",
       "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 33,
@@ -1288,6 +1352,7 @@
       11,
       14
     ],
+    "image_id": "p033.png",
     "flavor_text": [
       "はったつした みみを たてて\nまわりの けはいを さぐる。\nなにかあると すぐに とびかかる。",
       "발달한 귀를 세워\n주위의 낌새를 살핀다.\n무슨 일이 생기면 바로 덤벼든다.",
@@ -1298,7 +1363,8 @@
       "It raises its big ears to check its surroundings.\nIf it senses anything, it attacks immediately.",
       "発達した 耳を 立てて\nまわりの 気配を 探る。\nなにかあると すぐに 飛びかかる。",
       "Levanta sus grandes orejas para vigilar. Si detecta\nalgo, atacará de inmediato."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 34,
@@ -1328,6 +1394,7 @@
       11,
       14
     ],
+    "image_id": "p034.png",
     "flavor_text": [
       "いしのように かたい ひふと\nながく のびた ツノが とくちょう。\nツノには どくもあるので ちゅうい。",
       "돌처럼 딱딱한 피부와\n길게 뻗은 뿔이 특징이다.\n뿔에는 독이 있으니 주의해야 한다.",
@@ -1338,7 +1405,8 @@
       "It is recognized by its rock-hard hide and\nits extended horn. Be careful with the horn,\nas it contains venom.",
       "石のように 硬い 皮膚と\n長く 伸びた ツノが 特徴。\nツノには 毒も あるので 注意。",
       "Es fácil reconocerlo por tener una dura piel y un gran\ncuerno lleno de peligrosísimo veneno."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 35,
@@ -1367,6 +1435,7 @@
       11,
       14
     ],
+    "image_id": "p035.png",
     "flavor_text": [
       "まんげつのよる ピッピが あつまって\nダンスを おどるようすを みると\nしあわせに なれると いわれている。",
       "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
@@ -1377,7 +1446,8 @@
       "It is said that happiness will come to those who see\na gathering of Clefairy dancing under a full moon.",
       "満月の夜 ピッピが 集まって\nダンスを 踊る様子を 見ると\n幸せに なれると 言われている。",
       "Se dice que la felicidad llegará a quien vea a un grupo\nde Clefairy bailando a la luz de la luna llena."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 36,
@@ -1406,6 +1476,7 @@
       11,
       14
     ],
+    "image_id": "p036.png",
     "flavor_text": [
       "１キロさきで おちた ハリの おとも\nききわける すぐれた みみを もつ。\nしずかな やまおくに すんでいる。",
       "1km 전방에 떨어진 바늘 소리도\n분간할 수 있는 우수한 귀를 가지고\n있다. 조용한 산속에 살고 있다.",
@@ -1416,7 +1487,8 @@
       "Its hearing is so acute it can hear a pin drop over\nhalf a mile away. It lives on quiet mountains.",
       "１キロ先で 落ちた 針の 音も\n聞き分ける 優れた 耳を 持つ。\n静かな 山奥に 住んでいる。",
       "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 37,
@@ -1445,6 +1517,7 @@
       11,
       14
     ],
+    "image_id": "p037.png",
     "flavor_text": [
       "うまれたとき しっぽは まっしろで\n１ぽんしかない。そだつと やがて\nさきが わかれて しっぽが ふえる。",
       "태어났을 때는 꼬리가 새하얗고\n하나밖에 없다. 성장하면\n끝이 갈라지며 꼬리 수가 늘어난다.",
@@ -1455,7 +1528,8 @@
       "When it is born, it has just one snow-white tail.\nThe tail splits from its tip as it grows older.",
       "生まれたとき 尻尾は 真っ白で\n１本しかない。育つと やがて\n先が 分かれて 尻尾が 増える。",
       "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 38,
@@ -1484,6 +1558,7 @@
       11,
       14
     ],
+    "image_id": "p038.png",
     "flavor_text": [
       "おうごんに かがやく たいもうと\n９ほんの ながい しっぽを もつ。\n１０００ねんは いきると いわれる。",
       "황금빛으로 빛나는 털과\n9개의 긴 꼬리를 지녔다.\n1000년을 산다고 한다.",
@@ -1494,7 +1569,8 @@
       "It has nine long tails and fur that gleams gold.\nIt is said to live for 1,000 years.",
       "黄金に 輝く 体毛と\n９本の 長い 尻尾を 持つ。\n１０００年は 生きると 言われる。",
       "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 39,
@@ -1524,6 +1600,7 @@
       11,
       14
     ],
+    "image_id": "p039.png",
     "flavor_text": [
       "まるくて おおきい ひとみで\nさそいこみ ここちよい うたを\nうたい あいてを ねむらせる。",
       "동그랗고 커다란 눈동자로\n유인하고 기분 좋은 노래를\n불러 상대방을 잠들게 한다.",
@@ -1534,7 +1611,8 @@
       "It captivates foes with its huge, round eyes,\nthen lulls them to sleep by singing a\nsoothing melody.",
       "まるくて 大きい 瞳で 誘いこみ\n心地よい 歌を 歌い\n相手を 眠らせる。",
       "Cautiva con la mirada a su enemigo y hace que se\nquede profundamente dormido mientras entona una\ndulce melodía."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 40,
@@ -1564,6 +1642,7 @@
       11,
       14
     ],
+    "image_id": "p040.png",
     "flavor_text": [
       "２ひき よりそいあうと おたがいの\nけがわが きもちよすぎて\nはなれられなく なってしまう。",
       "2마리가 바싹 붙어 있으면 서로의\n털이 너무 기분 좋아서\n떨어지지 않게 되어버린다.",
@@ -1574,7 +1653,8 @@
       "Their fur feels so good that if two of them snuggle\ntogether, they won’t want to be separated.",
       "２匹 寄り添いあうと お互いの\n毛皮が 気持ち良すぎて\n離れられなく なってしまう。",
       "Su piel es tan suave que si dos de ellos se acurrucan\njuntos, no querrán separarse nunca."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 41,
@@ -1604,6 +1684,7 @@
       11,
       14
     ],
+    "image_id": "p041.png",
     "flavor_text": [
       "くちから だす ちょうおんぱで\nりょうめが なくても まわりの\nしょうがいぶつを さっちできる。",
       "입에서 내는 초음파로\n두 눈이 없어도 주위의\n장애물을 탐색할 수 있다.",
@@ -1614,7 +1695,8 @@
       "Even though it has no eyes, it can sense obstacles\nusing ultrasonic waves it emits from its mouth.",
       "口から 出す 超音波で\n両目が なくても\nまわりの 障害物を 察知できる。",
       "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 42,
@@ -1644,6 +1726,7 @@
       11,
       14
     ],
+    "image_id": "p042.png",
     "flavor_text": [
       "かみついたら さいご。しぬほど\nちを すいまくるので おもたくなって\nじぶんで とべなくなることもある。",
       "물리면 끝이다. 죽을 정도로\n피를 빨아들이기 때문에 무거워져서\n날 수 없게 될 때도 있다.",
@@ -1654,7 +1737,8 @@
       "Once it bites, it will not stop draining energy\nfrom the victim even if it gets too heavy to fly.",
       "かみついたら 最後。死ぬほど\n血を 吸いまくるので 重たくなって\n自分で 飛べなくなることもある。",
       "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 43,
@@ -1684,6 +1768,7 @@
       11,
       14
     ],
+    "image_id": "p043.png",
     "flavor_text": [
       "ひるまは たいようを さけるため\nつめたい じめんに もぐっている。\nつきのひかりを あびて そだつ。",
       "낮에는 태양을 피하려고\n차가운 땅속에 들어가 있다.\n달빛을 쬐어 성장한다.",
@@ -1694,7 +1779,8 @@
       "During the day, it stays in the cold underground\nto avoid the sun. It grows by bathing in moonlight.",
       "昼間は 太陽を 避けるため\n冷たい 地面に 潜っている。\n月の 光を 浴びて 育つ。",
       "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 44,
@@ -1724,6 +1810,7 @@
       11,
       14
     ],
+    "image_id": "p044.png",
     "flavor_text": [
       "もうれつな クサさ！ それなのに\n１０００にんに ひとりぐらい\nこれを このんで かぐひとがいる。",
       "강렬한 악취가 난다! 그럼에도\n불구하고 1000명에 한 명 정도\n이 냄새를 즐겨 맡는 사람이 있다.",
@@ -1734,7 +1821,8 @@
       "Smells incredibly foul! However, around one out\nof a thousand people enjoy sniffing its\nnose-bending stink.",
       "猛烈な クサさ！ それなのに\n１０００人に １人ぐらい\nこれを 好んで かぐ 人がいる。",
       "¡Huele bastante mal! De todas formas, una de cada\nmil personas aprecian su fétido olor."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 45,
@@ -1764,6 +1852,7 @@
       11,
       14
     ],
+    "image_id": "p045.png",
     "flavor_text": [
       "はなびらが おおきいほど たくさん\nかふんを だすが あたまが\nおもたくて つかれてしまうという。",
       "꽃잎이 클수록 많은\n꽃가루를 만들어 내지만 머리가\n무거워서 지쳐버린다고 한다.",
@@ -1774,7 +1863,8 @@
       "The larger its petals, the more toxic pollen it\ncontains. Its big head is heavy and hard to hold up.",
       "花びらが 大きいほど\nたくさん 花粉を 出すが\n頭が 重たくて 疲れてしまうという。",
       "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 46,
@@ -1804,6 +1894,7 @@
       11,
       14
     ],
+    "image_id": "p046.png",
     "flavor_text": [
       "むしの せなかに はえているのは\nとうちゅうかそう という キノコ。\nそだつと キノコも おおきくなる。",
       "벌레의 등에 돋아나 있는 것은\n동충하초라는 버섯이다.\n성장하면 버섯도 커진다.",
@@ -1814,7 +1905,8 @@
       "Growing out of the bug’s back are mushrooms\ncalled tochukaso. The mushrooms grow\nwith the bug host.",
       "虫の 背中に 生えているのは\n冬虫夏草 という キノコ。\n育つと キノコも 大きくなる。",
       "Lleva en el lomo dos setas parásitas llamadas\ntochukaso, que crecen con él."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 47,
@@ -1844,6 +1936,7 @@
       11,
       14
     ],
+    "image_id": "p047.png",
     "flavor_text": [
       "からだよりも おおきな キノコが\nパラセクトを あやつっている。\nどくの ほうしを ばらまく。",
       "몸보다 큰 버섯이\n파라섹트를 조종하고 있다.\n독 포자를 여기저기 뿌린다.",
@@ -1854,7 +1947,8 @@
       "A mushroom grown larger than the host’s body\ncontrols Parasect. It scatters poisonous spores.",
       "体よりも 大きな キノコが\nパラセクトを 操っている。\n毒の 胞子を ばらまく。",
       "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 48,
@@ -1884,6 +1978,7 @@
       11,
       14
     ],
+    "image_id": "p048.png",
     "flavor_text": [
       "ちいさな めが たくさん あつまって\nおおきな めに なっている。\nよるになると あかりに あつまる。",
       "작은 눈이 많이 모여\n큰 눈을 이루고 있다.\n밤이 되면 불빛을 향해 모여든다.",
@@ -1894,7 +1989,8 @@
       "Its big eyes are actually clusters of tiny eyes.\nAt night, its kind is drawn by light.",
       "小さな 目が たくさん 集まって\n大きな 目に なっている。\n夜になると 明かりに 集まる。",
       "Sus grandes ojos son en realidad grupos de ojos\ndiminutos. Por la noche se siente atraído por la luz."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 49,
@@ -1924,6 +2020,7 @@
       11,
       14
     ],
+    "image_id": "p049.png",
     "flavor_text": [
       "ばらまかれた りんぷんに ふれると\nからだの かんかくが おかしくなって\nまっすぐ たって いられなくなる。",
       "흩뿌려진 날개 가루에 닿으면\n몸의 감각이 이상해져서\n똑바로 서 있을 수 없게 된다.",
@@ -1934,7 +2031,8 @@
       "The scales it scatters will paralyze anyone who\ntouches them, making that person unable to stand.",
       "ばらまかれた りんぷんに 触れると\n体の 感覚が おかしくなって\nまっすぐ 立っていられなくなる。",
       "Lanza unas escamas que paralizan a cualquiera.\nQuien las toque, no podrá ni ponerse de pie."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 50,
@@ -1963,6 +2061,7 @@
       11,
       14
     ],
+    "image_id": "p050.png",
     "flavor_text": [
       "ちか１メートルくらいを ほりすすみ\nきのねっこなどを かじって いきる。\nたまに ちじょうに かおをだす。",
       "지하 1m 정도를 파고들어 가서\n나무뿌리 등을 씹어 먹고 산다.\n가끔 지상으로 얼굴을 내민다.",
@@ -1973,7 +2072,8 @@
       "Lives about one yard underground where it feeds\non plant roots. It sometimes appears aboveground.",
       "地下１メートルくらいを 掘りすすみ\n木の根っこなどを かじって 生きる。\nたまに 地上に 顔を出す。",
       "Vive un metro por debajo del suelo, donde se alimenta\nde raíces. También aparece en la superficie."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 51,
@@ -2002,6 +2102,7 @@
       11,
       14
     ],
+    "image_id": "p051.png",
     "flavor_text": [
       "ちちゅうを ほりすすんで\nあいてが ゆだんしているところを\nべつの ばしょから こうげきする。",
       "땅속을 파고들어 가\n상대가 방심하고 있을 때\n다른 곳에서 공격한다.",
@@ -2012,7 +2113,8 @@
       "In battle, it digs through the ground and strikes\nthe unsuspecting foe from an unexpected direction.",
       "地中を 掘りすすんで\n相手が 油断しているところを\n別の 場所から 攻撃する。",
       "En combate, cava la tierra, se esconde y sale de\nrepente para golpear a su rival. Nunca se sabe por\ndónde puede aparecer."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 52,
@@ -2041,6 +2143,7 @@
       11,
       14
     ],
+    "image_id": "p052.png",
     "flavor_text": [
       "よなかに こうどうする しゅうせい。\nきらきら ひかるものを みつけると\nまけないくらい ひとみが かがやく。",
       "한밤중에 움직이는 습성이 있다.\n반짝반짝 빛나는 것을 발견하면\n그에 못지않게 눈동자가 반짝인다.",
@@ -2051,7 +2154,8 @@
       "It is nocturnal in nature. If it spots something shiny,\nits eyes glitter brightly.",
       "夜中に 行動する 習性。\nキラキラ 光るものを 見つけると\n負けないくらい 瞳が 輝く。",
       "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 53,
@@ -2080,6 +2184,7 @@
       11,
       14
     ],
+    "image_id": "p053.png",
     "flavor_text": [
       "けなみが うつくしく ペットに\nしたがる ひとも おおいが すぐ\nひっかいたり するので てごわいぞ。",
       "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만, 곧잘\n할퀴려 들기 때문에 쉽지 않다.",
@@ -2090,7 +2195,8 @@
       "Although its fur has many admirers, it is tough\nto raise as a pet because of its fickle meanness.",
       "毛並みが 美しく\nペットにしたがる 人も 多いが すぐ\nひっかいたり するので 手強いぞ。",
       "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 54,
@@ -2119,6 +2225,7 @@
       11,
       14
     ],
+    "image_id": "p054.png",
     "flavor_text": [
       "いつも ずつうに なやまされている。\nこの ずつうが はげしくなると\nふしぎな ちからを つかいはじめる。",
       "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다.",
@@ -2129,7 +2236,8 @@
       "It is constantly wracked by a headache.\nWhen the headache turns intense,\nit begins using mysterious powers.",
       "いつも 頭痛に 悩まされている。\nこの 頭痛が 激しくなると\n不思議な 力を 使いはじめる。",
       "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 55,
@@ -2158,6 +2266,7 @@
       11,
       14
     ],
+    "image_id": "p055.png",
     "flavor_text": [
       "ゆうぐれ みずべに すがたをみせる。\nひたいが あやしく ひかるとき\nじんつうりきを つかいこなすという。",
       "해 질 무렵 강가에 모습을 나타낸다.\n이마가 이상하게 빛날 때\n신통력을 발휘한다고 전해진다.",
@@ -2168,7 +2277,8 @@
       "It appears by waterways at dusk.\nIt may use telekinetic powers\nif its forehead glows mysteriously.",
       "夕暮れ 水辺に 姿をみせる。\n額が あやしく 光るとき\n神通力を 使いこなすという。",
       "Aparece en ríos al anochecer. Puede usar poderes\ntelequinéticos si su frente brilla misteriosamente."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 56,
@@ -2197,6 +2307,7 @@
       11,
       14
     ],
+    "image_id": "p056.png",
     "flavor_text": [
       "いみもなく おこって あばれだすと\nなかまの くべつも つかなくなるので\nちかよるのは ひじょうに きけんだ。",
       "이유 없이 화내고 날뛰기 시작하면\n동료도 구별하지 못하기 때문에\n가까이 가는 것은 매우 위험하다.",
@@ -2207,7 +2318,8 @@
       "It’s unsafe to approach if it gets violently enraged\nfor no reason and can’t distinguish friends\nfrom foes.",
       "意味もなく 怒って 暴れ出すと\n仲間の 区別も つかなくなるので\n近寄るのは 非常に 危険だ。",
       "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 57,
@@ -2236,6 +2348,7 @@
       11,
       14
     ],
+    "image_id": "p057.png",
     "flavor_text": [
       "まわりに だれも いないときだけは\nおこるのを やめている。しかし\nそれをみるのは むずかしい。",
       "주위에 아무도 없을 때만은\n화를 내지 않고 있다. 그러나\n그 모습을 보기가 어렵다.",
@@ -2246,7 +2359,8 @@
       "It stops being angry only when nobody else is\naround. To view this moment is very difficult.",
       "まわりに だれも いないときだけは\n怒るのを やめている。しかし\nそれを 見るのは 難しい。",
       "Solo se calma cuando nadie está cerca. Llegar a ver\nese momento es realmente difícil."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 58,
@@ -2275,6 +2389,7 @@
       11,
       14
     ],
+    "image_id": "p058.png",
     "flavor_text": [
       "ひとなつこく せいじつな せいかく。\nてきには ほえて かみつき\nおいはらおう とする。",
       "사람을 잘 따르는 충실한 성격이다.\n적에게는 짖거나 물며\n쫓아내려고 한다.",
@@ -2285,7 +2400,8 @@
       "Very friendly and faithful to people. It will try to\nrepel enemies by barking and biting.",
       "人懐こく 誠実な 性格。\n敵には ほえて かみつき\n追い払おうとする。",
       "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 59,
@@ -2314,6 +2430,7 @@
       11,
       14
     ],
+    "image_id": "p059.png",
     "flavor_text": [
       "むかしから おおくの ひとを\nとりこにした うつくしい ポケモン。\nとぶように かろやかに はしる。",
       "옛날부터 많은 사람의\n마음을 사로잡은 아름다운 포켓몬이다.\n날듯이 경쾌하게 달린다.",
@@ -2324,7 +2441,8 @@
       "A Pokémon that has long been admired for its\nbeauty. It runs agilely as if on wings.",
       "昔から 多くの 人を\n虜にした 美しい ポケモン。\n飛ぶように 軽やかに 走る。",
       "Un Pokémon muy admirado desde la antigüedad por\nsu belleza. Corre ágilmente como si tuviera alas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 60,
@@ -2353,6 +2471,7 @@
       11,
       14
     ],
+    "image_id": "p060.png",
     "flavor_text": [
       "スベスベした くろいひふは うすく\nしめっている。ないぞうの いちぶが\nすけて うずまきじょうに みえる。",
       "매끄럽고 검은 피부는 얇고\n축축하다. 내장 일부가\n비쳐서 소용돌이 모양으로 보인다.",
@@ -2363,7 +2482,8 @@
       "Its slick black skin is thin and damp. A part of its\ninternal organs can be seen through the skin as a\nspiral pattern.",
       "スベスベした 黒い皮膚は 薄く\n湿っている。内臓の 一部が\n透けて 渦巻状に 見える。",
       "Tiene una piel extraordinaria, fina y húmeda, que deja\nentrever las vísceras que tiene dispuestas en espiral."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 61,
@@ -2392,6 +2512,7 @@
       11,
       14
     ],
+    "image_id": "p061.png",
     "flavor_text": [
       "りくでも すいちゅうでも くらせる。\nちじょうでは いつも あせをかき\nひふを ぬめぬめ させている。",
       "육지에서도 수중에서도 살 수 있다.\n지상에서는 항상 땀을 흘려서\n피부를 미끌미끌하게 하고 있다.",
@@ -2402,7 +2523,8 @@
       "It can live in or out of water. When out of water,\nit constantly sweats to keep its body slimy.",
       "陸でも 水中でも 暮らせる。\n地上では いつも 汗をかき\n皮膚を ぬめぬめ させている。",
       "Capaz de vivir dentro o fuera del agua. Fuera del agua\nsuda para mantener baboso su cuerpo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 62,
@@ -2432,6 +2554,7 @@
       11,
       14
     ],
+    "image_id": "p062.png",
     "flavor_text": [
       "きょうじんな きんにくを もつ。\nたいへいようを やすむことなく\nおよぎつづけることが できるのだ。",
       "강인한 근육을 가지고 있다.\n태평양을 쉬지 않고\n계속 헤엄칠 수 있다.",
@@ -2442,7 +2565,8 @@
       "With its extremely tough muscles, it can keep\nswimming in the Pacific Ocean without resting.",
       "強靭な 筋肉を 持つ。\n太平洋を 休むことなく\n泳ぎ続けることが できるのだ。",
       "Tiene músculos muy desarrollados. Es capaz de nadar\nen el océano sin descanso."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 63,
@@ -2471,6 +2595,7 @@
       11,
       14
     ],
+    "image_id": "p063.png",
     "flavor_text": [
       "１にち １８じかんは ねている。\nねむってる あいだでも さまざまな\nちょうのうりょくを つかう。",
       "하루에 18시간은 자고 있다.\n자는 동안에도 다양한\n초능력을 사용한다.",
@@ -2481,7 +2606,8 @@
       "It sleeps for 18 hours a day. It uses a variety of\nextrasensory powers even while asleep.",
       "１日 １８時間は 寝ている。\n眠ってる あいだでも\nさまざまな 超能力を 使う。",
       "Duerme 18 horas al día y mientras lo hace es capaz de\nusar una serie de poderes extrasensoriales."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 64,
@@ -2510,6 +2636,7 @@
       11,
       14
     ],
+    "image_id": "p064.png",
     "flavor_text": [
       "ちょうのうりょくを はっきすると\nつよい アルファはを だして\nせいみつきかいを こわしてしまう。",
       "초능력을 발휘하면\n강한 알파파를 내어\n정밀 기계를 고장 내 버린다.",
@@ -2520,7 +2647,8 @@
       "When it uses its psychic power, it emits strong\nalpha waves that can ruin precision devices.",
       "超能力を 発揮すると\n強い アルファ波を 出して\n精密機械を 壊してしまう。",
       "Cuando utiliza su poder psíquico, emite poderosas\nondas alfa que pueden destruir dispositivos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 65,
@@ -2549,6 +2677,7 @@
       11,
       14
     ],
+    "image_id": "p065.png",
     "flavor_text": [
       "のうさいぼうは いつも ぶんれつして\nしぬまで ふえつづけるので\nあらゆることを おぼえておける。",
       "뇌세포는 항상 분열해서\n죽을 때까지 늘어나기 때문에\n모든 것을 기억해 놓을 수 있다.",
@@ -2559,7 +2688,8 @@
       "Its brain cells multiply continually until it dies.\nAs a result, it remembers everything.",
       "脳細胞は いつも 分裂して\n死ぬまで 増え続けるので\nあらゆることを 覚えておける。",
       "Sus neuronas se multiplican continuamente durante su\nvida. Por eso, siempre lo recuerda todo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 66,
@@ -2588,6 +2718,7 @@
       11,
       14
     ],
+    "image_id": "p066.png",
     "flavor_text": [
       "ゴローンを なんども あげおろしして\nぜんしんの きんにくを きたえる。\nあらゆる かくとうぎを つかう。",
       "데구리를 수없이 들었다 놨다 하며\n전신의 근육을 단련한다.\n모든 격투기를 사용한다.",
@@ -2598,7 +2729,8 @@
       "It hefts a Graveler repeatedly to strengthen\nits entire body. It uses every type of martial arts.",
       "ゴローンを 何度も 上げ下ろしして\n全身の 筋肉を 鍛える。\nあらゆる 格闘技を 使う。",
       "Levanta un Graveler para mantener sus músculos en\nforma. Domina todas las artes marciales."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 67,
@@ -2627,6 +2759,7 @@
       11,
       14
     ],
+    "image_id": "p067.png",
     "flavor_text": [
       "すごく きょうじんな にくたいなので\nパワーセーブ ベルトを つけて\nつよさを せいぎょしている。",
       "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다.",
@@ -2637,7 +2770,8 @@
       "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate its motions.",
       "すごく 強靭な 肉体なので\nパワーセーブ ベルトを つけて\n強さを 制御している。",
       "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 68,
@@ -2666,6 +2800,7 @@
       11,
       14
     ],
+    "image_id": "p068.png",
     "flavor_text": [
       "はったつした ４ほんの うでは\n２びょうかんに １０００ぱつの\nパンチを くりだすことができる。",
       "발달한 4개의 팔은\n2초 동안 1000번의\n펀치를 날릴 수 있다.",
@@ -2676,7 +2811,8 @@
       "Its four ruggedly developed arms can launch\na flurry of 1,000 punches in just two seconds.",
       "発達した ４本の 腕は\n２秒間に １０００発の パンチを\n繰り出すことができる。",
       "Tiene cuatro brazos tan bien desarrollados que puede\ndar una serie de 1000 puñetazos en cuestión de dos\nsegundos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 69,
@@ -2706,6 +2842,7 @@
       11,
       14
     ],
+    "image_id": "p069.png",
     "flavor_text": [
       "ひょろっとした からだつき だが\nえものを とらえるときの うごきは\nめにも とまらないほど すばやい。",
       "홀쭉한 체격이지만\n먹이를 잡을 때의 움직임은\n눈에 보이지 않을 정도로 빠르다.",
@@ -2716,7 +2853,8 @@
       "Even though its body is extremely skinny, it is\nblindingly fast when catching its prey.",
       "ひょろっとした 体つきだが\n獲物を 捕らえるときの 動きは\n目にも とまらないほど 素早い。",
       "Aunque su cuerpo es extremadamente delgado, es\nmuy rápido a la hora de capturar sus presas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 70,
@@ -2746,6 +2884,7 @@
       11,
       14
     ],
+    "image_id": "p070.png",
     "flavor_text": [
       "はっぱの ぶぶんは カッターになって\nあいてを きりさく。くちからは\nなんでも とかす えきたいを はく。",
       "잎사귀 부분은 칼날이 되어\n상대를 베어버린다. 입에서는\n무엇이든 녹이는 액체를 뿜어낸다.",
@@ -2756,7 +2895,8 @@
       "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
       "葉っぱの 部分は カッターになって\n相手を 切り裂く。口からは\nなんでも 溶かす 液体を 吐く。",
       "Las hojas que tiene actúan como cuchillas en\ncombate. Otra de sus armas es el corrosivo fluido\nque expulsa."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 71,
@@ -2786,6 +2926,7 @@
       11,
       14
     ],
+    "image_id": "p071.png",
     "flavor_text": [
       "ジャングルの おくちに ウツボット\nばかり いる ちたいが あって\nいったら ２どと かえってこれない。",
       "정글의 안쪽에 우츠보트만\n있는 지대가 있어서\n한 번 가면 두 번 다시 돌아올 수 없다.",
@@ -2796,7 +2937,8 @@
       "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",
       "ジャングルの 奥地に ウツボット\nばかり いる 地帯が あって\n行ったら ２度と 帰ってこれない。",
       "Dicen que vive en grandes colonias en el interior de\nlas junglas, aunque nadie ha podido verificarlo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 72,
@@ -2826,6 +2968,7 @@
       11,
       14
     ],
+    "image_id": "p072.png",
     "flavor_text": [
       "からだの ほとんどが すいぶん。\nすいしょうのような めだまから\nふしぎな ビームを はっしゃする。",
       "몸 대부분이 수분이다.\n수정 같은 눈에서\n이상한 빔을 발사한다.",
@@ -2836,7 +2979,8 @@
       "Its body is virtually composed of water. It shoots\nstrange beams from its crystal-like eyes.",
       "体の ほとんどが 水分。\n水晶のような 目玉から\n不思議な ビームを 発射する。",
       "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 73,
@@ -2866,6 +3010,7 @@
       11,
       14
     ],
+    "image_id": "p073.png",
     "flavor_text": [
       "しょくしゅは ふだん みじかくて\nえものを さすときに ながく\nのびて からみつくのだ。",
       "촉수는 평소에는 짧고\n먹이를 찌를 때\n길게 늘어나 휘감는다.",
@@ -2876,7 +3021,8 @@
       "The tentacles are normally kept short. On hunts,\nthey are extended to ensnare and immobilize prey.",
       "触手は 普段 短くて\n獲物を 刺すときに\n長く 伸びて 絡みつくのだ。",
       "Cuando caza, extiende los cortos tentáculos que tiene\npara atrapar e inmovilizar a su presa."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 74,
@@ -2906,6 +3052,7 @@
       11,
       14
     ],
+    "image_id": "p074.png",
     "flavor_text": [
       "そうげんや やまに せいそくする。\nいしころに にていて きがつかずに\nふんだり つまずいたり してしまう。",
       "초원이나 산에 서식한다.\n돌멩이와 닮은 탓에 알아채지 못하고\n밟거나 발이 걸려 넘어지기도 한다.",
@@ -2916,7 +3063,8 @@
       "Found in fields and mountains. Mistaking them for\nboulders, people often step or trip on them.",
       "草原や 山に 生息する。\n石ころに 似ていて 気がつかず\n踏んだり つまずいたりしてしまう。",
       "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 75,
@@ -2946,6 +3094,7 @@
       11,
       14
     ],
+    "image_id": "p075.png",
     "flavor_text": [
       "やまから ころがり おちるとき\nからだの あちこちが とれても\nきにしない ごうかいな せいかく。",
       "산에서 굴러 떨어질 때\n몸의 여기저기가 부서져도\n신경 쓰지 않는 호쾌한 성격이다.",
@@ -2956,7 +3105,8 @@
       "With a free and uncaring nature, it doesn’t mind\nif pieces break off while it rolls down mountains.",
       "山から 転がり 落ちるとき\n体の あちこちが 取れても\n気にしない 豪快な 性格。",
       "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 76,
@@ -2986,6 +3136,7 @@
       11,
       14
     ],
+    "image_id": "p076.png",
     "flavor_text": [
       "さんちょうから ふもとまで つづく\nみぞは ゴローニャが ころがりおちる\nとおりみちなので ようちゅうい。",
       "산 정상에서 산기슭까지 이어지는\n움푹 패인 홈은 딱구리가 굴러\n다니는 길이므로 주의가 필요하다.",
@@ -2996,7 +3147,8 @@
       "It tumbles down mountains, leaving grooves\nfrom peak to base. Stay clear of these grooves.",
       "山頂から ふもとまで 続く 溝は\nゴローニャが 転がり落ちる\n通り道なので 要注意。",
       "Se lanza montaña abajo y deja un surco desde la cima\nhasta el pie. Es mejor mantenerse alejado."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 77,
@@ -3025,6 +3177,7 @@
       11,
       14
     ],
+    "image_id": "p077.png",
     "flavor_text": [
       "うまれたばかりでは たつのがやっと。\nだが はしるほどに あしこしは\nきたえられて そくどが ましていく。",
       "막 태어나서는 겨우 일어설 수 있을\n정도이지만 많이 달리면 하반신이\n단련되어 달리는 속도가 빨라진다.",
@@ -3035,7 +3188,8 @@
       "As a newborn, it can barely stand.\nHowever, through galloping, its\nlegs are made tougher and faster.",
       "生まれたばかりでは 立つのがやっと。\nだが 走るほどに 足腰は\n鍛えられて 速度が 増していく。",
       "Cuando nace, apenas puede tenerse en pie. Pero va\nfortaleciendo las patas en cuanto empieza a galopar."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 78,
@@ -3064,6 +3218,7 @@
       11,
       14
     ],
+    "image_id": "p078.png",
     "flavor_text": [
       "はやく うごく ぶったいを みると\nきょうそう したくなり もうれつな\nスピードで おいかけ はじめる。",
       "빠르게 움직이는 물체를 보면\n경주를 하고 싶어져서 맹렬한\n스피드로 쫓아가기 시작한다.",
@@ -3074,7 +3229,8 @@
       "Very competitive, this Pokémon will chase anything\nthat moves fast in the hopes of racing it.",
       "速く 動く 物体を 見ると\n競争したくなり 猛烈な\nスピードで 追いかけはじめる。",
       "Muy competitivo, este Pokémon perseguirá a todo lo\nque se mueva rápido e intentará salir airoso."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 79,
@@ -3104,6 +3260,7 @@
       11,
       14
     ],
+    "image_id": "p079.png",
     "flavor_text": [
       "いつも ボーッとしていて なにを\nかんがえているか わからない。\nしっぽで エサを つるのが とくい。",
       "항상 멍하니 있으므로 무슨\n생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다.",
@@ -3114,7 +3271,8 @@
       "It is always vacantly lost in thought, but no one\nknows what it is thinking about. It is good at fishing\nwith its tail.",
       "いつも ボーッとしていて なにを\n考えているか わからない。\n尻尾で エサを 釣るのが 得意。",
       "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 80,
@@ -3144,6 +3302,7 @@
       11,
       14
     ],
+    "image_id": "p080.png",
     "flavor_text": [
       "くっついている シェルダーは\nしっぽから にじみでる うまみが\nほしくて ずっと はなれない。",
       "붙어 있는 셀러는\n꼬리에서 배어 나오는 맛을\n좋아해서 계속 떨어지지 않는다.",
@@ -3154,7 +3313,8 @@
       "An attached Shellder won’t let go because of\nthe tasty flavor that oozes out of its tail.",
       "くっついている シェルダーは\n尻尾から にじみ出る うま味が\n欲しくて ずっと 離れない。",
       "Tiene una cola tan apetecible, que el Shellder que va\nenganchado a ella no se soltará por nada del mundo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 81,
@@ -3184,6 +3344,7 @@
       11,
       14
     ],
+    "image_id": "p081.png",
     "flavor_text": [
       "さゆうの ユニットから\nじゅうりょくを さえぎる ちからを\nだすので くうちゅうに うかべる。",
       "좌우의 유닛에서\n중력을 차단하는 힘을\n발휘하기에 공중에 뜰 수 있다.",
@@ -3194,7 +3355,8 @@
       "The units at the sides of its body generate\nantigravity energy to keep it aloft in the air.",
       "左右の ユニットから\n重力を さえぎる 力を\n出すので 空中に 浮かべる。",
       "Las unidades a los lados de su cuerpo generan\nenergía antigravitatoria para mantenerlo en el aire."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 82,
@@ -3224,6 +3386,7 @@
       11,
       14
     ],
+    "image_id": "p082.png",
     "flavor_text": [
       "ふくすうの コイルが れんけつして\nきょうりょくな じりょくせんと\nこうでんあつを ほうしゃする。",
       "다수의 코일이 연결되어\n강력한 자기장과\n높은 전압을 방사한다.",
@@ -3234,7 +3397,8 @@
       "A linked cluster formed of several Magnemite.\nIt discharges powerful magnetic waves at\nhigh voltage.",
       "複数の コイルが 連結して\n強力な 磁力線と\n高電圧を 放射する。",
       "Lo constituye un grupo de Magnemite. Descarga\npotentes ondas magnéticas de alto voltaje."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 83,
@@ -3264,6 +3428,7 @@
       11,
       14
     ],
+    "image_id": "p083.png",
     "flavor_text": [
       "もっている クキは たいせつな\nぶきでもあり かたなを ふるように\nいろんなものを きることが できる。",
       "가지고 있는 파 줄기는 소중한\n무기이기도 하며 칼을 휘두르듯\n다양한 것을 자를 수 있다.",
@@ -3274,7 +3439,8 @@
       "The plant stalk it holds is its weapon. The stalk is\nused like a sword to cut all sorts of things.",
       "持っている 茎は 大切な\n武器でもあり 刀を 振るように\nいろんな ものを 切ることができる。",
       "El puerro que lleva es su mejor arma. Suele usarlo\ncomo espada para cortar cosas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 84,
@@ -3304,6 +3470,7 @@
       11,
       14
     ],
+    "image_id": "p084.png",
     "flavor_text": [
       "とつぜんへんいで みつかった\n２つの あたまを もつ ポケモン。\nじそく １００キロで はしる。",
       "돌연변이로 발견된\n두 개의 머리를 지닌 포켓몬이다.\n시속 100km로 달린다.",
@@ -3314,7 +3481,8 @@
       "A two-headed Pokémon that was discovered as a\nsudden mutation. It runs at a pace of over 60 miles\nper hour.",
       "突然変異で 見つかった\n２つの 頭を 持つ ポケモン。\n時速１００キロで 走る。",
       "Este Pokémon de dos cabezas es el resultado de una\nmutación. Cuando corre, puede alcanzar casi 100 km\npor hora."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 85,
@@ -3344,6 +3512,7 @@
       11,
       14
     ],
+    "image_id": "p085.png",
     "flavor_text": [
       "３つの あたまが みているまえで\nわずかでも すきを みせると\nくちばしで はげしく つつかれる。",
       "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다.",
@@ -3354,7 +3523,8 @@
       "An enemy that takes its eyes off any of the\nthree heads--even for a second--will get\npecked severely.",
       "３つの 頭が 見ている前で\nわずかでも すきを 見せると\nクチバシで 激しく つつかれる。",
       "Más vale no perder de vista ninguna de las tres\ncabezas. De lo contrario, el número de picotazos\nserá enorme."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 86,
@@ -3383,6 +3553,7 @@
       11,
       14
     ],
+    "image_id": "p086.png",
     "flavor_text": [
       "ひょうざんで くらす ポケモン。\nあたまの とがった でっぱりで\nこおりを わって うみを およぐ。",
       "빙산에 사는 포켓몬이다.\n머리의 뾰족하게 돌출된 부분으로\n얼음을 깨고 바다를 헤엄친다.",
@@ -3393,7 +3564,8 @@
       "A Pokémon that lives on icebergs. It swims in the\nsea using the point on its head to break up ice.",
       "氷山で 暮らす ポケモン。\n頭の とがった でっぱりで\n氷を 割って 海を 泳ぐ。",
       "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 87,
@@ -3423,6 +3595,7 @@
       11,
       14
     ],
+    "image_id": "p087.png",
     "flavor_text": [
       "ぜんしんが まっしろな けで\nおおわれている。さむさに つよく\nむしろ さむいほど げんきになる。",
       "전신이 새하얀 털로\n뒤덮여 있다. 추위에 강해서\n오히려 추울수록 힘이 넘쳐 난다.",
@@ -3433,7 +3606,8 @@
       "Its body is covered with a pure white fur.\nThe colder the weather, the more active\nit becomes.",
       "全身が 真っ白な 毛で\n覆われている。寒さに 強く\nむしろ 寒いほど 元気になる。",
       "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 88,
@@ -3462,6 +3636,7 @@
       11,
       14
     ],
+    "image_id": "p088.png",
     "flavor_text": [
       "つきからの エックスせんをあびた\nヘドロが ベトベターにへんかした。\nきたないモノが だいこうぶつ。",
       "달로부터의 X선을 쬔\n오물이 질퍽이로 변화했다.\n더러운 것을 좋아한다.",
@@ -3472,7 +3647,8 @@
       "Sludge exposed to X-rays from the moon\ntransformed into Grimer. It loves feeding\non filthy things.",
       "月からの エックス線を 浴びた\nヘドロが ベトベターに 変化した。\n汚いものが 大好物。",
       "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 89,
@@ -3501,6 +3677,7 @@
       11,
       14
     ],
+    "image_id": "p089.png",
     "flavor_text": [
       "ヘドロが たまる くさい ばしょを\nこのんで あつまってくるので\nあたりは いっそう くさくなる。",
       "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다.",
@@ -3511,7 +3688,8 @@
       "They love to gather in smelly areas where sludge\naccumulates, making the stench around\nthem worse.",
       "ヘドロが たまる くさい 場所を\n好んで 集まってくるので\nあたりは いっそう くさくなる。",
       "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 90,
@@ -3540,6 +3718,7 @@
       11,
       14
     ],
+    "image_id": "p090.png",
     "flavor_text": [
       "かたいカラは どんな こうげきも\nはねかえす。ひらいた ときに\nなかを こうげき されると よわい。",
       "단단한 껍데기는 어떤 공격도\n튕겨낸다. 껍데기를 벌리고 있을 때\n안쪽을 공격당하는 것에는 약하다.",
@@ -3550,7 +3729,8 @@
       "Its hard shell repels any kind of attack.\nIt is vulnerable only when its shell is open.",
       "硬い 殻は どんな 攻撃も\n跳ね返す。開いたときに\n中を 攻撃されると 弱い。",
       "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 91,
@@ -3580,6 +3760,7 @@
       11,
       14
     ],
+    "image_id": "p091.png",
     "flavor_text": [
       "しおのながれが はげしい うみに\nせいそくしている パルシェンの\nカラのトゲは おおきく するどい。",
       "조수의 흐름이 격한 바다에\n서식하고 있는 파르셀의\n껍질의 가시는 크고 날카롭다.",
@@ -3590,7 +3771,8 @@
       "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
       "潮の 流れが 激しい 海に\n生息している パルシェンの\n殻の トゲは 大きく 鋭い。",
       "A los Cloyster que viven en las fuertes corrientes\nmarinas les crecen largas y afiladas púas en la concha."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 92,
@@ -3620,6 +3802,7 @@
       11,
       14
     ],
+    "image_id": "p092.png",
     "flavor_text": [
       "ガスでできた うすい からだは\nどんな おおきさの あいても\nつつみこみ いきのねを とめる。",
       "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다.",
@@ -3630,7 +3813,8 @@
       "Its body is made of gas. Despite lacking substance,\nit can envelop an opponent of any size and\ncause suffocation.",
       "ガスでできた 薄い 体は\nどんな 大きさの 相手も\n包みこみ 息の根を 止める。",
       "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 93,
@@ -3660,6 +3844,7 @@
       11,
       14
     ],
+    "image_id": "p093.png",
     "flavor_text": [
       "くらやみで だれもいないのに\nみられているような きがしたら\nそこに ゴーストが いるのだ。",
       "어둠 속에서 아무도 없는데도\n누군가가 보고 있다는 느낌이 들면\n그곳에 고우스트가 있는 것이다.",
@@ -3670,7 +3855,8 @@
       "If you get the feeling of being watched in darkness\nwhen nobody is around, Haunter is there.",
       "暗闇で だれもいないのに\n見られているような 気がしたら\nそこに ゴーストが いるのだ。",
       "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 94,
@@ -3700,6 +3886,7 @@
       11,
       14
     ],
+    "image_id": "p094.png",
     "flavor_text": [
       "ものかげに すがたを かくす。\nゲンガーの ひそんでいる へやは\nおんどが ５ど さがると いわれる。",
       "그림자에 모습을 숨긴다.\n팬텀이 숨어 있는 방은\n온도가 5도 내려간다고 전해진다.",
@@ -3710,7 +3897,8 @@
       "It hides in shadows. It is said that if Gengar\nis hiding, it cools the area by nearly\n10 degrees Fahrenheit.",
       "物陰に 姿を 隠す。\nゲンガーの 潜んでいる 部屋は\n温度が ５度 下がるといわれる。",
       "Se esconde entre las sombras. Se dice que donde\nGengar acecha, la temperatura baja 5 °C."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 95,
@@ -3740,6 +3928,7 @@
       11,
       14
     ],
+    "image_id": "p095.png",
     "flavor_text": [
       "ちちゅうを ものすごい いきおいで\nほりすすみ エサを さがす。とおった\nあとは ディグダの すみかになる。",
       "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다.",
@@ -3750,7 +3939,8 @@
       "Burrows at high speed in search of food.\nThe tunnels it leaves are used as homes\nby Diglett.",
       "地中を ものすごい 勢いで\n掘りすすみ エサを 探す。通った\n跡は ディグダの 住処になる。",
       "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 96,
@@ -3779,6 +3969,7 @@
       11,
       14
     ],
+    "image_id": "p096.png",
     "flavor_text": [
       "ねむらせては ユメを たべるが\nわるい ユメばかり たべてると\nおなかを こわすことが あるらしい。",
       "잠들게 한 뒤 꿈을 먹지만\n나쁜 꿈만 먹고 있으면\n배탈이 날 때도 있는 것 같다.",
@@ -3789,7 +3980,8 @@
       "Puts enemies to sleep, then eats their dreams.\nOccasionally gets sick from eating only bad dreams.",
       "眠らせては 夢を 食べるが\n悪い 夢ばかり 食べてると\nお腹を 壊すことが あるらしい。",
       "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 97,
@@ -3818,6 +4010,7 @@
       11,
       14
     ],
+    "image_id": "p097.png",
     "flavor_text": [
       "ふりこのようなものを もちあるく。\nこどもに さいみんじゅつを かけて\nどこかへ つれさるじけんが あった。",
       "추 같은 것을 들고 다닌다.\n어린아이에게 최면술을 걸어\n어딘가로 데려가 버린 사건이 있었다.",
@@ -3828,7 +4021,8 @@
       "It carries a pendulum-like device. There once\nwas an incident in which it took away a child\nit hypnotized.",
       "振り子のようなものを 持ち歩く。\n子供に 催眠術を かけて\nどこかへ 連れ去る 事件があった。",
       "Lleva un péndulo en la mano. Una vez, hizo\ndesaparecer a un niño al que había hipnotizado."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 98,
@@ -3857,6 +4051,7 @@
       11,
       14
     ],
+    "image_id": "p098.png",
     "flavor_text": [
       "きけんがせまると くちから はきだす\nあわで ぜんしんを つつんで\nからだを おおきく みせようとする。",
       "위험이 닥치면 입에서 뿜어내는\n거품으로 전신을 감싸서\n몸을 크게 보이려고 한다.",
@@ -3867,7 +4062,8 @@
       "If it senses danger approaching, it cloaks itself with\nbubbles from its mouth so it will look bigger.",
       "危険が 迫ると 口から 吐き出す\n泡で 全身を 包んで\n体を 大きく みせようとする。",
       "Ante el peligro, se camufla con las burbujas que\ndesprende su boca, para parecer más grande."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 99,
@@ -3896,6 +4092,7 @@
       11,
       14
     ],
+    "image_id": "p099.png",
     "flavor_text": [
       "かたい ハサミは １まんばりきの\nパワーを もっているが\nおおきすぎて うごきが にぶい。",
       "단단한 집게는 1만 마력의\n파워를 지녔지만\n너무 커서 움직임이 둔하다.",
@@ -3906,7 +4103,8 @@
       "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
       "硬い ハサミは １万馬力の\nパワーを 持っているが\n大きすぎて 動きが 鈍い。",
       "La pinza tan grande que tiene posee una fuerza de\n10 000 caballos de potencia. Pero, por su gran\ntamaño, cuesta moverla."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 100,
@@ -3935,6 +4133,7 @@
       11,
       14
     ],
+    "image_id": "p100.png",
     "flavor_text": [
       "モンスターボールが うりだされたのと\nおなじ じきに はっけんされた。\nなにか かんけいがある といわれる。",
       "몬스터볼이 팔리기 시작했을 때와\n같은 시기에 발견되었다.\n뭔가 관계가 있다고 전해진다.",
@@ -3945,7 +4144,8 @@
       "It was discovered when Poké Balls were\nintroduced. It is said that there is\nsome connection.",
       "モンスターボールが 売り出されたのと\n同じ 時期に 発見された。\nなにか 関係があると いわれる。",
       "Fue descubierto cuando se crearon las Poké Balls.\nSe dice que tiene algo que ver con ellas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 101,
@@ -3974,6 +4174,7 @@
       11,
       14
     ],
+    "image_id": "p101.png",
     "flavor_text": [
       "すこしの しげきに はんのうして\nばくはつする。バクダンボールという\nあだなで こわがられて いる。",
       "작은 자극에도 반응해서\n폭발한다. 폭탄볼이라 불리며\n두려움의 대상이 되고 있다.",
@@ -3984,7 +4185,8 @@
       "It explodes in response to even minor stimuli. It is\nfeared, with the nickname of “The Bomb Ball.”",
       "少しの 刺激に 反応して\n爆発する。バクダンボールという\nあだ名で 怖がられている。",
       "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 102,
@@ -4014,6 +4216,7 @@
       11,
       14
     ],
+    "image_id": "p102.png",
     "flavor_text": [
       "テレパシーで かいわをしているため\nタマタマを ひきはなそうとしても\nすぐに あつまって ６ぴきになる。",
       "텔레파시로 대화를 하기 때문에\n아라리를 갈라놓으려 해도\n바로 모여들어 6마리가 된다.",
@@ -4024,7 +4227,8 @@
       "Its six eggs converse using telepathy. They can\nquickly gather if they become separated.",
       "テレパシーで 会話をしているため\nタマタマを 引き離そうとしても\nすぐに 集まって ６匹になる。",
       "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 103,
@@ -4054,6 +4258,7 @@
       11,
       14
     ],
+    "image_id": "p103.png",
     "flavor_text": [
       "３つの あたまは かんがえることは\nべつべつでも なかよし なので\nケンカしたり しないらしい。",
       "3개의 머리는 생각하는 것이\n각각 다르지만 사이가 좋아서\n싸우지 않는 것 같다.",
@@ -4064,7 +4269,8 @@
       "Its three heads think independently. However,\nthey are friendly and never appear to squabble.",
       "３つの 頭は 考えることは\n別々でも 仲良しなので\nケンカしたり しないらしい。",
       "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 104,
@@ -4093,6 +4299,7 @@
       11,
       14
     ],
+    "image_id": "p104.png",
     "flavor_text": [
       "しにわかれた ははおやの ほねを\nあたまに かぶっている。さびしいとき\nおおごえで なくという。",
       "죽은 어미의 해골을\n머리에 쓰고 있다. 외로울 때는\n큰 소리로 운다고 한다.",
@@ -4103,7 +4310,8 @@
       "It wears the skull of its dead mother on its head.\nWhen it becomes lonesome, it is said to cry loudly.",
       "死に別れた 母親の 骨を\n頭に 覆っている。寂しいとき\n大声で 泣くという。",
       "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 105,
@@ -4132,6 +4340,7 @@
       11,
       14
     ],
+    "image_id": "p105.png",
     "flavor_text": [
       "からだも ちいさく もともと\nよわかった。ホネを つかうようになり\nせいかくが きょうぼうか した。",
       "몸집도 작으며 원래는\n약했다. 뼈를 쓰기 시작하면서\n성격이 흉포해졌다.",
@@ -4142,7 +4351,8 @@
       "It is small and was originally very weak.\nIts temperament turned ferocious when it began\nusing bones.",
       "体も 小さく もともと 弱かった。\n骨を 使うようになり\n性格が 凶暴化した。",
       "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 106,
@@ -4171,6 +4381,7 @@
       11,
       14
     ],
+    "image_id": "p106.png",
     "flavor_text": [
       "あしが じゆうに のびちぢみして\nとおく はなれている ばあいでも\nあいてを けりあげることが できる。",
       "다리를 자유자재로 늘였다 줄였다 한다.\n멀리 떨어져 있을 때도\n상대를 차올릴 수 있다.",
@@ -4181,7 +4392,8 @@
       "The legs freely contract and stretch. The stretchy\nlegs allow it to hit a distant foe with a rising kick.",
       "脚が 自由に 伸び縮みして\n遠く 離れている 場合でも\n相手を 蹴り上げることができる。",
       "Encoge y estira las patas a su antojo. Cuando las\nestira, es capaz de propinar una buena patada al\nenemigo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 107,
@@ -4210,6 +4422,7 @@
       11,
       14
     ],
+    "image_id": "p107.png",
     "flavor_text": [
       "うでを ねじりながら くりだす\nパンチは コンクリートも ふんさい。\n３ぷん たたかうと ひとやすみする。",
       "팔을 비틀며 날리는 펀치는\n콘크리트도 부스러뜨린다.\n3분 싸우면 잠시 쉰다.",
@@ -4220,7 +4433,8 @@
       "The arm-twisting punches it throws pulverize even\nconcrete. It rests after three minutes of fighting.",
       "腕を ねじりながら 繰り出す\nパンチは コンクリートも 粉砕。\n３分 戦うと ひとやすみする。",
       "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 108,
@@ -4249,6 +4463,7 @@
       11,
       14
     ],
+    "image_id": "p108.png",
     "flavor_text": [
       "ながい したは ねばねばした\nだえきで べっとり。どんなものでも\nくっついて とても べんり。",
       "긴 혀는 끈적끈적한\n침으로 덮여 있다. 어떤 것이든\n달라붙어서 매우 편리하다.",
@@ -4259,7 +4474,8 @@
       "Its long tongue, slathered with a gooey saliva,\nsticks to anything, so it is very useful.",
       "長い 舌は ねばねばした\nだえきで べっとり。どんなものでも\nくっついて とても 便利。",
       "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 109,
@@ -4288,6 +4504,7 @@
       11,
       14
     ],
+    "image_id": "p109.png",
     "flavor_text": [
       "うすい バルーンじょうの からだに\nもうどくの ガスが つまっている。\nちかくにくると くさい。",
       "얇고 풍선 같은 몸에\n맹독 가스가 차있다.\n가까이 오면 역겨운 냄새가 난다.",
@@ -4298,7 +4515,8 @@
       "Its thin, balloon-like body is inflated by horribly\ntoxic gases. It reeks when it is nearby.",
       "薄い バルーン状の 体に\n猛毒の ガスが つまっている。\n近くに 来ると くさい。",
       "Tiene forma de globo y es muy ligero. Está compuesto\npor gases tóxicos y apesta."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 110,
@@ -4327,6 +4545,7 @@
       11,
       14
     ],
+    "image_id": "p110.png",
     "flavor_text": [
       "どちらかが ふくらむと かたほうは\nしぼむ ふたごの ドガース。いつも\nたいないの どくガスを まぜている。",
       "한쪽이 부풀어 오르면 다른 한쪽은\n오그라드는 쌍둥이 또가스. 항상\n체내의 독가스를 섞고 있다.",
@@ -4337,7 +4556,8 @@
       "If one of the twin Koffing inflates, the other one\ndeflates. It constantly mixes its poisonous gases.",
       "どちらかが ふくらむと 片方は\nしぼむ 双子の ドガース。いつも\n体内の 毒ガスを 混ぜている。",
       "Si uno de los gemelos Koffing se infla, el otro se\ndesinfla. Mezclan constantemente sus venenosos\ngases."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 111,
@@ -4367,6 +4587,7 @@
       11,
       14
     ],
+    "image_id": "p111.png",
     "flavor_text": [
       "あたまは わるいが ちからが つよく\nこうそうビルも たいあたりで\nコナゴナに ふんさいする。",
       "머리는 나쁘지만 힘이 세서\n고층 빌딩도 몸통박치기로\n산산조각 낸다.",
@@ -4377,7 +4598,8 @@
       "Strong, but not too bright, this Pokémon can\nshatter even a skyscraper with its charging Tackles.",
       "頭は 悪いが 力が 強く\n高層ビルも 体当たりで\nコナゴナに 粉砕する。",
       "Es muy fuerte, pero no especialmente listo. Es capaz\nde derribar rascacielos usando Placaje varias veces."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 112,
@@ -4407,6 +4629,7 @@
       11,
       14
     ],
+    "image_id": "p112.png",
     "flavor_text": [
       "ぜんしんを よろいのような ひふで\nまもっている。２０００どの\nマグマの なかでも いきられる。",
       "전신을 갑옷 같은 피부로\n보호하고 있다. 2000도의\n마그마 속에서도 살 수 있다.",
@@ -4417,7 +4640,8 @@
       "Protected by an armor-like hide, it is capable of\nliving in molten lava of 3,600 degrees Fahrenheit.",
       "全身を よろいのような 皮膚で\n守っている。２０００度の\nマグマの 中でも 生きられる。",
       "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 113,
@@ -4446,6 +4670,7 @@
       11,
       14
     ],
+    "image_id": "p113.png",
     "flavor_text": [
       "しあわせを はこぶと いわれている。\nきずついた ひとに タマゴを\nわけてあげる やさしい ポケモン。",
       "행복을 가져다준다고 전해진다.\n상처 입은 사람에게 알을\n나눠주는 상냥한 포켓몬이다.",
@@ -4456,7 +4681,8 @@
       "It is said to deliver happiness.\nBeing compassionate, it shares its eggs\nwith injured people.",
       "幸せを 運ぶと いわれている。\n傷ついた 人に タマゴを\n分けてあげる 優しい ポケモン。",
       "Se dice que reparte felicidad. Se caracteriza por su\ncompasión y reparte sus huevos entre la gente herida."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 114,
@@ -4485,6 +4711,7 @@
       11,
       14
     ],
+    "image_id": "p114.png",
     "flavor_text": [
       "たくさんの うごめく ツルに\nおおわれて しょうたいふめい。\nあおいツルは いっしょう のびる。",
       "수많은 움직이는 덩굴에\n둘러싸여 정체불명이다.\n파란 덩굴은 평생 자란다.",
@@ -4495,7 +4722,8 @@
       "Many writhing vines cover it, so its true identity\nremains unknown. The blue vines grow its whole\nlife long.",
       "たくさんの うごめく ツルに\n覆われて 正体不明。\n青いツルは 一生 伸びる。",
       "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 115,
@@ -4524,6 +4752,7 @@
       11,
       14
     ],
+    "image_id": "p115.png",
     "flavor_text": [
       "おなかの ふくろで こそだてをする。\nあんぜんな ときだけ こどもを\nふくろから だして あそばせる。",
       "배의 주머니에서 새끼를 키운다.\n안전할 때만 새끼를\n주머니에서 꺼내어 놀게 한다.",
@@ -4534,7 +4763,8 @@
       "It raises its offspring in its belly pouch. It lets the\nbaby out to play only when it feels safe.",
       "お腹の 袋で 子育てをする。\n安全な ときだけ 子供を\n袋から 出して 遊ばせる。",
       "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 116,
@@ -4563,6 +4793,7 @@
       11,
       14
     ],
+    "image_id": "p116.png",
     "flavor_text": [
       "すいめんから いきおいよく スミを\nはっしゃして とんでいる ムシを\nうちおとす ことが あるという。",
       "수면에서 힘차게 먹물을\n발사해서 날고 있는 벌레를\n맞춰서 떨어뜨릴 때가 있다고 한다.",
@@ -4573,7 +4804,8 @@
       "Known to shoot down flying bugs with precision\nblasts of ink from the surface of the water.",
       "水面から 勢いよく 墨を 発射して\n飛んでいる 虫を\n撃ち落とすことがあるという。",
       "Es famoso por derribar a bichos voladores lanzando\ntinta desde la superficie del agua."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 117,
@@ -4602,6 +4834,7 @@
       11,
       14
     ],
+    "image_id": "p117.png",
     "flavor_text": [
       "うかつに さわろうとすると\nからだじゅうに はえる トゲに\nさされて きぜつすることも ある。",
       "섣불리 만지려고 하면\n몸 전체에서 돋아나는 가시에\n찔려 기절할 수도 있다.",
@@ -4612,7 +4845,8 @@
       "Its body bristles with sharp spikes. Carelessly trying\nto touch it could cause fainting from the spikes.",
       "うかつに 触ろうとすると\n体中に 生える トゲに 刺されて\n気絶することもある。",
       "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 118,
@@ -4641,6 +4875,7 @@
       11,
       14
     ],
+    "image_id": "p118.png",
     "flavor_text": [
       "５ノットの スピードで およぐ。\nみの きけんを かんじると\nするどい ツノで はんげきする。",
       "5노트의 스피드로 헤엄친다.\n몸에 위험을 느끼면\n날카로운 뿔로 반격한다.",
@@ -4651,7 +4886,8 @@
       "It swims at a steady 5 knots. If it senses danger,\nit will strike back with its sharp horn.",
       "５ノットの スピードで 泳ぐ。\n身の 危険を 感じると\n鋭い ツノで 反撃する。",
       "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 119,
@@ -4680,6 +4916,7 @@
       11,
       14
     ],
+    "image_id": "p119.png",
     "flavor_text": [
       "あきが くると さんらんの ために\nながれに さからって ちからづよく\nかわを およぐ すがたが みられる。",
       "가을이 오면 산란을 위해\n힘차게 강물을 거슬러 올라가며\n헤엄치는 모습을 볼 수 있다.",
@@ -4690,7 +4927,8 @@
       "In the autumn spawning season, they can be seen\nswimming powerfully up rivers and creeks.",
       "秋が くると 産卵のために\n流れに 逆らって 力強く\n川を 泳ぐ 姿が みられる。",
       "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 120,
@@ -4719,6 +4957,7 @@
       11,
       14
     ],
+    "image_id": "p120.png",
     "flavor_text": [
       "からだの ちゅうしんで ひかる\nコアが あるかぎり からだが\nちぎれても さいせい できる。",
       "몸의 중심에서 빛나는\n핵이 있는 한 몸이\n찢겨나가도 재생할 수 있다.",
@@ -4729,7 +4968,8 @@
       "Even if its body is torn, it can regenerate as long as\nthe glowing central core remains intact.",
       "体の 中心で 光る\nコアが ある限り\n体が ちぎれても 再生できる。",
       "Aunque sus brazos se rompan podrán regenerarse,\nsiempre y cuando su núcleo siga intacto."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 121,
@@ -4759,6 +4999,7 @@
       11,
       14
     ],
+    "image_id": "p121.png",
     "flavor_text": [
       "まんなかの コアとよばれる ぶぶんは\nなないろに かがやく。これを\nほうせきにする ひとも いるという。",
       "코어라고 불리는 중심 부분은\n일곱 빛깔로 빛난다. 이것을\n보석으로 삼는 사람도 있다고 한다.",
@@ -4769,7 +5010,8 @@
       "Its central core glows with the seven colors of the\nrainbow. Some people value the core as a gem.",
       "真ん中の コアと呼ばれる 部分は\n七色に 輝く。これを\n宝石にする 人も いるという。",
       "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 122,
@@ -4799,6 +5041,7 @@
       11,
       14
     ],
+    "image_id": "p122.png",
     "flavor_text": [
       "ゆびさきから だす はどうが\nくうきを かためて カベを つくる。\nはげしい こうげきも はねかえす。",
       "손가락 끝에서 내는 파동이\n공기를 굳혀서 벽을 만든다.\n격렬한 공격도 튕겨 낸다.",
@@ -4809,7 +5052,8 @@
       "Emanations from its fingertips solidify the air into\ninvisible walls that repel even harsh attacks.",
       "指先から 出す 波動が\n空気を 固めて 壁を 作る。\n激しい 攻撃も 跳ね返す。",
       "Para repeler ataques, solidifica el aire y crea muros\ninvisibles con emanaciones de sus dedos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 123,
@@ -4839,6 +5083,7 @@
       11,
       14
     ],
+    "image_id": "p123.png",
     "flavor_text": [
       "するどいカマで えものを きりさき\nいきのねを とめる。ごくまれに\nハネをつかって とぶ。",
       "날카로운 낫으로 먹이를 베고\n숨통을 끊는다. 매우 드물게\n날개를 사용해서 난다.",
@@ -4849,7 +5094,8 @@
       "It tears and shreds prey with its wickedly sharp\nscythes. It very rarely spreads its wings to fly.",
       "鋭い カマで 獲物を 切り裂き\n息の根を 止める。ごくまれに\n羽を 使って 飛ぶ。",
       "Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 124,
@@ -4879,6 +5125,7 @@
       11,
       14
     ],
+    "image_id": "p124.png",
     "flavor_text": [
       "こしを ふるように あるいている。\nゆだんをすると おもわず つられて\nおどってしまうという。",
       "허리를 흔드는 듯이 걷고 있다.\n방심하면 엉겁결에 따라서\n춤춰버린다고 한다.",
@@ -4889,7 +5136,8 @@
       "It wiggles its hips as it walks. It can\ncause people to dance in unison with it.",
       "腰を 振るように 歩いている。\n油断をすると 思わず 釣られて\n踊ってしまうという。",
       "Camina moviendo las caderas de forma llamativa.\nPuede hacer que la gente baile a su ritmo."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 125,
@@ -4918,6 +5166,7 @@
       11,
       14
     ],
+    "image_id": "p125.png",
     "flavor_text": [
       "からだの ひょうめんには でんきが\nながれている。あたりが くらいと\nぜんしんが あおじろく ひかるのだ。",
       "몸의 표면에는 전기가\n흐르고 있다. 주변이 어두우면\n전신이 푸르스름하게 빛난다.",
@@ -4928,7 +5177,8 @@
       "Electricity runs across the surface of its body.\nIn darkness, its entire body glows a whitish blue.",
       "体の 表面には 電気が\n流れている。あたりが 暗いと\n全身が 青白く 光るのだ。",
       "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 126,
@@ -4957,6 +5207,7 @@
       11,
       14
     ],
+    "image_id": "p126.png",
     "flavor_text": [
       "かざんの かこうちかくで\nみつかった。くちから ほのおをはく。\nたいおんは １２００ど もある。",
       "화산의 분화구 근처에서\n발견되었다. 입에서 불꽃을 뿜어낸다.\n체온은 1200도나 된다.",
@@ -4967,7 +5218,8 @@
       "Found near the mouth of a volcano.\nThis fire-breather’s body temperature is\nnearly 2,200 degrees Fahrenheit.",
       "火山の 火口近くで 見つかった。\n口から 炎を 吐く。\n体温は １２００度もある。",
       "A este Pokémon se lo encontraron cerca de un volcán.\nEsta criatura ígnea tiene una temperatura corporal de\nunos 1200 °C."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 127,
@@ -4996,6 +5248,7 @@
       11,
       14
     ],
+    "image_id": "p127.png",
     "flavor_text": [
       "２ほんの ツノで えものを はさんで\nちぎれるまで はなさない。ちぎれない\nときは かなたまで なげとばすのだ。",
       "2개의 뿔 사이에 먹이를 끼우고\n조각날 때까지 놓지 않는다. 조각나지\n않으면 저편으로 세게 내던진다.",
@@ -5006,7 +5259,8 @@
       "It grips prey with its pincers until the prey is torn\nin half. What it can’t tear, it tosses far.",
       "２本の ツノで 獲物を 挟んで\nちぎれるまで 放さない。ちぎれない\nときは かなたまで 投げ飛ばすのだ。",
       "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 128,
@@ -5035,6 +5289,7 @@
       11,
       14
     ],
+    "image_id": "p128.png",
     "flavor_text": [
       "３ぼんのしっぽで じぶんを たたき\nたたかう きもちを たかめると\nぜんそくりょくで つっこんでくる。",
       "3개의 꼬리로 자신을 때려서\n투지가 끓어오르면\n전속력으로 돌진해온다.",
@@ -5045,7 +5300,8 @@
       "After heightening its will to fight by whipping itself\nwith its three tails, it charges at full speed.",
       "３本の 尻尾で 自分を たたき\n戦う 気持ちを 高めると\n全速力で 突っこんでくる。",
       "Después de animarse a luchar fustigándose con sus\ntres colas, carga a toda velocidad."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 129,
@@ -5074,6 +5330,7 @@
       11,
       14
     ],
+    "image_id": "p129.png",
     "flavor_text": [
       "ちからも スピードも ほとんどダメ。\nせかいで いちばん よわくて\nなさけない ポケモンだ。",
       "힘도 스피드도 거의 없다.\n세상에서 가장 약하고\n한심한 포켓몬이다.",
@@ -5084,7 +5341,8 @@
       "It is virtually worthless in terms of both power and\nspeed. It is the most weak and pathetic Pokémon\nin the world.",
       "力も スピードも ほとんど ダメ。\n世界で 一番 弱くて\n情けない ポケモンだ。",
       "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 130,
@@ -5114,6 +5372,7 @@
       11,
       14
     ],
+    "image_id": "p130.png",
     "flavor_text": [
       "あらそいの おこった むらを\nやきつくしたという きろくが\nこもんじょに のこされている。",
       "분쟁이 일어난 마을을\n다 태워버렸다는 기록이\n고문서에 남아 있다.",
@@ -5124,7 +5383,8 @@
       "In ancient literature, there is a record of a Gyarados\nthat razed a village when violence flared.",
       "争いの 起こった 村を\n焼きつくしたという 記録が\n古文書に 残されている。",
       "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 131,
@@ -5154,6 +5414,7 @@
       11,
       14
     ],
+    "image_id": "p131.png",
     "flavor_text": [
       "やさしい こころの もちぬし。\nめったに あらそわないため たくさん\nつかまえられ かずが へった。",
       "부드러운 마음의 소유자다.\n좀처럼 다투지 않아 많이\n잡혔기 때문에 수가 줄었다.",
@@ -5164,7 +5425,8 @@
       "They have gentle hearts. Because they rarely\nfight, many have been caught. Their number\nhas dwindled.",
       "優しい 心の 持ち主。\nめったに 争わないため たくさん\n捕まえられ 数が 減った。",
       "Son buenos de corazón. Muchos fueron capturados\npor ser tan pacíficos. Ahora hay muchos menos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 132,
@@ -5193,6 +5455,7 @@
       11,
       14
     ],
+    "image_id": "p132.png",
     "flavor_text": [
       "ぜんしんの さいぼうを くみかえて\nみたものの かたち そっくりに\nへんしんする のうりょくを もつ。",
       "전신의 세포를 재구성해서\n본 것의 모양과 똑 닮게\n변신하는 능력을 가지고 있다.",
@@ -5203,7 +5466,8 @@
       "It has the ability to reconstitute its entire cellular\nstructure to transform into whatever it sees.",
       "全身の 細胞を 組み替えて\n見たものの 形 そっくりに\n変身する 能力を 持つ。",
       "Puede alterar por completo su estructura celular para\nemular cualquier objeto que vea."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 133,
@@ -5232,6 +5496,7 @@
       11,
       14
     ],
+    "image_id": "p133.png",
     "flavor_text": [
       "しんかのとき すがたと のうりょくが\nかわることで きびしい かんきょうに\nたいおうする めずらしい ポケモン。",
       "진화할 때 모습과 능력이\n바뀜으로써 혹독한 환경에\n적응하는 희귀한 포켓몬이다.",
@@ -5242,7 +5507,8 @@
       "A rare Pokémon that adapts to harsh environments\nby taking on different evolutionary forms.",
       "進化のとき 姿と 能力が\n変わることで きびしい 環境に\n対応する 珍しい ポケモン。",
       "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 134,
@@ -5271,6 +5537,7 @@
       11,
       14
     ],
+    "image_id": "p134.png",
     "flavor_text": [
       "きれいな みずべを このんでいる。\nさいぼうが みずのぶんしに にており\nみずに とけることもできる。",
       "아름다운 물가를 좋아한다.\n세포가 물의 분자구조와 닮아서\n물에 녹는 것도 가능하다.",
@@ -5281,7 +5548,8 @@
       "It prefers beautiful shores. With cells similar to\nwater molecules, it could melt in water.",
       "きれいな 水辺を 好んでいる。\n細胞が 水の 分子に 似ており\n水に 溶けることもできる。",
       "Prefiere las bellas costas. Con células parecidas al\nagua, podría fundirse en la misma."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 135,
@@ -5310,6 +5578,7 @@
       11,
       14
     ],
+    "image_id": "p135.png",
     "flavor_text": [
       "たいないに でんきが たまると\nぜんしんの たいもうが ぜんぶ\nするどく とがりはじめる。",
       "체내에 전기가 모이면\n전신의 털이 모두\n날카롭게 곤두서기 시작한다.",
@@ -5320,7 +5589,8 @@
       "Every hair on its body starts to stand sharply on\nend if it becomes charged with electricity.",
       "体内に 電気が たまると\n全身の 体毛が 全部\n鋭く とがりはじめる。",
       "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 136,
@@ -5349,6 +5619,7 @@
       11,
       14
     ],
+    "image_id": "p136.png",
     "flavor_text": [
       "たいないに ほのおぶくろを もつ。\nたたかいが はじまる ちょくぜんには\nたいおんが ９００どまで あがる。",
       "체내에 불꽃 주머니를 가지고 있다.\n싸움이 시작되기 직전에는\n체온이 900도까지 올라간다.",
@@ -5359,7 +5630,8 @@
       "It has a flame sac in its body. Its body temperature\ntops 1,650 degrees Fahrenheit before battle.",
       "体内に 炎袋を 持つ。\n戦いが はじまる 直前には\n体温が ９００度まで 上がる。",
       "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 137,
@@ -5388,6 +5660,7 @@
       11,
       14
     ],
+    "image_id": "p137.png",
     "flavor_text": [
       "けんきゅうのすえ うみだされた\nじんこうの ポケモン。きほんてきな\nどうさしか プログラムされていない。",
       "연구 끝에 태어난\n인공 포켓몬이다. 기본적인\n동작만 프로그램되어 있다.",
@@ -5398,7 +5671,8 @@
       "A man-made Pokémon that came about\nas a result of research. It is programmed\nwith only basic motions.",
       "研究の末 生み出された\n人工の ポケモン。基本的な\n動作しか プログラムされていない。",
       "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 138,
@@ -5428,6 +5702,7 @@
       11,
       14
     ],
+    "image_id": "p138.png",
     "flavor_text": [
       "おおむかし うみに すんでいた\nこだい ポケモン。１０ぽんの あしを\nくねらせて およぐ。",
       "먼 옛날 바다에서 살고 있던\n고대 포켓몬. 10개의 다리를\n구불거리며 헤엄친다.",
@@ -5438,7 +5713,8 @@
       "A prehistoric Pokémon that lived in the primordial\nsea, it swims by twisting its 10 tentacles about.",
       "大昔 海に 住んでいた\n古代ポケモン。１０本の 脚を\nくねらせて 泳ぐ。",
       "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 139,
@@ -5468,6 +5744,7 @@
       11,
       14
     ],
+    "image_id": "p139.png",
     "flavor_text": [
       "しょくしゅが てあしのように\nはったつしてる。しがみつくと\nどうじに かみついてくる。",
       "촉수가 팔다리처럼\n발달해 있다.\n달라붙자마자 문다.",
@@ -5478,7 +5755,8 @@
       "Its tentacles are highly developed as if they are\nhands and feet. As soon as it ensnares prey,\nit bites.",
       "触手が 手足のように\n発達している。しがみつくと\n同時に かみついてくる。",
       "Tiene los tentáculos tan desarrollados que le sirven de\nmanos y pies. Con ellos atrapa a su presa y le da un\nbocado."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 140,
@@ -5508,6 +5786,7 @@
       11,
       14
     ],
+    "image_id": "p140.png",
     "flavor_text": [
       "３おくねんまえの すなはまで\nくらしていたと かんがえられている。\nかたい カラが みを まもる。",
       "3억 년 전에 모래 해변에서\n살고 있었던 것으로 추측된다.\n단단한 껍질이 몸을 보호한다.",
@@ -5518,7 +5797,8 @@
       "It is thought to have inhabited beaches 300 million\nyears ago. It is protected by a stiff shell.",
       "３億年前の 砂浜で\n暮らしていたと 考えられている。\n硬い 殻が 身を 守る。",
       "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 141,
@@ -5548,6 +5828,7 @@
       11,
       14
     ],
+    "image_id": "p141.png",
     "flavor_text": [
       "すいちゅうを いどうするとき\nてあしを ちいさく おりたたみ\nこうらを くねらせ はやく およぐ。",
       "수중을 이동할 때\n손발을 작게 접고\n등껍질을 구부려 빠르게 헤엄친다.",
@@ -5558,7 +5839,8 @@
       "In the water, it tucks in its limbs to become more\ncompact, then it wiggles its shell to swim fast.",
       "水中を 移動するとき\n手足を 小さく 折りたたみ\n甲羅を くねらせ 速く 泳ぐ。",
       "Repliega sus extremidades en el agua para hacerse\nmás compacto, y mueve su concha para nadar rápido."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 142,
@@ -5588,6 +5870,7 @@
       11,
       14
     ],
+    "image_id": "p142.png",
     "flavor_text": [
       "こはくに のこされた きょうりゅうの\nいでんしから ふっかつさせた。\nたかいこえで なきながら とぶ。",
       "호박에 남아 있던 공룡의\n유전자에서 부활시켰다.\n높은 소리로 울며 난다.",
@@ -5598,7 +5881,8 @@
       "It was regenerated from a dinosaur’s genetic\nmatter that was found in amber. It flies with\nhigh-pitched cries.",
       "こはくに 残された 恐竜の\n遺伝子から 復活させた。\n高い 声で 鳴きながら 飛ぶ。",
       "Se regeneró a partir de material genético de un\ndinosaurio encontrado en ámbar. Cuando vuela emite\nescandalosos alaridos."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 143,
@@ -5627,6 +5911,7 @@
       11,
       14
     ],
+    "image_id": "p143.png",
     "flavor_text": [
       "１にちに たべものを ４００キロ\nたべないと きが すまない。\nたべおわると ねむってしまう。",
       "하루에 먹을 것을 400kg\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
@@ -5637,7 +5922,8 @@
       "It is not satisfied unless it eats over 880 pounds of\nfood every day. When it is done eating, it goes\npromptly to sleep.",
       "１日に 食べ物を ４００キロ\n食べないと 気がすまない。\n食べ終わると 眠ってしまう。",
       "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 144,
@@ -5667,6 +5953,7 @@
       11,
       14
     ],
+    "image_id": "p144.png",
     "flavor_text": [
       "でんせつの とりポケモン。\nくうきちゅうの すいぶんを こおらせ\nふぶきを つくりだすことが できる。",
       "전설의 새포켓몬이다.\n공기 중의 수분을 얼려\n눈보라를 만들어 낼 수 있다.",
@@ -5677,7 +5964,8 @@
       "A legendary bird Pokémon. It can create blizzards\nby freezing moisture in the air.",
       "伝説の とりポケモン。\n空気中の 水分を 凍らせ\n吹雪を 作り出すことが できる。",
       "Legendario Pokémon pájaro capaz de generar\nventiscas congelando la humedad del aire."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 145,
@@ -5707,6 +5995,7 @@
       11,
       14
     ],
+    "image_id": "p145.png",
     "flavor_text": [
       "くもの うえから きょだいな\nいなずまを おとしながら あらわれる\nでんせつの とりポケモンである。",
       "구름 위에서 거대한\n번개를 내리치며 나타난다.\n전설의 새포켓몬이다.",
@@ -5717,7 +6006,8 @@
       "A legendary bird Pokémon that is said to\nappear from clouds while dropping enormous\nlightning bolts.",
       "雲の 上から 巨大な 稲妻を\n落としながら 現れる\n伝説の とりポケモンである。",
       "Es un legendario pájaro Pokémon. Dicen que aparece\nentre las nubes lanzando enormes rayos brillantes."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 146,
@@ -5747,6 +6037,7 @@
       11,
       14
     ],
+    "image_id": "p146.png",
     "flavor_text": [
       "むかしから ひのとりでんせつとして\nしられる。はばたくたびに はねが\nあかるく もえあがり うつくしい。",
       "오래전부터 불새의 전설로\n알려져 있다. 날갯짓할 때마다\n날개가 눈부시게 불타올라서 아름답다.",
@@ -5757,7 +6048,8 @@
       "It is said to be the legendary bird Pokémon of fire.\nEvery flap of its wings creates a dazzling flare\nof flames.",
       "昔から 火の鳥伝説として\n知られる。羽ばたくたびに 羽が\n明るく 燃え上がり 美しい。",
       "Es más conocido como el legendario pájaro de fuego.\nCon cada aleteo crea brillantes llamas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 147,
@@ -5786,6 +6078,7 @@
       11,
       14
     ],
+    "image_id": "p147.png",
     "flavor_text": [
       "もくげきしゃが すくないために\nまぼろしのポケモンと よばれていた。\nだっぴした かわが みつかっている。",
       "목격자가 적기 때문에\n환상의 포켓몬이라고 불리고 있다.\n탈피한 껍질이 발견되고 있다.",
@@ -5796,7 +6089,8 @@
       "It is called the “Mirage Pokémon” because so few\nhave seen it. Its shed skin has been found.",
       "目撃者が 少ないために\n幻のポケモンと 呼ばれていた。\n脱皮した 皮が 見つかっている。",
       "Se le llama el Pokémon Espejismo porque son muy\npocos los que lo han visto. Se encontró su muda."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 148,
@@ -5825,6 +6119,7 @@
       11,
       14
     ],
+    "image_id": "p148.png",
     "flavor_text": [
       "すいしょうのような タマには\nてんこうを じゆうに あやつる\nのうりょくが ひめられているらしい。",
       "수정 같은 구슬에는\n날씨를 자유롭게 조종하는\n능력이 담겨 있는 듯하다.",
@@ -5835,7 +6130,8 @@
       "Its crystalline orbs appear to give this Pokémon\nthe power to freely control the weather.",
       "水晶のような 玉には\n天候を 自由に 操る\n能力が 秘められているらしい。",
       "Sus cristalinos orbes parecen darle al Pokémon el\npoder de controlar el clima libremente."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 149,
@@ -5865,6 +6161,7 @@
       11,
       14
     ],
+    "image_id": "p149.png",
     "flavor_text": [
       "おおきな たいかくで そらを とぶ。\nちきゅうを やく１６じかんで\n１しゅう してしまう。",
       "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다.",
@@ -5875,7 +6172,8 @@
       "It can fly in spite of its big and bulky physique.\nIt circles the globe in just 16 hours.",
       "大きな 体格で 空を 飛ぶ。\n地球を 約１６時間で\n１周してしまう。",
       "A pesar del tamaño que tiene y de lo pesado que es,\npuede volar. Es capaz de dar la vuelta al mundo en\nsolo 16 horas."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 150,
@@ -5904,6 +6202,7 @@
       11,
       14
     ],
+    "image_id": "p150.png",
     "flavor_text": [
       "ひとりの かがくしゃが なんねんも\nおそろしい いでんし けんきゅうを\nつづけた けっか たんじょうした。",
       "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다.",
@@ -5914,7 +6213,8 @@
       "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
       "１人の 科学者が 何年も\n恐ろしい 遺伝子 研究を\n続けた 結果 誕生した。",
       "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética."
-    ]
+    ],
+    "captured": false
   },
   {
     "id": 151,
@@ -5943,6 +6243,7 @@
       11,
       14
     ],
+    "image_id": "p151.png",
     "flavor_text": [
       "あらゆる わざを つかうため\nポケモンの せんぞと かんがえる\nがくしゃが たくさん いる。",
       "모든 기술을 사용하기 때문에\n포켓몬의 조상이라고 생각하는\n학자가 많다.",
@@ -5953,6 +6254,7 @@
       "Because it can use all kinds of moves, many\nscientists believe Mew to be the ancestor\nof Pokémon.",
       "あらゆる 技を 使うため\nポケモンの 先祖と 考える\n学者が たくさん いる。",
       "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos."
-    ]
+    ],
+    "captured": false
   }
 ]
