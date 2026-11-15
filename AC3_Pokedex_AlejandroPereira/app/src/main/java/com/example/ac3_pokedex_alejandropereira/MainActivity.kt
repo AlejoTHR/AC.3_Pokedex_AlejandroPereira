@@ -2,6 +2,8 @@ package com.example.ac3_pokedex_alejandropereira
 
 import android.content.Context
 import android.os.Bundle
+import android.renderscript.Allocation
+import android.widget.ImageButton
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -14,6 +16,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.fitInside
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -33,10 +36,15 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.datastore.preferences.core.booleanPreferencesKey
+import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.preferencesDataStore
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.ac3_pokedex_alejandropereira.ui.theme.AC3_Pokedex_AlejandroPereiraTheme
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 
@@ -57,15 +65,34 @@ data class Pokemon(
 )
 
 
+val Context.dataStore by preferencesDataStore(
+    name = "preferencias_Pokedex"
+)
+private val SHOW_WAS_CAPTURED = booleanPreferencesKey("show_Was_Captured")
+suspend fun saveWasCaptured(
+    context: Context,
+    show_captured : Boolean
+){
+    context.dataStore.edit {
+        preferences -> preferences[SHOW_WAS_CAPTURED] = show_captured
+    }
+}
+/*
+fun ShowWasCaptured(context: Context): Flow<Boolean>{
+    return context.dataStore.data.map { preferences -> preferences[SHOW_WAS_CAPTURED] ? = false
+    }
+}
+*/
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        val pokemonClicked : Pokemon
+
+
         enableEdgeToEdge()
         setContent{
-
-
             AC3_Pokedex_AlejandroPereiraTheme {
                 // NAVIGATION BETWEEN ACTIVITIES
                 val navController = rememberNavController()
@@ -76,8 +103,16 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(innerPadding)
                     ){
                         composable("home") {
-                            ListScreen(modifier = Modifier.padding(innerPadding))
+                            ListScreen(modifier = Modifier.padding(innerPadding),
+                                {
+                                    navController.navigate("Details")
+
+                                })
                         }
+                        composable("Details") {
+
+                        }
+
                     }
 
 
@@ -89,6 +124,11 @@ class MainActivity : ComponentActivity() {
     }
 
 }
+
+fun GetPokemonList(){
+
+}
+
 @Composable
 fun ReadFromJson(){
     val context = LocalContext.current
@@ -133,55 +173,46 @@ fun GetPokemonId(pokemon : Pokemon) : String{
 fun GetPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
-
-
-
+fun GetPokemonSelected(pokemonClickedOn : Pokemon) : Pokemon{
+    return pokemonClickedOn;
+}
 
 // ALL SCREEN COMPONENTS COMBINATION
 @Composable
-fun ListScreen(modifier: Modifier){
+fun ListScreen(modifier: Modifier, OnPokemonClick : () -> Unit) {
     val context = LocalContext.current
     val input = context.assets.open("PokedexData.json")
     val texto = input.bufferedReader().use { it.readText() }
-    val PokemonsList : List<Pokemon> = Json.decodeFromString(texto)
+    val PokemonsList: List<Pokemon> = Json.decodeFromString(texto)
     input.close()
 
     Column() {
         CreateHeader()
-        Row(){
-
-            Column(Modifier.weight(0.9f)) {
-
-                Spacer(modifier = Modifier.weight(0.4f))
-
-                Box(modifier = Modifier.fillMaxWidth().weight(0.3f) ){
-                    // SET POKEMON IMAGE
-                }
-
-
-                Box(modifier = Modifier.padding(10.dp,0.dp,10.dp)){
-                    Button(modifier = Modifier.fillMaxWidth(),
-                        onClick = {/* SEND TO DETAILS ACTIVITY */}
-                    ) {
-                        Text(text = "Details")
-                    }
-                }
-
-                Spacer(modifier = Modifier.weight(0.5f))
-
-            }
-
-            LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp,10.dp) ) {
-                items(PokemonsList) { Pokemon ->
-                    // BUTON FOR EACH Pokemon IN PokemonList
-                    Box(Modifier.width(200.dp)){
-                        Button(onClick = { }, modifier = Modifier.fillMaxSize()) {
-                            CreateButtonInterior(Pokemon)
-                        }
+        LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp, 10.dp)) {
+            items(PokemonsList) { Pokemon ->
+                // BUTON FOR EACH Pokemon IN PokemonList
+                Box(Modifier.fillMaxWidth()) {
+                    Button(OnPokemonClick, modifier = Modifier.fillMaxSize()) {
+                        CreateButtonInterior(Pokemon)
                     }
                 }
             }
         }
+        Row(modifier = Modifier) {
+            /*
+            Column(modifier = Modifier.padding(0.dp,300.dp,0.dp)) {
+                Box(modifier = Modifier.fillMaxWidth().height(200.dp)){
+                    Image(modifier = Modifier.fillMaxSize(),painter = painterResource(R.drawable.p001), contentDescription = "Logo")
+                }
+                Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center){
+                    Text(text = "name", textAlign = TextAlign.Center)
+
+                }
+            }
+            */
+
+        }
+
     }
 }
 // CREATE BUTTON INTERIOR
@@ -200,7 +231,6 @@ fun CreateButtonInterior(pokemon : Pokemon){
             Text(
                 text = GetPokemonId(pokemon),
                 fontSize = 16.sp
-
             )
         }
         Box(modifier =  Modifier, contentAlignment = Alignment.TopStart){
@@ -212,11 +242,46 @@ fun CreateButtonInterior(pokemon : Pokemon){
     }
 }
 
+// POKEMON SCREEN
+
+@Composable
+fun PokemonScreen(modifier: Modifier, OnBackClick : ()->Unit){
+    LazyColumn(modifier = Modifier.fillMaxSize()) {
+        item{
+            Box(modifier = Modifier.fillMaxWidth().height(350.dp).padding(0.dp,10.dp,0.dp), contentAlignment = Alignment.Center){
+                Image(painter = painterResource(R.drawable.p001), contentDescription = "PokemonImage", modifier = Modifier.fillMaxSize())
+            }
+        }
+        item{
+            Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
+                Text("pokemonName", fontSize = 36.sp)
+            }
+        }
+        item{
+            Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
+                Text("pokemonType1" + "", fontSize = 24.sp)
+            }
+        }
+
+
+    }
+
+
+}
+
 @Preview(showBackground = true)
 @Composable
 fun TEST() {
     AC3_Pokedex_AlejandroPereiraTheme {
-        ListScreen(Modifier)
+        ListScreen(Modifier,{})
+
+    }
+}
+@Preview(showBackground = true)
+@Composable
+fun TEST_2() {
+    AC3_Pokedex_AlejandroPereiraTheme {
+        PokemonScreen(modifier = Modifier, {})
 
     }
 }
