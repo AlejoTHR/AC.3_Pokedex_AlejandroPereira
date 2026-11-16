@@ -3,12 +3,15 @@ package com.example.ac3_pokedex_alejandropereira
 import android.content.Context
 import android.os.Bundle
 import android.renderscript.Allocation
+import android.widget.Button
 import android.widget.ImageButton
+import android.widget.Space
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -27,6 +30,9 @@ import androidx.compose.material3.Button
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -83,13 +89,11 @@ fun ShowWasCaptured(context: Context): Flow<Boolean>{
     }
 }
 */
+var pokemonShowDescription by mutableStateOf(Pokemon(1,"Bulbasour",10,10,arrayListOf(12,12,12,12,12,12),arrayListOf("Plant","Poison"),arrayListOf(1,3,5,7,9,12), arrayListOf("ssss","aaaa","dddd","fffff","tttttt","kkkkkk"),"p001.png",false))
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        val pokemonClicked : Pokemon
-
 
         enableEdgeToEdge()
         setContent{
@@ -105,12 +109,14 @@ class MainActivity : ComponentActivity() {
                         composable("home") {
                             ListScreen(modifier = Modifier.padding(innerPadding),
                                 {
-                                    navController.navigate("Details")
-
+                                    navController.navigate("details")
                                 })
                         }
-                        composable("Details") {
-
+                        composable("details") {
+                            PokemonScreen(modifier = Modifier.padding(innerPadding),
+                                {
+                                    navController.navigate("home")
+                            }, pokemonShowDescription )
                         }
 
                     }
@@ -122,10 +128,6 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-
-}
-
-fun GetPokemonList(){
 
 }
 
@@ -149,17 +151,7 @@ fun WriteFromJson(pokemon: Pokemon){
 // IN SCREEN
 
 // HEADER
-@Composable
-fun CreateHeader(){
-    Box(modifier = Modifier
-        .fillMaxWidth()
-        .height(50.dp)
-        .background(Color.Gray), contentAlignment = Alignment.Center){
-        Text(text = "Kanto Pokédex",
-            textAlign = TextAlign.Center
-        )
-    }
-}
+
 // GETS FROM LIST
 fun GetPokemonId(pokemon : Pokemon) : String{
     if(pokemon.id <10){
@@ -173,93 +165,115 @@ fun GetPokemonId(pokemon : Pokemon) : String{
 fun GetPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
-fun GetPokemonSelected(pokemonClickedOn : Pokemon) : Pokemon{
-    return pokemonClickedOn;
+@Composable
+fun CreateHeader(){
+    Box(modifier = Modifier
+        .fillMaxWidth()
+        .height(50.dp)
+        .background(Color.Gray), contentAlignment = Alignment.Center){
+        Text(text = "Kanto Pokédex",
+            textAlign = TextAlign.Center
+        )
+    }
 }
-
 // ALL SCREEN COMPONENTS COMBINATION
 @Composable
-fun ListScreen(modifier: Modifier, OnPokemonClick : () -> Unit) {
+fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
     val context = LocalContext.current
     val input = context.assets.open("PokedexData.json")
     val texto = input.bufferedReader().use { it.readText() }
-    val PokemonsList: List<Pokemon> = Json.decodeFromString(texto)
+    val pokemonGLobalList: List<Pokemon> = Json.decodeFromString(texto)
     input.close()
-
     Column() {
         CreateHeader()
         LazyColumn(contentPadding = PaddingValues(0.dp, 5.dp, 10.dp)) {
-            items(PokemonsList) { Pokemon ->
+            items(pokemonGLobalList) { PokemonFromList ->
                 // BUTON FOR EACH Pokemon IN PokemonList
-                Box(Modifier.fillMaxWidth()) {
-                    Button(OnPokemonClick, modifier = Modifier.fillMaxSize()) {
-                        CreateButtonInterior(Pokemon)
-                    }
-                }
+                CreateButton(PokemonFromList,
+                    {
+                        pokemonShowDescription = PokemonFromList
+                        onPokemonClick()
+                })
             }
         }
-        Row(modifier = Modifier) {
-            /*
-            Column(modifier = Modifier.padding(0.dp,300.dp,0.dp)) {
-                Box(modifier = Modifier.fillMaxWidth().height(200.dp)){
-                    Image(modifier = Modifier.fillMaxSize(),painter = painterResource(R.drawable.p001), contentDescription = "Logo")
-                }
-                Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center){
-                    Text(text = "name", textAlign = TextAlign.Center)
-
-                }
-            }
-            */
-
-        }
-
     }
 }
 // CREATE BUTTON INTERIOR
 @Composable
-fun CreateButtonInterior(pokemon : Pokemon){
-    Row(modifier = Modifier) {
-        Box(modifier = Modifier.size(20.dp), contentAlignment = Alignment.TopCenter){
-            Image(
-                painter = painterResource(R.drawable.pokeballempty),
-                contentDescription = "NotCaptures",
-                modifier = Modifier.fillMaxSize()
-            )
-        }
-        Spacer(Modifier.width(5.dp))
-        Box(modifier = Modifier.weight(0.1f), contentAlignment = Alignment.TopStart){
-            Text(
-                text = GetPokemonId(pokemon),
-                fontSize = 16.sp
-            )
-        }
-        Box(modifier =  Modifier, contentAlignment = Alignment.TopStart){
-            Text(
-                text = GetPokemonName(pokemon),
-                fontSize = 16.sp
-            )
+fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
+    Box(Modifier.fillMaxWidth()) {
+        Button(onPokemonButtonClick, modifier = Modifier.fillMaxSize()) {
+            Row(modifier = Modifier) {
+                Spacer(Modifier.width(5.dp))
+                Box(modifier = Modifier.weight(0.1f), contentAlignment = Alignment.TopStart){
+                    Text(
+                        text = GetPokemonId(pokemon),
+                        fontSize = 16.sp
+                    )
+                }
+                Box(modifier =  Modifier.padding(0.dp,0.dp,20.dp), contentAlignment = Alignment.TopStart){
+                    Text(
+                        text = GetPokemonName(pokemon),
+                        fontSize = 16.sp
+                    )
+                }
+                Box(modifier = Modifier.size(20.dp), contentAlignment = Alignment.TopCenter){
+                    Image(
+                        painter = painterResource(R.drawable.pokeballempty),
+                        contentDescription = "NotCaptures",
+                        modifier = Modifier.fillMaxSize()
+                    )
+                }
+            }
+
         }
     }
+
 }
 
 // POKEMON SCREEN
-
 @Composable
-fun PokemonScreen(modifier: Modifier, OnBackClick : ()->Unit){
+fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Pokemon){
     LazyColumn(modifier = Modifier.fillMaxSize()) {
+
+        item {
+            Box(modifier = Modifier.fillMaxWidth().background(Color.Gray)){
+                Button(onClick = onBackClick, modifier = Modifier){
+                    Text("Go Back")
+                }
+            }
+        }
         item{
             Box(modifier = Modifier.fillMaxWidth().height(350.dp).padding(0.dp,10.dp,0.dp), contentAlignment = Alignment.Center){
                 Image(painter = painterResource(R.drawable.p001), contentDescription = "PokemonImage", modifier = Modifier.fillMaxSize())
             }
         }
         item{
+            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center){
+                Box(modifier = Modifier.padding(20.dp,0.dp,20.dp), contentAlignment = Alignment.Center){
+                    Text(GetPokemonId(pokemonToShow), fontSize = 36.sp)
+                }
+                Box(modifier = Modifier.padding(20.dp,0.dp,0.dp), contentAlignment = Alignment.Center){
+                    Text(GetPokemonName(pokemonToShow), fontSize = 36.sp)
+                }
+            }
+        }
+        items(pokemonToShow.type){ pokemonType ->
             Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
-                Text("pokemonName", fontSize = 36.sp)
+                Text(text = pokemonType)
             }
         }
         item{
             Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
-                Text("pokemonType1" + "", fontSize = 24.sp)
+                Text("HEGITH: ssss", fontSize = 16.sp)
+            }
+            Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
+                Text("WEGITH: ssss", fontSize = 16.sp)
+            }
+        }
+        item{
+            Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
+                Text("DESCRIPCÖN", fontSize = 24.sp)
             }
         }
 
@@ -281,7 +295,7 @@ fun TEST() {
 @Composable
 fun TEST_2() {
     AC3_Pokedex_AlejandroPereiraTheme {
-        PokemonScreen(modifier = Modifier, {})
+        PokemonScreen(modifier = Modifier, {}, pokemonShowDescription)
 
     }
 }
