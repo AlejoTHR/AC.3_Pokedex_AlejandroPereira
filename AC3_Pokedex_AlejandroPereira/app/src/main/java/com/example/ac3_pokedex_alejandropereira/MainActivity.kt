@@ -36,6 +36,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.blur
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
@@ -64,12 +65,13 @@ data class Pokemon(
     val height: Int,
     val weight: Int,
     val stats: List<Int>,
-    val type: List<String>,
+    val type: List<Int>,
     val language_id : List<Int>,
     val flavor_text: List<String>,
     val image_id : String,
     var captured : Boolean
 )
+
 
 
 val Context.dataStore by preferencesDataStore(
@@ -89,12 +91,33 @@ fun readWasCaptured(context: Context): Flow<Boolean> {
     }
 }
 
+val TypeImgList : List<Int> = listOf(
+    R.drawable.normal,
+    R.drawable.fighting,
+    R.drawable.flying,
+    R.drawable.poison,
+    R.drawable.ground,
+    R.drawable.rock,
+    R.drawable.bug,
+    R.drawable.ghost,
+    R.drawable.steel,
+    R.drawable.fire,
+    R.drawable.water,
+    R.drawable.grass,
+    R.drawable.electric,
+    R.drawable.psychic,
+    R.drawable.ice,
+    R.drawable.dragon,
+    R.drawable.dark,
+    R.drawable.fairy)
 
-var pokemonShowDescription by mutableStateOf(Pokemon(1,"Bulbasour",10,10,arrayListOf(12,12,12,12,12,12),arrayListOf("plant","poison"),arrayListOf(1,3,5,7,9,11,13,15), arrayListOf("ssss","aaaa","dddd","fffff","tttttt","kkkkkk"),"p001",false))
+
+var pokemonShowDescription by mutableStateOf(Pokemon(1,"Bulbasour",10,10,arrayListOf(12,12,12,12,12,12),arrayListOf(3,12),arrayListOf(1,3,5,7,9,11,13,15), arrayListOf("ssss","aaaa","dddd","fffff","tttttt","kkkkkk"),"p001",false))
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
 
         enableEdgeToEdge()
         setContent{
@@ -124,6 +147,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
 
 @Composable
 fun ReadFromJson(){
@@ -176,14 +200,15 @@ fun PokeballImg(pokemonCaptured: Pokemon){
         )
     }
 }
+
 @Composable
 fun getPokemonImg(context: Context, pokemonImg: Pokemon) : Int{
     val text = context.resources.getIdentifier(pokemonImg.image_id,"drawable",context.packageName)
     return text
 }
 @Composable
-fun getPokemonTypeImg(context: Context, pokemonType: String) : Int{
-    val text = context.resources.getIdentifier(pokemonType,"drawable",context.packageName)
+fun getPokemonTypeImg(context: Context, pokemonImg: Pokemon) : Int{
+    val text = context.resources.getIdentifier(pokemonImg.image_id,"drawable",context.packageName)
     return text
 }
 
@@ -245,7 +270,7 @@ fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
                 }
                 LazyRow(modifier =  Modifier.padding(0.dp,0.dp,5.dp), horizontalArrangement = Arrangement.SpaceEvenly) {
                     items(pokemon.type){ pokeType ->
-                        Image(painter = painterResource(getPokemonTypeImg(context,pokeType)),
+                        Image(painter = painterResource(TypeImgList[pokeType-1]),
                             contentDescription = "TypeImage")
                     }
                 }
@@ -262,8 +287,6 @@ fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
         }
     }
 }
-
-
 
 // POKEMON SCREEN
 @Composable
@@ -293,14 +316,15 @@ fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Po
         }
         item {
             Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                    Checkbox(checked = pokemonToShow.captured,
-                        onCheckedChange = { marked ->
-                            scope.launch {
-                                // SAVE PREFERENCE
-                                saveWasCaptured(context, marked)
-                            }
-                        })
-                    Text(text = "Captured", fontSize = 22.sp, modifier = Modifier.fillMaxSize())
+                Checkbox(
+                    checked = pokemonToShow.captured,
+                    onCheckedChange = { marked ->
+                        scope.launch {
+                            // SAVE PREFERENCE
+                            saveWasCaptured(context, marked)
+                        }
+                    })
+                Text(text = "Captured", fontSize = 22.sp, modifier = Modifier.fillMaxSize())
             }
         }
         item{
@@ -315,8 +339,7 @@ fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Po
         }
         items(pokemonToShow.type){ pokeType ->
             Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
-                Image(painter = painterResource(getPokemonTypeImg(context,pokeType)),
-                    contentDescription = "TypeImage")
+
             }
         }
         item{

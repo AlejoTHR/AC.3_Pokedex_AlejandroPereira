@@ -12,10 +12,6 @@
       65,
       45
     ],
-    "type": [
-      "grass",
-      "poison"
-    ],
     "language_id": [
       1,
       3,
@@ -39,7 +35,11 @@
       "生まれたときから 背中に\n不思議な タネが 植えてあって\n体と ともに 育つという。",
       "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 2,
@@ -53,10 +53,6 @@
       80,
       80,
       60
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -81,7 +77,11 @@
       "つぼみが 背中に ついていて\n養分を 吸収していくと\n大きな 花が 咲くという。",
       "Este Pokémon tiene un bulbo en el lomo. Dicen que,\nal absorber nutrientes, el bulbo se transforma en una\nflor grande."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 3,
@@ -95,10 +95,6 @@
       100,
       100,
       80
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -123,7 +119,11 @@
       "大きな 花びらを 広げ\n太陽の 光を 浴びていると\n体に 元気が みなぎっていく。",
       "Llena su cuerpo de energía con los rayos solares que\ncaptan los anchos pétalos de su flor."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 4,
@@ -137,9 +137,6 @@
       60,
       50,
       65
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -164,7 +161,10 @@
       "尻尾の 炎は\nヒトカゲの 生命力の 証。\n元気だと さかんに 燃えさかる。",
       "La llama de su cola indica la fuerza vital de\nCharmander. Será brillante si está sano."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 5,
@@ -178,9 +178,6 @@
       80,
       65,
       80
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -205,7 +202,10 @@
       "尻尾を 振り回して\n相手を なぎ倒し 鋭い ツメで\nズタズタに ひきさいてしまう。",
       "Suele usar la cola para derribar a su rival. Cuando lo\ntira, se vale de sus afiladas garras para acabar con él."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 6,
@@ -219,10 +219,6 @@
       109,
       85,
       100
-    ],
-    "type": [
-      "fire",
-      "flying"
     ],
     "language_id": [
       1,
@@ -247,7 +243,11 @@
       "口から 灼熱の 炎を 吐き出すとき\n尻尾の 先は\nより 赤く 激しく 燃え上がる。",
       "Cuando lanza una descarga de fuego supercaliente, la\nroja llama de su cola brilla más intensamente."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10,
+      3
+    ]
   },
   {
     "id": 7,
@@ -261,9 +261,6 @@
       50,
       64,
       43
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -288,7 +285,10 @@
       "甲羅に 閉じこもり 身を 守る。\n相手の すきを 見逃さず\n水を 噴き出して 反撃する。",
       "Se protege con su caparazón y luego contraataca\nlanzando agua a presión cuando tiene oportunidad."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 8,
@@ -302,9 +302,6 @@
       65,
       80,
       58
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -329,7 +326,10 @@
       "ポカンと 頭を たたかれるとき\n甲羅に 引っこんで 避ける。でも\nちょっとだけ 尻尾が 出ているよ。",
       "Si es golpeado, esconderá su cabeza. Aun así, su cola\npuede seguir golpeando."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 9,
@@ -343,9 +343,6 @@
       85,
       105,
       78
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -370,7 +367,10 @@
       "体が 重たく のしかかって\n相手を 気絶させる。\nピンチのときは 殻に 隠れる。",
       "Para acabar con su enemigo, lo aplasta con el peso de\nsu cuerpo. En momentos de apuro, se esconde en el\ncaparazón."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 10,
@@ -384,9 +384,6 @@
       20,
       20,
       45
-    ],
-    "type": [
-      "bug"
     ],
     "language_id": [
       1,
@@ -411,7 +408,10 @@
       "頭の 触覚から\n強烈な においを 出して\n敵を 追い払い 身を守る。",
       "Para protegerse despide un hedor horrible de sus\nantenas, con el que repele a sus enemigos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7
+    ]
   },
   {
     "id": 11,
@@ -425,9 +425,6 @@
       25,
       25,
       30
-    ],
-    "type": [
-      "bug"
     ],
     "language_id": [
       1,
@@ -452,7 +449,10 @@
       "鋼鉄のように 硬い 殻で\nやわらかい 中身を 守っている。\n進化するまで じっと 耐えている。",
       "Su frágil cuerpo está recubierto de una coraza dura\ncomo el acero. Permanece quieto en su desarrollo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7
+    ]
   },
   {
     "id": 12,
@@ -466,10 +466,6 @@
       90,
       80,
       70
-    ],
-    "type": [
-      "bug",
-      "flying"
     ],
     "language_id": [
       1,
@@ -494,7 +490,11 @@
       "花の ミツが 大好物。\nわずかな 花粉で 花畑の\n場所を 探し出すことが できる。",
       "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      3
+    ]
   },
   {
     "id": 13,
@@ -508,10 +508,6 @@
       20,
       20,
       50
-    ],
-    "type": [
-      "bug",
-      "poison"
     ],
     "language_id": [
       1,
@@ -536,7 +532,11 @@
       "森や 草地に 多く 生息。\n頭の 先に ５センチぐらいの\n小さく 鋭い 毒針を持つ。",
       "Suele habitar bosques y praderas. Tiene un afilado y\nvenenoso aguijón de unos 5 cm encima de la cabeza."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      4
+    ]
   },
   {
     "id": 14,
@@ -550,10 +550,6 @@
       25,
       25,
       35
-    ],
-    "type": [
-      "bug",
-      "poison"
     ],
     "language_id": [
       1,
@@ -578,7 +574,11 @@
       "自分では ほとんど 動けないが\n危ないときは 硬くなって\n身を守っているようだ。",
       "Casi incapaz de moverse, este Pokémon solo puede\nendurecer su caparazón para protegerse."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      4
+    ]
   },
   {
     "id": 15,
@@ -592,10 +592,6 @@
       45,
       80,
       75
-    ],
-    "type": [
-      "bug",
-      "poison"
     ],
     "language_id": [
       1,
@@ -620,7 +616,11 @@
       "両手と お尻にある ３本の 毒針で\n相手を 刺して 刺して\n刺しまくって 攻撃する。",
       "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      4
+    ]
   },
   {
     "id": 16,
@@ -634,10 +634,6 @@
       35,
       35,
       56
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -662,7 +658,11 @@
       "森や 林に 多く 分布。\n地上でも 激しく はばたいて\n砂を かけたりする。",
       "Muy común en bosques y selvas. Aletea al nivel del\nsuelo para levantar la gravilla."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 17,
@@ -676,10 +676,6 @@
       50,
       50,
       71
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -704,7 +700,11 @@
       "足の ツメが 発達している。\nエサの タマタマを つかんで\n１００キロ先の 巣まで 運ぶ。",
       "Tiene unas garras desarrolladas. Puede atrapar un\nExeggcute y transportarlo desde una distancia de\ncasi 100 km."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 18,
@@ -718,10 +718,6 @@
       70,
       70,
       101
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -746,7 +742,11 @@
       "エサを 探すとき 水面 すれすれを\n滑るように 飛んで\nコイキングなどを わしづかみにする。",
       "Cuando caza, vuela muy deprisa a ras del agua y\nsorprende a inocentes presas como Magikarp."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 19,
@@ -760,9 +760,6 @@
       25,
       35,
       72
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -787,7 +784,10 @@
       "食べるものが あるところなら\nどこにだって 生息する。\n１日中 エサを 探している。",
       "Vive allí donde haya comida disponible. Busca todo\nel día, sin descanso, algo comestible."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 20,
@@ -801,9 +801,6 @@
       50,
       70,
       97
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -828,7 +825,10 @@
       "伸び続ける 前歯を 削るため\n硬い ものを かじる 習性。\nブロック塀も かじって 壊す。",
       "Lima sus colmillos royendo objetos duros. Con ellos\npuede destruir incluso paredes de hormigón."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 21,
@@ -842,10 +842,6 @@
       31,
       31,
       70
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -870,7 +866,11 @@
       "自分の テリトリーを 守るため\n短い 羽を はばたかせて\n忙しく 飛び回っている。",
       "Muy protector de su territorio, mueve sus cortas alas\nsin descanso para lanzarse a toda velocidad."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 22,
@@ -884,10 +884,6 @@
       61,
       61,
       100
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -912,7 +908,11 @@
       "大きな 翼で 大空を\n飛び続けることが できる。\n１回も 降りなくても 平気だ。",
       "Con sus enormes y magníficas alas, puede seguir\nvolando sin tener que aterrizar para descansar."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 23,
@@ -926,9 +926,6 @@
       40,
       54,
       55
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -953,7 +950,10 @@
       "育つほどに どんどん 長くなる。\nそして 夜中は 木の枝に\nグルグルと 絡まって 休む。",
       "Cuanto más viejo, más crece este Pokémon. Por la\nnoche, descansa en las ramas de los árboles."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 24,
@@ -967,9 +967,6 @@
       65,
       79,
       80
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -994,7 +991,10 @@
       "お腹の 模様が 怖い 顔に 見える。\n弱い 敵は その模様を\n見ただけで 逃げ出してしまう。",
       "El dibujo que tiene en la panza aterroriza. Los rivales\nmás débiles salen huyendo al verlo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 25,
@@ -1008,9 +1008,6 @@
       50,
       50,
       90
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -1035,7 +1032,10 @@
       "尻尾を 立てて まわりの 様子を\n探っていると ときどき\n雷が 尻尾に 落ちてくる。",
       "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 26,
@@ -1049,9 +1049,6 @@
       90,
       80,
       110
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -1076,7 +1073,10 @@
       "電気が たまってくると\n筋肉が 刺激され\nいつもより 攻撃的に なってしまう。",
       "Cuando se carga de electricidad, sus músculos se\ntensan y se vuelve más agresivo de lo normal."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 27,
@@ -1090,9 +1090,6 @@
       20,
       30,
       40
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -1117,7 +1114,10 @@
       "地面に 穴を 掘って 住む。\n自分に 危険が 迫ると\nまるくなって 身を 守る。",
       "Este Pokémon permanece bajo tierra. Si se siente\namenazado, se enrosca para defenderse."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 28,
@@ -1131,9 +1131,6 @@
       45,
       55,
       65
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -1158,7 +1155,10 @@
       "すごい 勢いで 地面を掘ると\nトゲや ツメが 折れてしまうが\n次の日には 生えそろっている。",
       "Si cava a gran velocidad, puede que se le caigan las\ngarras y púas. Vuelven a crecerle en un día."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 29,
@@ -1172,9 +1172,6 @@
       40,
       40,
       41
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -1199,7 +1196,10 @@
       "体は 小さくても 毒針を\n持つため 注意が 必要だ。\nメスのほうが ツノが 小さい。",
       "Aunque pequeñas, sus venenosas púas son muy\npeligrosas. Tienen un cuerno más pequeño que\nlos machos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 30,
@@ -1213,9 +1213,6 @@
       55,
       55,
       56
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -1240,7 +1237,10 @@
       "メスなので 性格は 温厚。\n口から 出す 超音波は\n相手を まどわす 力がある。",
       "Tiene un carácter afable. Emite ondas ultrasónicas\npara confundir al enemigo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 31,
@@ -1254,10 +1254,6 @@
       75,
       85,
       76
-    ],
-    "type": [
-      "poison",
-      "ground"
     ],
     "language_id": [
       1,
@@ -1282,7 +1278,11 @@
       "ウロコで 覆われた 頑丈な 体で\n巣穴の 入り口を ふさぎ\n敵から 子供たちを 守る。",
       "Usa su cuerpo duro y escamoso para sellar la entrada\na su madriguera y protegerse de los depredadores."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4,
+      5
+    ]
   },
   {
     "id": 32,
@@ -1296,9 +1296,6 @@
       40,
       40,
       50
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -1323,7 +1320,10 @@
       "草むらの 上に 耳だけ 出して\nまわりの 気配を 探る。\n猛毒の ツノで 身を 守る。",
       "Saca las orejas por encima de la hierba para explorar\nel territorio. Le protege su cuerno venenoso."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 33,
@@ -1337,9 +1337,6 @@
       55,
       55,
       65
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -1364,7 +1361,10 @@
       "発達した 耳を 立てて\nまわりの 気配を 探る。\nなにかあると すぐに 飛びかかる。",
       "Levanta sus grandes orejas para vigilar. Si detecta\nalgo, atacará de inmediato."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 34,
@@ -1378,10 +1378,6 @@
       85,
       75,
       85
-    ],
-    "type": [
-      "poison",
-      "ground"
     ],
     "language_id": [
       1,
@@ -1406,7 +1402,11 @@
       "石のように 硬い 皮膚と\n長く 伸びた ツノが 特徴。\nツノには 毒も あるので 注意。",
       "Es fácil reconocerlo por tener una dura piel y un gran\ncuerno lleno de peligrosísimo veneno."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4,
+      5
+    ]
   },
   {
     "id": 35,
@@ -1420,9 +1420,6 @@
       60,
       65,
       35
-    ],
-    "type": [
-      "fairy"
     ],
     "language_id": [
       1,
@@ -1447,7 +1444,10 @@
       "満月の夜 ピッピが 集まって\nダンスを 踊る様子を 見ると\n幸せに なれると 言われている。",
       "Se dice que la felicidad llegará a quien vea a un grupo\nde Clefairy bailando a la luz de la luna llena."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      18
+    ]
   },
   {
     "id": 36,
@@ -1461,9 +1461,6 @@
       95,
       90,
       60
-    ],
-    "type": [
-      "fairy"
     ],
     "language_id": [
       1,
@@ -1488,7 +1485,10 @@
       "１キロ先で 落ちた 針の 音も\n聞き分ける 優れた 耳を 持つ。\n静かな 山奥に 住んでいる。",
       "Su oído es tan agudo que puede oír una aguja caer a\n1 km. Vive en montañas solitarias."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      18
+    ]
   },
   {
     "id": 37,
@@ -1502,9 +1502,6 @@
       50,
       65,
       65
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -1529,7 +1526,10 @@
       "生まれたとき 尻尾は 真っ白で\n１本しかない。育つと やがて\n先が 分かれて 尻尾が 増える。",
       "Cuando nace solo tiene una cola, pero a medida que\ncrece, esta se va dividiendo desde la punta."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 38,
@@ -1543,9 +1543,6 @@
       81,
       100,
       100
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -1570,7 +1567,10 @@
       "黄金に 輝く 体毛と\n９本の 長い 尻尾を 持つ。\n１０００年は 生きると 言われる。",
       "Tiene nueve colas y un pelaje de color dorado.\nDicen que este Pokémon llega a vivir 1000 años."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 39,
@@ -1584,10 +1584,6 @@
       45,
       25,
       20
-    ],
-    "type": [
-      "normal",
-      "fairy"
     ],
     "language_id": [
       1,
@@ -1612,7 +1608,11 @@
       "まるくて 大きい 瞳で 誘いこみ\n心地よい 歌を 歌い\n相手を 眠らせる。",
       "Cautiva con la mirada a su enemigo y hace que se\nquede profundamente dormido mientras entona una\ndulce melodía."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      18
+    ]
   },
   {
     "id": 40,
@@ -1626,10 +1626,6 @@
       85,
       50,
       45
-    ],
-    "type": [
-      "normal",
-      "fairy"
     ],
     "language_id": [
       1,
@@ -1654,7 +1650,11 @@
       "２匹 寄り添いあうと お互いの\n毛皮が 気持ち良すぎて\n離れられなく なってしまう。",
       "Su piel es tan suave que si dos de ellos se acurrucan\njuntos, no querrán separarse nunca."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      18
+    ]
   },
   {
     "id": 41,
@@ -1668,10 +1668,6 @@
       30,
       40,
       55
-    ],
-    "type": [
-      "poison",
-      "flying"
     ],
     "language_id": [
       1,
@@ -1696,7 +1692,11 @@
       "口から 出す 超音波で\n両目が なくても\nまわりの 障害物を 察知できる。",
       "Aunque carezca de ojos, puede detectar obstáculos\ncon las ondas ultrasónicas que emite su boca."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4,
+      3
+    ]
   },
   {
     "id": 42,
@@ -1710,10 +1710,6 @@
       65,
       75,
       90
-    ],
-    "type": [
-      "poison",
-      "flying"
     ],
     "language_id": [
       1,
@@ -1738,7 +1734,11 @@
       "かみついたら 最後。死ぬほど\n血を 吸いまくるので 重たくなって\n自分で 飛べなくなることもある。",
       "Cuando ataque, seguirá chupando energía de su\nvíctima, aunque pese tanto que ya no pueda volar."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4,
+      3
+    ]
   },
   {
     "id": 43,
@@ -1752,10 +1752,6 @@
       75,
       65,
       30
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -1780,7 +1776,11 @@
       "昼間は 太陽を 避けるため\n冷たい 地面に 潜っている。\n月の 光を 浴びて 育つ。",
       "Durante el día, se agazapa en el frío subsuelo huyendo\ndel sol. La luz de la luna le hace crecer mucho."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 44,
@@ -1794,10 +1794,6 @@
       85,
       75,
       40
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -1822,7 +1818,11 @@
       "猛烈な クサさ！ それなのに\n１０００人に １人ぐらい\nこれを 好んで かぐ 人がいる。",
       "¡Huele bastante mal! De todas formas, una de cada\nmil personas aprecian su fétido olor."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 45,
@@ -1836,10 +1836,6 @@
       110,
       90,
       50
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -1864,7 +1860,11 @@
       "花びらが 大きいほど\nたくさん 花粉を 出すが\n頭が 重たくて 疲れてしまうという。",
       "Cuanto mayores son sus pétalos, más tóxico es su\npolen. Le pesa la cabeza y le cuesta mantenerla\nerguida."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 46,
@@ -1878,10 +1878,6 @@
       45,
       55,
       25
-    ],
-    "type": [
-      "bug",
-      "grass"
     ],
     "language_id": [
       1,
@@ -1906,7 +1902,11 @@
       "虫の 背中に 生えているのは\n冬虫夏草 という キノコ。\n育つと キノコも 大きくなる。",
       "Lleva en el lomo dos setas parásitas llamadas\ntochukaso, que crecen con él."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      12
+    ]
   },
   {
     "id": 47,
@@ -1920,10 +1920,6 @@
       60,
       80,
       30
-    ],
-    "type": [
-      "bug",
-      "grass"
     ],
     "language_id": [
       1,
@@ -1948,7 +1944,11 @@
       "体よりも 大きな キノコが\nパラセクトを 操っている。\n毒の 胞子を ばらまく。",
       "Parasect está dominado por una seta parásita mayor\nque él. Dispersa esporas venenosas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      12
+    ]
   },
   {
     "id": 48,
@@ -1962,10 +1962,6 @@
       40,
       55,
       45
-    ],
-    "type": [
-      "bug",
-      "poison"
     ],
     "language_id": [
       1,
@@ -1990,7 +1986,11 @@
       "小さな 目が たくさん 集まって\n大きな 目に なっている。\n夜になると 明かりに 集まる。",
       "Sus grandes ojos son en realidad grupos de ojos\ndiminutos. Por la noche se siente atraído por la luz."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      4
+    ]
   },
   {
     "id": 49,
@@ -2004,10 +2004,6 @@
       90,
       75,
       90
-    ],
-    "type": [
-      "bug",
-      "poison"
     ],
     "language_id": [
       1,
@@ -2032,7 +2028,11 @@
       "ばらまかれた りんぷんに 触れると\n体の 感覚が おかしくなって\nまっすぐ 立っていられなくなる。",
       "Lanza unas escamas que paralizan a cualquiera.\nQuien las toque, no podrá ni ponerse de pie."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      4
+    ]
   },
   {
     "id": 50,
@@ -2046,9 +2046,6 @@
       35,
       45,
       95
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -2073,7 +2070,10 @@
       "地下１メートルくらいを 掘りすすみ\n木の根っこなどを かじって 生きる。\nたまに 地上に 顔を出す。",
       "Vive un metro por debajo del suelo, donde se alimenta\nde raíces. También aparece en la superficie."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 51,
@@ -2087,9 +2087,6 @@
       50,
       70,
       120
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -2114,7 +2111,10 @@
       "地中を 掘りすすんで\n相手が 油断しているところを\n別の 場所から 攻撃する。",
       "En combate, cava la tierra, se esconde y sale de\nrepente para golpear a su rival. Nunca se sabe por\ndónde puede aparecer."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 52,
@@ -2128,9 +2128,6 @@
       40,
       40,
       90
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -2155,7 +2152,10 @@
       "夜中に 行動する 習性。\nキラキラ 光るものを 見つけると\n負けないくらい 瞳が 輝く。",
       "Es de naturaleza nocturna. Le atraen los objetos\nbrillantes."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 53,
@@ -2169,9 +2169,6 @@
       65,
       65,
       115
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -2196,7 +2193,10 @@
       "毛並みが 美しく\nペットにしたがる 人も 多いが すぐ\nひっかいたり するので 手強いぞ。",
       "Aunque es muy admirado por el pelo, es difícil de\nentrenar como mascota, porque es un poco travieso."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 54,
@@ -2210,9 +2210,6 @@
       65,
       50,
       55
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -2237,7 +2234,10 @@
       "いつも 頭痛に 悩まされている。\nこの 頭痛が 激しくなると\n不思議な 力を 使いはじめる。",
       "Padece continuamente dolores de cabeza. Cuando\nson muy fuertes, empieza a usar misteriosos poderes."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 55,
@@ -2251,9 +2251,6 @@
       95,
       80,
       85
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -2278,7 +2275,10 @@
       "夕暮れ 水辺に 姿をみせる。\n額が あやしく 光るとき\n神通力を 使いこなすという。",
       "Aparece en ríos al anochecer. Puede usar poderes\ntelequinéticos si su frente brilla misteriosamente."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 56,
@@ -2292,9 +2292,6 @@
       35,
       45,
       70
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2319,7 +2316,10 @@
       "意味もなく 怒って 暴れ出すと\n仲間の 区別も つかなくなるので\n近寄るのは 非常に 危険だ。",
       "Es peligroso acercarse si se enfada sin razón aparente,\nya que no distingue entre amigos y enemigos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 57,
@@ -2333,9 +2333,6 @@
       60,
       70,
       95
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2360,7 +2357,10 @@
       "まわりに だれも いないときだけは\n怒るのを やめている。しかし\nそれを 見るのは 難しい。",
       "Solo se calma cuando nadie está cerca. Llegar a ver\nese momento es realmente difícil."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 58,
@@ -2374,9 +2374,6 @@
       70,
       50,
       60
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -2401,7 +2398,10 @@
       "人懐こく 誠実な 性格。\n敵には ほえて かみつき\n追い払おうとする。",
       "Es muy agradable y leal. Para ahuyentar al enemigo,\nse pone a ladrar y a dar bocados."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 59,
@@ -2415,9 +2415,6 @@
       100,
       80,
       95
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -2442,7 +2439,10 @@
       "昔から 多くの 人を\n虜にした 美しい ポケモン。\n飛ぶように 軽やかに 走る。",
       "Un Pokémon muy admirado desde la antigüedad por\nsu belleza. Corre ágilmente como si tuviera alas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 60,
@@ -2456,9 +2456,6 @@
       40,
       40,
       90
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -2483,7 +2480,10 @@
       "スベスベした 黒い皮膚は 薄く\n湿っている。内臓の 一部が\n透けて 渦巻状に 見える。",
       "Tiene una piel extraordinaria, fina y húmeda, que deja\nentrever las vísceras que tiene dispuestas en espiral."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 61,
@@ -2497,9 +2497,6 @@
       50,
       50,
       90
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -2524,7 +2521,10 @@
       "陸でも 水中でも 暮らせる。\n地上では いつも 汗をかき\n皮膚を ぬめぬめ させている。",
       "Capaz de vivir dentro o fuera del agua. Fuera del agua\nsuda para mantener baboso su cuerpo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 62,
@@ -2538,10 +2538,6 @@
       70,
       90,
       70
-    ],
-    "type": [
-      "water",
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2566,7 +2562,11 @@
       "強靭な 筋肉を 持つ。\n太平洋を 休むことなく\n泳ぎ続けることが できるのだ。",
       "Tiene músculos muy desarrollados. Es capaz de nadar\nen el océano sin descanso."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      2
+    ]
   },
   {
     "id": 63,
@@ -2580,9 +2580,6 @@
       105,
       55,
       90
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -2607,7 +2604,10 @@
       "１日 １８時間は 寝ている。\n眠ってる あいだでも\nさまざまな 超能力を 使う。",
       "Duerme 18 horas al día y mientras lo hace es capaz de\nusar una serie de poderes extrasensoriales."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 64,
@@ -2621,9 +2621,6 @@
       120,
       70,
       105
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -2648,7 +2645,10 @@
       "超能力を 発揮すると\n強い アルファ波を 出して\n精密機械を 壊してしまう。",
       "Cuando utiliza su poder psíquico, emite poderosas\nondas alfa que pueden destruir dispositivos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 65,
@@ -2662,9 +2662,6 @@
       135,
       95,
       120
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -2689,7 +2686,10 @@
       "脳細胞は いつも 分裂して\n死ぬまで 増え続けるので\nあらゆることを 覚えておける。",
       "Sus neuronas se multiplican continuamente durante su\nvida. Por eso, siempre lo recuerda todo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 66,
@@ -2703,9 +2703,6 @@
       35,
       35,
       35
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2730,7 +2727,10 @@
       "ゴローンを 何度も 上げ下ろしして\n全身の 筋肉を 鍛える。\nあらゆる 格闘技を 使う。",
       "Levanta un Graveler para mantener sus músculos en\nforma. Domina todas las artes marciales."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 67,
@@ -2744,9 +2744,6 @@
       50,
       60,
       45
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2771,7 +2768,10 @@
       "すごく 強靭な 肉体なので\nパワーセーブ ベルトを つけて\n強さを 制御している。",
       "Su musculoso cuerpo es tan fuerte que usa un cinto\nantifuerza para controlar sus movimientos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 68,
@@ -2785,9 +2785,6 @@
       65,
       85,
       55
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -2812,7 +2809,10 @@
       "発達した ４本の 腕は\n２秒間に １０００発の パンチを\n繰り出すことができる。",
       "Tiene cuatro brazos tan bien desarrollados que puede\ndar una serie de 1000 puñetazos en cuestión de dos\nsegundos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 69,
@@ -2826,10 +2826,6 @@
       70,
       30,
       40
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -2854,7 +2850,11 @@
       "ひょろっとした 体つきだが\n獲物を 捕らえるときの 動きは\n目にも とまらないほど 素早い。",
       "Aunque su cuerpo es extremadamente delgado, es\nmuy rápido a la hora de capturar sus presas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 70,
@@ -2868,10 +2868,6 @@
       85,
       45,
       55
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -2896,7 +2892,11 @@
       "葉っぱの 部分は カッターになって\n相手を 切り裂く。口からは\nなんでも 溶かす 液体を 吐く。",
       "Las hojas que tiene actúan como cuchillas en\ncombate. Otra de sus armas es el corrosivo fluido\nque expulsa."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 71,
@@ -2910,10 +2910,6 @@
       100,
       70,
       70
-    ],
-    "type": [
-      "grass",
-      "poison"
     ],
     "language_id": [
       1,
@@ -2938,7 +2934,11 @@
       "ジャングルの 奥地に ウツボット\nばかり いる 地帯が あって\n行ったら ２度と 帰ってこれない。",
       "Dicen que vive en grandes colonias en el interior de\nlas junglas, aunque nadie ha podido verificarlo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      4
+    ]
   },
   {
     "id": 72,
@@ -2952,10 +2952,6 @@
       50,
       100,
       70
-    ],
-    "type": [
-      "water",
-      "poison"
     ],
     "language_id": [
       1,
@@ -2980,7 +2976,11 @@
       "体の ほとんどが 水分。\n水晶のような 目玉から\n不思議な ビームを 発射する。",
       "Su cuerpo se compone casi en exclusiva de agua.\nLanza extraños rayos con sus ojos cristalinos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      4
+    ]
   },
   {
     "id": 73,
@@ -2994,10 +2994,6 @@
       80,
       120,
       100
-    ],
-    "type": [
-      "water",
-      "poison"
     ],
     "language_id": [
       1,
@@ -3022,7 +3018,11 @@
       "触手は 普段 短くて\n獲物を 刺すときに\n長く 伸びて 絡みつくのだ。",
       "Cuando caza, extiende los cortos tentáculos que tiene\npara atrapar e inmovilizar a su presa."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      4
+    ]
   },
   {
     "id": 74,
@@ -3036,10 +3036,6 @@
       30,
       30,
       20
-    ],
-    "type": [
-      "rock",
-      "ground"
     ],
     "language_id": [
       1,
@@ -3064,7 +3060,11 @@
       "草原や 山に 生息する。\n石ころに 似ていて 気がつかず\n踏んだり つまずいたりしてしまう。",
       "Aparecen en llanos y montañas. Como parecen rocas,\nla gente se tropieza con ellos o los pisa."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      5
+    ]
   },
   {
     "id": 75,
@@ -3078,10 +3078,6 @@
       45,
       45,
       35
-    ],
-    "type": [
-      "rock",
-      "ground"
     ],
     "language_id": [
       1,
@@ -3106,7 +3102,11 @@
       "山から 転がり 落ちるとき\n体の あちこちが 取れても\n気にしない 豪快な 性格。",
       "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      5
+    ]
   },
   {
     "id": 76,
@@ -3120,10 +3120,6 @@
       55,
       65,
       45
-    ],
-    "type": [
-      "rock",
-      "ground"
     ],
     "language_id": [
       1,
@@ -3148,7 +3144,11 @@
       "山頂から ふもとまで 続く 溝は\nゴローニャが 転がり落ちる\n通り道なので 要注意。",
       "Se lanza montaña abajo y deja un surco desde la cima\nhasta el pie. Es mejor mantenerse alejado."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      5
+    ]
   },
   {
     "id": 77,
@@ -3162,9 +3162,6 @@
       65,
       65,
       90
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -3189,7 +3186,10 @@
       "生まれたばかりでは 立つのがやっと。\nだが 走るほどに 足腰は\n鍛えられて 速度が 増していく。",
       "Cuando nace, apenas puede tenerse en pie. Pero va\nfortaleciendo las patas en cuanto empieza a galopar."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 78,
@@ -3203,9 +3203,6 @@
       80,
       80,
       105
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -3230,7 +3227,10 @@
       "速く 動く 物体を 見ると\n競争したくなり 猛烈な\nスピードで 追いかけはじめる。",
       "Muy competitivo, este Pokémon perseguirá a todo lo\nque se mueva rápido e intentará salir airoso."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 79,
@@ -3244,10 +3244,6 @@
       40,
       40,
       15
-    ],
-    "type": [
-      "water",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -3272,7 +3268,11 @@
       "いつも ボーッとしていて なにを\n考えているか わからない。\n尻尾で エサを 釣るのが 得意。",
       "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      14
+    ]
   },
   {
     "id": 80,
@@ -3286,10 +3286,6 @@
       100,
       80,
       30
-    ],
-    "type": [
-      "water",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -3314,7 +3310,11 @@
       "くっついている シェルダーは\n尻尾から にじみ出る うま味が\n欲しくて ずっと 離れない。",
       "Tiene una cola tan apetecible, que el Shellder que va\nenganchado a ella no se soltará por nada del mundo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      14
+    ]
   },
   {
     "id": 81,
@@ -3328,10 +3328,6 @@
       95,
       55,
       45
-    ],
-    "type": [
-      "electric",
-      "steel"
     ],
     "language_id": [
       1,
@@ -3356,7 +3352,11 @@
       "左右の ユニットから\n重力を さえぎる 力を\n出すので 空中に 浮かべる。",
       "Las unidades a los lados de su cuerpo generan\nenergía antigravitatoria para mantenerlo en el aire."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13,
+      9
+    ]
   },
   {
     "id": 82,
@@ -3370,10 +3370,6 @@
       120,
       70,
       70
-    ],
-    "type": [
-      "electric",
-      "steel"
     ],
     "language_id": [
       1,
@@ -3398,7 +3394,11 @@
       "複数の コイルが 連結して\n強力な 磁力線と\n高電圧を 放射する。",
       "Lo constituye un grupo de Magnemite. Descarga\npotentes ondas magnéticas de alto voltaje."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13,
+      9
+    ]
   },
   {
     "id": 83,
@@ -3412,10 +3412,6 @@
       58,
       62,
       60
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -3440,7 +3436,11 @@
       "持っている 茎は 大切な\n武器でもあり 刀を 振るように\nいろんな ものを 切ることができる。",
       "El puerro que lleva es su mejor arma. Suele usarlo\ncomo espada para cortar cosas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 84,
@@ -3454,10 +3454,6 @@
       35,
       35,
       75
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -3482,7 +3478,11 @@
       "突然変異で 見つかった\n２つの 頭を 持つ ポケモン。\n時速１００キロで 走る。",
       "Este Pokémon de dos cabezas es el resultado de una\nmutación. Cuando corre, puede alcanzar casi 100 km\npor hora."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 85,
@@ -3496,10 +3496,6 @@
       60,
       60,
       110
-    ],
-    "type": [
-      "normal",
-      "flying"
     ],
     "language_id": [
       1,
@@ -3524,7 +3520,11 @@
       "３つの 頭が 見ている前で\nわずかでも すきを 見せると\nクチバシで 激しく つつかれる。",
       "Más vale no perder de vista ninguna de las tres\ncabezas. De lo contrario, el número de picotazos\nserá enorme."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1,
+      3
+    ]
   },
   {
     "id": 86,
@@ -3538,9 +3538,6 @@
       45,
       70,
       45
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -3565,7 +3562,10 @@
       "氷山で 暮らす ポケモン。\n頭の とがった でっぱりで\n氷を 割って 海を 泳ぐ。",
       "Este Pokémon vive en icebergs. Nada en el mar y usa\nel cuerno de su cabeza para romper el hielo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 87,
@@ -3579,10 +3579,6 @@
       70,
       95,
       70
-    ],
-    "type": [
-      "water",
-      "ice"
     ],
     "language_id": [
       1,
@@ -3607,7 +3603,11 @@
       "全身が 真っ白な 毛で\n覆われている。寒さに 強く\nむしろ 寒いほど 元気になる。",
       "Está recubierto de un luminoso pelaje blanco. Este\nPokémon aumenta su actividad cuando bajan las\ntemperaturas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      15
+    ]
   },
   {
     "id": 88,
@@ -3621,9 +3621,6 @@
       40,
       50,
       25
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -3648,7 +3645,10 @@
       "月からの エックス線を 浴びた\nヘドロが ベトベターに 変化した。\n汚いものが 大好物。",
       "Nace de lodo alterado al filtrarse en el agua los\nrayos X reflejados por la Luna. Se alimenta de\nsustancias desagradables."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 89,
@@ -3662,9 +3662,6 @@
       65,
       100,
       50
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -3689,7 +3686,10 @@
       "ヘドロが たまる くさい 場所を\n好んで 集まってくるので\nあたりは いっそう くさくなる。",
       "Les encanta reunirse en zonas apestosas donde se\nacumula el lodo, haciendo su olor más insoportable."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 90,
@@ -3703,9 +3703,6 @@
       45,
       25,
       40
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -3730,7 +3727,10 @@
       "硬い 殻は どんな 攻撃も\n跳ね返す。開いたときに\n中を 攻撃されると 弱い。",
       "La concha lo protege de cualquier tipo de ataque.\nSolo es vulnerable cuando se abre."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 91,
@@ -3744,10 +3744,6 @@
       85,
       45,
       70
-    ],
-    "type": [
-      "water",
-      "ice"
     ],
     "language_id": [
       1,
@@ -3772,7 +3768,11 @@
       "潮の 流れが 激しい 海に\n生息している パルシェンの\n殻の トゲは 大きく 鋭い。",
       "A los Cloyster que viven en las fuertes corrientes\nmarinas les crecen largas y afiladas púas en la concha."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      15
+    ]
   },
   {
     "id": 92,
@@ -3786,10 +3786,6 @@
       100,
       35,
       80
-    ],
-    "type": [
-      "ghost",
-      "poison"
     ],
     "language_id": [
       1,
@@ -3814,7 +3810,11 @@
       "ガスでできた 薄い 体は\nどんな 大きさの 相手も\n包みこみ 息の根を 止める。",
       "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      8,
+      4
+    ]
   },
   {
     "id": 93,
@@ -3828,10 +3828,6 @@
       115,
       55,
       95
-    ],
-    "type": [
-      "ghost",
-      "poison"
     ],
     "language_id": [
       1,
@@ -3856,7 +3852,11 @@
       "暗闇で だれもいないのに\n見られているような 気がしたら\nそこに ゴーストが いるのだ。",
       "Cuando tienes la sensación de que te están\nobservando, seguro que es porque Haunter está\ncerca."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      8,
+      4
+    ]
   },
   {
     "id": 94,
@@ -3870,10 +3870,6 @@
       130,
       75,
       110
-    ],
-    "type": [
-      "ghost",
-      "poison"
     ],
     "language_id": [
       1,
@@ -3898,7 +3894,11 @@
       "物陰に 姿を 隠す。\nゲンガーの 潜んでいる 部屋は\n温度が ５度 下がるといわれる。",
       "Se esconde entre las sombras. Se dice que donde\nGengar acecha, la temperatura baja 5 °C."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      8,
+      4
+    ]
   },
   {
     "id": 95,
@@ -3912,10 +3912,6 @@
       30,
       45,
       70
-    ],
-    "type": [
-      "rock",
-      "ground"
     ],
     "language_id": [
       1,
@@ -3940,7 +3936,11 @@
       "地中を ものすごい 勢いで\n掘りすすみ エサを 探す。通った\n跡は ディグダの 住処になる。",
       "Cava a gran velocidad en busca de comida. Los\ntúneles que deja son usados por los Diglett."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      5
+    ]
   },
   {
     "id": 96,
@@ -3954,9 +3954,6 @@
       43,
       90,
       42
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -3981,7 +3978,10 @@
       "眠らせては 夢を 食べるが\n悪い 夢ばかり 食べてると\nお腹を 壊すことが あるらしい。",
       "Adormece a sus enemigos y se come sus sueños.\nA veces se pone enfermo si come pesadillas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 97,
@@ -3995,9 +3995,6 @@
       73,
       115,
       67
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -4022,7 +4019,10 @@
       "振り子のようなものを 持ち歩く。\n子供に 催眠術を かけて\nどこかへ 連れ去る 事件があった。",
       "Lleva un péndulo en la mano. Una vez, hizo\ndesaparecer a un niño al que había hipnotizado."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 98,
@@ -4036,9 +4036,6 @@
       25,
       25,
       50
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4063,7 +4060,10 @@
       "危険が 迫ると 口から 吐き出す\n泡で 全身を 包んで\n体を 大きく みせようとする。",
       "Ante el peligro, se camufla con las burbujas que\ndesprende su boca, para parecer más grande."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 99,
@@ -4077,9 +4077,6 @@
       50,
       50,
       75
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4104,7 +4101,10 @@
       "硬い ハサミは １万馬力の\nパワーを 持っているが\n大きすぎて 動きが 鈍い。",
       "La pinza tan grande que tiene posee una fuerza de\n10 000 caballos de potencia. Pero, por su gran\ntamaño, cuesta moverla."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 100,
@@ -4118,9 +4118,6 @@
       55,
       55,
       100
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -4145,7 +4142,10 @@
       "モンスターボールが 売り出されたのと\n同じ 時期に 発見された。\nなにか 関係があると いわれる。",
       "Fue descubierto cuando se crearon las Poké Balls.\nSe dice que tiene algo que ver con ellas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 101,
@@ -4159,9 +4159,6 @@
       80,
       80,
       150
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -4186,7 +4183,10 @@
       "少しの 刺激に 反応して\n爆発する。バクダンボールという\nあだ名で 怖がられている。",
       "Explotan a la mínima. Por eso se les tiene mucho\nmiedo. Estos Pokémon reciben el mote de Bomba Ball."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 102,
@@ -4200,10 +4200,6 @@
       60,
       45,
       40
-    ],
-    "type": [
-      "grass",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -4228,7 +4224,11 @@
       "テレパシーで 会話をしているため\nタマタマを 引き離そうとしても\nすぐに 集まって ６匹になる。",
       "Estos seis huevos se comunican por telepatía. Si se\nseparan, se pueden reunir rápidamente."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      14
+    ]
   },
   {
     "id": 103,
@@ -4242,10 +4242,6 @@
       125,
       75,
       55
-    ],
-    "type": [
-      "grass",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -4270,7 +4266,11 @@
       "３つの 頭は 考えることは\n別々でも 仲良しなので\nケンカしたり しないらしい。",
       "Sus tres cabezas piensan de forma independiente.\nSin embargo, son amigas y no suelen discutir nunca."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12,
+      14
+    ]
   },
   {
     "id": 104,
@@ -4284,9 +4284,6 @@
       40,
       50,
       35
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -4311,7 +4308,10 @@
       "死に別れた 母親の 骨を\n頭に 覆っている。寂しいとき\n大声で 泣くという。",
       "Lleva puesto el cráneo de su madre. Cuando se siente\nsolo se pone a gritar muy fuerte."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 105,
@@ -4325,9 +4325,6 @@
       50,
       80,
       45
-    ],
-    "type": [
-      "ground"
     ],
     "language_id": [
       1,
@@ -4352,7 +4349,10 @@
       "体も 小さく もともと 弱かった。\n骨を 使うようになり\n性格が 凶暴化した。",
       "Es pequeño y siempre ha sido muy débil. Cuando\nempezó a usar huesos, se volvió más violento."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5
+    ]
   },
   {
     "id": 106,
@@ -4366,9 +4366,6 @@
       35,
       110,
       87
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -4393,7 +4390,10 @@
       "脚が 自由に 伸び縮みして\n遠く 離れている 場合でも\n相手を 蹴り上げることができる。",
       "Encoge y estira las patas a su antojo. Cuando las\nestira, es capaz de propinar una buena patada al\nenemigo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 107,
@@ -4407,9 +4407,6 @@
       35,
       110,
       76
-    ],
-    "type": [
-      "fighting"
     ],
     "language_id": [
       1,
@@ -4434,7 +4431,10 @@
       "腕を ねじりながら 繰り出す\nパンチは コンクリートも 粉砕。\n３分 戦うと ひとやすみする。",
       "Los potentes golpes de sus brazos pueden pulverizar\nel hormigón. Descansa tras luchar tres minutos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      2
+    ]
   },
   {
     "id": 108,
@@ -4448,9 +4448,6 @@
       60,
       75,
       30
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -4475,7 +4472,10 @@
       "長い 舌は ねばねばした\nだえきで べっとり。どんなものでも\nくっついて とても 便利。",
       "Su larga lengua, recubierta de saliva pegajosa, se\npega a todo, por lo que es muy útil."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 109,
@@ -4489,9 +4489,6 @@
       60,
       45,
       35
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -4516,7 +4513,10 @@
       "薄い バルーン状の 体に\n猛毒の ガスが つまっている。\n近くに 来ると くさい。",
       "Tiene forma de globo y es muy ligero. Está compuesto\npor gases tóxicos y apesta."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 110,
@@ -4530,9 +4530,6 @@
       85,
       70,
       60
-    ],
-    "type": [
-      "poison"
     ],
     "language_id": [
       1,
@@ -4557,7 +4554,10 @@
       "どちらかが ふくらむと 片方は\nしぼむ 双子の ドガース。いつも\n体内の 毒ガスを 混ぜている。",
       "Si uno de los gemelos Koffing se infla, el otro se\ndesinfla. Mezclan constantemente sus venenosos\ngases."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      4
+    ]
   },
   {
     "id": 111,
@@ -4571,10 +4571,6 @@
       30,
       30,
       25
-    ],
-    "type": [
-      "ground",
-      "rock"
     ],
     "language_id": [
       1,
@@ -4599,7 +4595,11 @@
       "頭は 悪いが 力が 強く\n高層ビルも 体当たりで\nコナゴナに 粉砕する。",
       "Es muy fuerte, pero no especialmente listo. Es capaz\nde derribar rascacielos usando Placaje varias veces."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5,
+      6
+    ]
   },
   {
     "id": 112,
@@ -4613,10 +4613,6 @@
       45,
       45,
       40
-    ],
-    "type": [
-      "ground",
-      "rock"
     ],
     "language_id": [
       1,
@@ -4641,7 +4637,11 @@
       "全身を よろいのような 皮膚で\n守っている。２０００度の\nマグマの 中でも 生きられる。",
       "La piel le sirve de escudo protector. Puede vivir en\nlava líquida a 2000 °C de temperatura."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      5,
+      6
+    ]
   },
   {
     "id": 113,
@@ -4655,9 +4655,6 @@
       35,
       105,
       50
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -4682,7 +4679,10 @@
       "幸せを 運ぶと いわれている。\n傷ついた 人に タマゴを\n分けてあげる 優しい ポケモン。",
       "Se dice que reparte felicidad. Se caracteriza por su\ncompasión y reparte sus huevos entre la gente herida."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 114,
@@ -4696,9 +4696,6 @@
       100,
       40,
       60
-    ],
-    "type": [
-      "grass"
     ],
     "language_id": [
       1,
@@ -4723,7 +4720,10 @@
       "たくさんの うごめく ツルに\n覆われて 正体不明。\n青いツルは 一生 伸びる。",
       "Se camufla con la multitud de lianas que envuelven su\ncuerpo y que no dejan de crecer a lo largo de toda su\nvida."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      12
+    ]
   },
   {
     "id": 115,
@@ -4737,9 +4737,6 @@
       40,
       80,
       90
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -4764,7 +4761,10 @@
       "お腹の 袋で 子育てをする。\n安全な ときだけ 子供を\n袋から 出して 遊ばせる。",
       "Lleva a su cría en la bolsa de su panza. Solo deja que\nsu cría salga a jugar cuando no siente peligro."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 116,
@@ -4778,9 +4778,6 @@
       70,
       25,
       60
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4805,7 +4802,10 @@
       "水面から 勢いよく 墨を 発射して\n飛んでいる 虫を\n撃ち落とすことがあるという。",
       "Es famoso por derribar a bichos voladores lanzando\ntinta desde la superficie del agua."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 117,
@@ -4819,9 +4819,6 @@
       95,
       45,
       85
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4846,7 +4843,10 @@
       "うかつに 触ろうとすると\n体中に 生える トゲに 刺されて\n気絶することもある。",
       "Las afiladas púas que le recubren el cuerpo se le\nerizan y pueden causar el debilitamiento con solo\ntocarlo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 118,
@@ -4860,9 +4860,6 @@
       35,
       50,
       63
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4887,7 +4884,10 @@
       "５ノットの スピードで 泳ぐ。\n身の 危険を 感じると\n鋭い ツノで 反撃する。",
       "Nada a una velocidad de cinco nudos. Si siente\npeligro, golpea con su afilado cuerno."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 119,
@@ -4901,9 +4901,6 @@
       65,
       80,
       68
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4928,7 +4925,10 @@
       "秋が くると 産卵のために\n流れに 逆らって 力強く\n川を 泳ぐ 姿が みられる。",
       "En otoño, cuando se reproducen, se les puede ver\nnadando con energía por ríos y arroyos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 120,
@@ -4942,9 +4942,6 @@
       70,
       55,
       85
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -4969,7 +4966,10 @@
       "体の 中心で 光る\nコアが ある限り\n体が ちぎれても 再生できる。",
       "Aunque sus brazos se rompan podrán regenerarse,\nsiempre y cuando su núcleo siga intacto."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 121,
@@ -4983,10 +4983,6 @@
       100,
       85,
       115
-    ],
-    "type": [
-      "water",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -5011,7 +5007,11 @@
       "真ん中の コアと呼ばれる 部分は\n七色に 輝く。これを\n宝石にする 人も いるという。",
       "Su núcleo central brilla con los colores del arcoíris.\nPara algunos tiene el valor de una gema."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      14
+    ]
   },
   {
     "id": 122,
@@ -5025,10 +5025,6 @@
       100,
       120,
       90
-    ],
-    "type": [
-      "psychic",
-      "fairy"
     ],
     "language_id": [
       1,
@@ -5053,7 +5049,11 @@
       "指先から 出す 波動が\n空気を 固めて 壁を 作る。\n激しい 攻撃も 跳ね返す。",
       "Para repeler ataques, solidifica el aire y crea muros\ninvisibles con emanaciones de sus dedos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14,
+      18
+    ]
   },
   {
     "id": 123,
@@ -5067,10 +5067,6 @@
       55,
       80,
       105
-    ],
-    "type": [
-      "bug",
-      "flying"
     ],
     "language_id": [
       1,
@@ -5095,7 +5091,11 @@
       "鋭い カマで 獲物を 切り裂き\n息の根を 止める。ごくまれに\n羽を 使って 飛ぶ。",
       "Destroza a su presa con las guadañas que tiene.\nNo es común que use las alas para volar."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7,
+      3
+    ]
   },
   {
     "id": 124,
@@ -5109,10 +5109,6 @@
       115,
       95,
       95
-    ],
-    "type": [
-      "ice",
-      "psychic"
     ],
     "language_id": [
       1,
@@ -5137,7 +5133,11 @@
       "腰を 振るように 歩いている。\n油断をすると 思わず 釣られて\n踊ってしまうという。",
       "Camina moviendo las caderas de forma llamativa.\nPuede hacer que la gente baile a su ritmo."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      15,
+      14
+    ]
   },
   {
     "id": 125,
@@ -5151,9 +5151,6 @@
       95,
       85,
       105
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -5178,7 +5175,10 @@
       "体の 表面には 電気が\n流れている。あたりが 暗いと\n全身が 青白く 光るのだ。",
       "Por la superficie de su piel corre la electricidad. En la\noscuridad, su cuerpo se torna blanquecino."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 126,
@@ -5192,9 +5192,6 @@
       100,
       85,
       93
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -5219,7 +5216,10 @@
       "火山の 火口近くで 見つかった。\n口から 炎を 吐く。\n体温は １２００度もある。",
       "A este Pokémon se lo encontraron cerca de un volcán.\nEsta criatura ígnea tiene una temperatura corporal de\nunos 1200 °C."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 127,
@@ -5233,9 +5233,6 @@
       55,
       70,
       85
-    ],
-    "type": [
-      "bug"
     ],
     "language_id": [
       1,
@@ -5260,7 +5257,10 @@
       "２本の ツノで 獲物を 挟んで\nちぎれるまで 放さない。ちぎれない\nときは かなたまで 投げ飛ばすのだ。",
       "Atrapa presas con sus pinzas hasta que las parte en\ndos. Lanza lejos lo que no puede quebrar."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      7
+    ]
   },
   {
     "id": 128,
@@ -5274,9 +5274,6 @@
       40,
       70,
       110
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -5301,7 +5298,10 @@
       "３本の 尻尾で 自分を たたき\n戦う 気持ちを 高めると\n全速力で 突っこんでくる。",
       "Después de animarse a luchar fustigándose con sus\ntres colas, carga a toda velocidad."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 129,
@@ -5315,9 +5315,6 @@
       15,
       20,
       80
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -5342,7 +5339,10 @@
       "力も スピードも ほとんど ダメ。\n世界で 一番 弱くて\n情けない ポケモンだ。",
       "No es precisamente rápido ni fuerte. Es el Pokémon\nmás debilucho y simplón de todos los que hay."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 130,
@@ -5356,10 +5356,6 @@
       60,
       100,
       81
-    ],
-    "type": [
-      "water",
-      "flying"
     ],
     "language_id": [
       1,
@@ -5384,7 +5380,11 @@
       "争いの 起こった 村を\n焼きつくしたという 記録が\n古文書に 残されている。",
       "En la literatura antigua se dice que un Gyarados\nrebosante de violencia arrasó un poblado."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      3
+    ]
   },
   {
     "id": 131,
@@ -5398,10 +5398,6 @@
       85,
       95,
       60
-    ],
-    "type": [
-      "water",
-      "ice"
     ],
     "language_id": [
       1,
@@ -5426,7 +5422,11 @@
       "優しい 心の 持ち主。\nめったに 争わないため たくさん\n捕まえられ 数が 減った。",
       "Son buenos de corazón. Muchos fueron capturados\npor ser tan pacíficos. Ahora hay muchos menos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11,
+      15
+    ]
   },
   {
     "id": 132,
@@ -5440,9 +5440,6 @@
       48,
       48,
       48
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -5467,7 +5464,10 @@
       "全身の 細胞を 組み替えて\n見たものの 形 そっくりに\n変身する 能力を 持つ。",
       "Puede alterar por completo su estructura celular para\nemular cualquier objeto que vea."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 133,
@@ -5481,9 +5481,6 @@
       45,
       65,
       55
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -5508,7 +5505,10 @@
       "進化のとき 姿と 能力が\n変わることで きびしい 環境に\n対応する 珍しい ポケモン。",
       "Un extraño Pokémon que se adapta a los entornos\nmás hostiles gracias a sus diferentes evoluciones."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 134,
@@ -5522,9 +5522,6 @@
       110,
       95,
       65
-    ],
-    "type": [
-      "water"
     ],
     "language_id": [
       1,
@@ -5549,7 +5546,10 @@
       "きれいな 水辺を 好んでいる。\n細胞が 水の 分子に 似ており\n水に 溶けることもできる。",
       "Prefiere las bellas costas. Con células parecidas al\nagua, podría fundirse en la misma."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      11
+    ]
   },
   {
     "id": 135,
@@ -5563,9 +5563,6 @@
       110,
       95,
       130
-    ],
-    "type": [
-      "electric"
     ],
     "language_id": [
       1,
@@ -5590,7 +5587,10 @@
       "体内に 電気が たまると\n全身の 体毛が 全部\n鋭く とがりはじめる。",
       "Todos los pelos de su cuerpo se ponen de punta si\nempieza a cargarse de electricidad."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13
+    ]
   },
   {
     "id": 136,
@@ -5604,9 +5604,6 @@
       95,
       110,
       65
-    ],
-    "type": [
-      "fire"
     ],
     "language_id": [
       1,
@@ -5631,7 +5628,10 @@
       "体内に 炎袋を 持つ。\n戦いが はじまる 直前には\n体温が ９００度まで 上がる。",
       "Almacena llamas en su cuerpo, que alcanza una\ntemperatura de 900 °C antes de un combate."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10
+    ]
   },
   {
     "id": 137,
@@ -5645,9 +5645,6 @@
       85,
       75,
       40
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -5672,7 +5669,10 @@
       "研究の末 生み出された\n人工の ポケモン。基本的な\n動作しか プログラムされていない。",
       "Pokémon creado por el hombre tras muchas\ninvestigaciones. Sus habilidades son básicas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 138,
@@ -5686,10 +5686,6 @@
       90,
       55,
       35
-    ],
-    "type": [
-      "rock",
-      "water"
     ],
     "language_id": [
       1,
@@ -5714,7 +5710,11 @@
       "大昔 海に 住んでいた\n古代ポケモン。１０本の 脚を\nくねらせて 泳ぐ。",
       "Pokémon prehistórico que vivió en el océano\nprimordial. Para nadar se valía de sus 10 tentáculos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      11
+    ]
   },
   {
     "id": 139,
@@ -5728,10 +5728,6 @@
       115,
       70,
       55
-    ],
-    "type": [
-      "rock",
-      "water"
     ],
     "language_id": [
       1,
@@ -5756,7 +5752,11 @@
       "触手が 手足のように\n発達している。しがみつくと\n同時に かみついてくる。",
       "Tiene los tentáculos tan desarrollados que le sirven de\nmanos y pies. Con ellos atrapa a su presa y le da un\nbocado."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      11
+    ]
   },
   {
     "id": 140,
@@ -5770,10 +5770,6 @@
       55,
       45,
       55
-    ],
-    "type": [
-      "rock",
-      "water"
     ],
     "language_id": [
       1,
@@ -5798,7 +5794,11 @@
       "３億年前の 砂浜で\n暮らしていたと 考えられている。\n硬い 殻が 身を 守る。",
       "Se cree que habitó las playas hace 300 millones de\naños. Se protege con una dura concha."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      11
+    ]
   },
   {
     "id": 141,
@@ -5812,10 +5812,6 @@
       65,
       70,
       80
-    ],
-    "type": [
-      "rock",
-      "water"
     ],
     "language_id": [
       1,
@@ -5840,7 +5836,11 @@
       "水中を 移動するとき\n手足を 小さく 折りたたみ\n甲羅を くねらせ 速く 泳ぐ。",
       "Repliega sus extremidades en el agua para hacerse\nmás compacto, y mueve su concha para nadar rápido."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      11
+    ]
   },
   {
     "id": 142,
@@ -5854,10 +5854,6 @@
       60,
       75,
       130
-    ],
-    "type": [
-      "rock",
-      "flying"
     ],
     "language_id": [
       1,
@@ -5882,7 +5878,11 @@
       "こはくに 残された 恐竜の\n遺伝子から 復活させた。\n高い 声で 鳴きながら 飛ぶ。",
       "Se regeneró a partir de material genético de un\ndinosaurio encontrado en ámbar. Cuando vuela emite\nescandalosos alaridos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      6,
+      3
+    ]
   },
   {
     "id": 143,
@@ -5896,9 +5896,6 @@
       65,
       110,
       30
-    ],
-    "type": [
-      "normal"
     ],
     "language_id": [
       1,
@@ -5923,7 +5920,10 @@
       "１日に 食べ物を ４００キロ\n食べないと 気がすまない。\n食べ終わると 眠ってしまう。",
       "No se encuentra satisfecho hasta que no se come\n400 kg de comida cada día. Cuando acaba de comer,\nse queda dormido."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      1
+    ]
   },
   {
     "id": 144,
@@ -5937,10 +5937,6 @@
       95,
       125,
       85
-    ],
-    "type": [
-      "ice",
-      "flying"
     ],
     "language_id": [
       1,
@@ -5965,7 +5961,11 @@
       "伝説の とりポケモン。\n空気中の 水分を 凍らせ\n吹雪を 作り出すことが できる。",
       "Legendario Pokémon pájaro capaz de generar\nventiscas congelando la humedad del aire."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      15,
+      3
+    ]
   },
   {
     "id": 145,
@@ -5979,10 +5979,6 @@
       125,
       90,
       100
-    ],
-    "type": [
-      "electric",
-      "flying"
     ],
     "language_id": [
       1,
@@ -6007,7 +6003,11 @@
       "雲の 上から 巨大な 稲妻を\n落としながら 現れる\n伝説の とりポケモンである。",
       "Es un legendario pájaro Pokémon. Dicen que aparece\nentre las nubes lanzando enormes rayos brillantes."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      13,
+      3
+    ]
   },
   {
     "id": 146,
@@ -6021,10 +6021,6 @@
       125,
       85,
       90
-    ],
-    "type": [
-      "fire",
-      "flying"
     ],
     "language_id": [
       1,
@@ -6049,7 +6045,11 @@
       "昔から 火の鳥伝説として\n知られる。羽ばたくたびに 羽が\n明るく 燃え上がり 美しい。",
       "Es más conocido como el legendario pájaro de fuego.\nCon cada aleteo crea brillantes llamas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      10,
+      3
+    ]
   },
   {
     "id": 147,
@@ -6063,9 +6063,6 @@
       50,
       50,
       50
-    ],
-    "type": [
-      "dragon"
     ],
     "language_id": [
       1,
@@ -6090,7 +6087,10 @@
       "目撃者が 少ないために\n幻のポケモンと 呼ばれていた。\n脱皮した 皮が 見つかっている。",
       "Se le llama el Pokémon Espejismo porque son muy\npocos los que lo han visto. Se encontró su muda."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      16
+    ]
   },
   {
     "id": 148,
@@ -6104,9 +6104,6 @@
       70,
       70,
       70
-    ],
-    "type": [
-      "dragon"
     ],
     "language_id": [
       1,
@@ -6131,7 +6128,10 @@
       "水晶のような 玉には\n天候を 自由に 操る\n能力が 秘められているらしい。",
       "Sus cristalinos orbes parecen darle al Pokémon el\npoder de controlar el clima libremente."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      16
+    ]
   },
   {
     "id": 149,
@@ -6145,10 +6145,6 @@
       100,
       100,
       80
-    ],
-    "type": [
-      "dragon",
-      "flying"
     ],
     "language_id": [
       1,
@@ -6173,7 +6169,11 @@
       "大きな 体格で 空を 飛ぶ。\n地球を 約１６時間で\n１周してしまう。",
       "A pesar del tamaño que tiene y de lo pesado que es,\npuede volar. Es capaz de dar la vuelta al mundo en\nsolo 16 horas."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      16,
+      3
+    ]
   },
   {
     "id": 150,
@@ -6187,9 +6187,6 @@
       154,
       90,
       130
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -6214,7 +6211,10 @@
       "１人の 科学者が 何年も\n恐ろしい 遺伝子 研究を\n続けた 結果 誕生した。",
       "Fue creado por un científico tras años de horribles\nexperimentos de ingeniería genética."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   },
   {
     "id": 151,
@@ -6228,9 +6228,6 @@
       100,
       100,
       100
-    ],
-    "type": [
-      "psychic"
     ],
     "language_id": [
       1,
@@ -6255,6 +6252,9 @@
       "あらゆる 技を 使うため\nポケモンの 先祖と 考える\n学者が たくさん いる。",
       "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos."
     ],
-    "captured": false
+    "captured": false,
+    "pokemon_type": [
+      14
+    ]
   }
 ]
