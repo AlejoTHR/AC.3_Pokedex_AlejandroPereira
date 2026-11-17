@@ -84,14 +84,13 @@ suspend fun saveWasCaptured(
         preferences -> preferences[SHOW_WAS_CAPTURED] = show_captured
     }
 }
-
 fun readWasCaptured(context: Context): Flow<Boolean> {
     return context.dataStore.data.map { preferences -> preferences[SHOW_WAS_CAPTURED] ?:  false
     }
 }
 
 
-var pokemonShowDescription by mutableStateOf(Pokemon(1,"Bulbasour",10,10,arrayListOf(12,12,12,12,12,12),arrayListOf("Plant","Poison"),arrayListOf(1,3,5,7,9,11,13,15), arrayListOf("ssss","aaaa","dddd","fffff","tttttt","kkkkkk"),"p001",false))
+var pokemonShowDescription by mutableStateOf(Pokemon(1,"Bulbasour",10,10,arrayListOf(12,12,12,12,12,12),arrayListOf("plant","poison"),arrayListOf(1,3,5,7,9,11,13,15), arrayListOf("ssss","aaaa","dddd","fffff","tttttt","kkkkkk"),"p001",false))
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -160,9 +159,9 @@ fun getPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
 @Composable
-fun PokeballImg(pokemonCaptured: Pokemon, wasCaptured: Boolean){
+fun PokeballImg(pokemonCaptured: Pokemon){
 
-    if(wasCaptured == false){
+    if(pokemonCaptured.captured == false){
         Image(
             painter = painterResource(R.drawable.pokeballempty),
             contentDescription = "NotCaptures",
@@ -177,6 +176,17 @@ fun PokeballImg(pokemonCaptured: Pokemon, wasCaptured: Boolean){
         )
     }
 }
+@Composable
+fun getPokemonImg(context: Context, pokemonImg: Pokemon) : Int{
+    val text = context.resources.getIdentifier(pokemonImg.image_id,"drawable",context.packageName)
+    return text
+}
+@Composable
+fun getPokemonTypeImg(context: Context, pokemonType: String) : Int{
+    val text = context.resources.getIdentifier(pokemonType,"drawable",context.packageName)
+    return text
+}
+
 @Composable
 fun CreateHeader(){
     Box(modifier = Modifier
@@ -201,7 +211,7 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
     input.close()
 
     // READ PREFERENCE
-    val WasCaptured by readWasCaptured(context).collectAsState(initial = false)
+    val WasCapturedReadfromDataStored by readWasCaptured(context).collectAsState(initial = false)
 
     Column() {
         CreateHeader()
@@ -211,8 +221,9 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
                 CreateButton(PokemonFromList,
                     {
                         pokemonShowDescription = PokemonFromList
+                        pokemonShowDescription.captured = WasCapturedReadfromDataStored
                         onPokemonClick()
-                }, wasCaptured = WasCaptured)
+                })
             }
         }
     }
@@ -220,28 +231,24 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
 
 // CREATE BUTTON INTERIOR
 @Composable
-fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit, wasCaptured : Boolean){
+fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
+    val context = LocalContext.current
+
     Row(Modifier.fillMaxWidth()) {
         Button(onPokemonButtonClick, modifier = Modifier.fillMaxSize()) {
             Row(modifier = Modifier) {
-                Spacer(Modifier.width(5.dp))
                 Box(modifier = Modifier.weight(0.1f), contentAlignment = Alignment.TopStart){
                     Text(
                         text = getPokemonId(pokemon),
                         fontSize = 16.sp
                     )
                 }
-                LazyRow(modifier =  Modifier.padding(0.dp,0.dp,10.dp), horizontalArrangement = Arrangement.SpaceEvenly) {
+                LazyRow(modifier =  Modifier.padding(0.dp,0.dp,5.dp), horizontalArrangement = Arrangement.SpaceEvenly) {
                     items(pokemon.type){ pokeType ->
-                        Box(modifier =  Modifier.padding(10.dp,0.dp,10.dp)){
-                            Text(
-                                text = pokeType,
-                                fontSize = 16.sp
-                            )
-                        }
+                        Image(painter = painterResource(getPokemonTypeImg(context,pokeType)),
+                            contentDescription = "TypeImage")
                     }
                 }
-                Spacer(Modifier.width(5.dp))
                 Box(modifier =  Modifier.padding(0.dp,0.dp,20.dp), contentAlignment = Alignment.TopCenter){
                     Text(
                         text = getPokemonName(pokemon),
@@ -249,24 +256,19 @@ fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit, wasCaptured
                     )
                 }
                 Box(modifier = Modifier.size(20.dp), contentAlignment = Alignment.TopCenter){
-                    PokeballImg(pokemon, wasCaptured)
+                    PokeballImg(pokemon)
                 }
             }
         }
     }
 }
 
-@Composable
-fun getPokemonImg(context: Context, pokemonImg: Pokemon) : Int{
 
-    val text = context.resources.getIdentifier(pokemonImg.image_id,"drawable",context.packageName)
-    return text
-}
 
 // POKEMON SCREEN
 @Composable
 fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Pokemon, context: Context){
-    var language : Int by remember { mutableIntStateOf(0) }
+    //var language : Int by remember { mutableIntStateOf(0) }
     var scope = rememberCoroutineScope()
 
     LazyColumn(modifier = Modifier.fillMaxSize().padding(0.dp,0.dp,10.dp)) {
@@ -311,9 +313,10 @@ fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Po
                 }
             }
         }
-        items(pokemonToShow.type){ pokemonType ->
+        items(pokemonToShow.type){ pokeType ->
             Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.TopCenter){
-                Text(text = pokemonType, fontSize = 24.sp)
+                Image(painter = painterResource(getPokemonTypeImg(context,pokeType)),
+                    contentDescription = "TypeImage")
             }
         }
         item{
