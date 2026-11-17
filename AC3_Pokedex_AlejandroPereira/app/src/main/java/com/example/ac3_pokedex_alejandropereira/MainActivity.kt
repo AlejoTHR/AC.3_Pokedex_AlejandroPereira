@@ -2,11 +2,9 @@ package com.example.ac3_pokedex_alejandropereira
 
 import android.content.Context
 import android.os.Bundle
-import android.widget.ListView
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.annotation.ArrayRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -15,7 +13,6 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -30,18 +27,18 @@ import androidx.compose.material3.Checkbox
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
-import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -55,6 +52,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.ac3_pokedex_alejandropereira.ui.theme.AC3_Pokedex_AlejandroPereiraTheme
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 
@@ -70,7 +68,7 @@ data class Pokemon(
     val language_id : List<Int>,
     val flavor_text: List<String>,
     val image_id : String,
-    val captured : Boolean
+    var captured : Boolean
 )
 
 
@@ -87,7 +85,7 @@ suspend fun saveWasCaptured(
     }
 }
 
-fun ShowWasCaptured(context: Context): Flow<Boolean> {
+fun readWasCaptured(context: Context): Flow<Boolean> {
     return context.dataStore.data.map { preferences -> preferences[SHOW_WAS_CAPTURED] ?:  false
     }
 }
@@ -118,7 +116,7 @@ class MainActivity : ComponentActivity() {
                         composable("details") {
                             PokemonScreen(modifier = Modifier.padding(innerPadding),
                                 {
-                                    navController.navigate("home")
+                                    navController.popBackStack()
                             }, pokemonShowDescription ,LocalContext.current)
                         }
                     }
@@ -162,8 +160,9 @@ fun getPokemonName(pokemon : Pokemon) : String{
     return pokemon.name
 }
 @Composable
-fun PokeballImg(pokemonCaptured: Pokemon){
-    if(pokemonCaptured.captured == false){
+fun PokeballImg(pokemonCaptured: Pokemon, wasCaptured: Boolean){
+
+    if(wasCaptured == false){
         Image(
             painter = painterResource(R.drawable.pokeballempty),
             contentDescription = "NotCaptures",
@@ -195,9 +194,14 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
 
     val context = LocalContext.current
     val input = context.assets.open("PokedexData.json")
+
+
     val texto = input.bufferedReader().use { it.readText() }
     val pokemonGLobalList: List<Pokemon> = Json.decodeFromString(texto)
     input.close()
+
+    // READ PREFERENCE
+    val WasCaptured by readWasCaptured(context).collectAsState(initial = false)
 
     Column() {
         CreateHeader()
@@ -208,7 +212,7 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
                     {
                         pokemonShowDescription = PokemonFromList
                         onPokemonClick()
-                })
+                }, wasCaptured = WasCaptured)
             }
         }
     }
@@ -216,7 +220,7 @@ fun ListScreen(modifier: Modifier, onPokemonClick : () -> Unit) {
 
 // CREATE BUTTON INTERIOR
 @Composable
-fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
+fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit, wasCaptured : Boolean){
     Row(Modifier.fillMaxWidth()) {
         Button(onPokemonButtonClick, modifier = Modifier.fillMaxSize()) {
             Row(modifier = Modifier) {
@@ -245,7 +249,7 @@ fun CreateButton(pokemon : Pokemon, onPokemonButtonClick : ()->Unit){
                     )
                 }
                 Box(modifier = Modifier.size(20.dp), contentAlignment = Alignment.TopCenter){
-                    PokeballImg(pokemon)
+                    PokeballImg(pokemon, wasCaptured)
                 }
             }
         }
@@ -263,6 +267,8 @@ fun getPokemonImg(context: Context, pokemonImg: Pokemon) : Int{
 @Composable
 fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Pokemon, context: Context){
     var language : Int by remember { mutableIntStateOf(0) }
+    var scope = rememberCoroutineScope()
+
     LazyColumn(modifier = Modifier.fillMaxSize().padding(0.dp,0.dp,10.dp)) {
         item {
             Row(modifier = Modifier.fillMaxWidth().background(Color.Gray)) {
@@ -284,10 +290,15 @@ fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Po
             }
         }
         item {
-            Row() {
-                Checkbox(checked = pokemonToShow.captured,
-                    onCheckedChange = {})
-                Text("Captured")
+            Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                    Checkbox(checked = pokemonToShow.captured,
+                        onCheckedChange = { marked ->
+                            scope.launch {
+                                // SAVE PREFERENCE
+                                saveWasCaptured(context, marked)
+                            }
+                        })
+                    Text(text = "Captured", fontSize = 22.sp, modifier = Modifier.fillMaxSize())
             }
         }
         item{
@@ -295,7 +306,7 @@ fun PokemonScreen(modifier: Modifier, onBackClick : ()->Unit, pokemonToShow : Po
                 Box(modifier = Modifier.padding(20.dp,0.dp,50.dp), contentAlignment = Alignment.Center){
                     Text("ID: ${getPokemonId(pokemonToShow)}", fontSize = 24.sp)
                 }
-                Box(modifier = Modifier.padding(0.dp,0.dp,0.dp), contentAlignment = Alignment.Center){
+                Box(modifier = Modifier.fillMaxWidth().padding(0.dp,0.dp,0.dp), contentAlignment = Alignment.Center){
                     Text(getPokemonName(pokemonToShow), fontSize = 24.sp)
                 }
             }
